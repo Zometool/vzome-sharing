@@ -5,11 +5,11 @@ image: https://Zometool.github.io/vzome-sharing/2024/04/03/21-15-36-HyperSteps/H
 layout: design
 ---
 
-  <button is="vzome-viewer-previous" viewer="whatever">Prev</button>
-  <button is="vzome-viewer-next" viewer="whatever">Next</button>
+  <button is="vzome-viewer-previous">Prev</button>
+  <button is="vzome-viewer-next">Next</button>
   
   
-  <vzome-viewer style="width: 100%; height: 60vh" indexed="true" id="whatever"
+  <vzome-viewer style="width: 100%; height: 60vh" indexed="true" 
        src="https://Zometool.github.io/vzome-sharing/2024/04/03/21-15-36-HyperSteps/HyperSteps.vZome" >
     <img  style="width: 100%"
        src="https://Zometool.github.io/vzome-sharing/2024/04/03/21-15-36-HyperSteps/HyperSteps.png" >
