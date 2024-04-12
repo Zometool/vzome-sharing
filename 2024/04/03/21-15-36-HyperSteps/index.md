@@ -5,8 +5,7 @@ image: https://Zometool.github.io/vzome-sharing/2024/04/03/21-15-36-HyperSteps/H
 layout: design
 ---
 
-  <button is="vzome-viewer-previous">Prev</button>
-  <button is="vzome-viewer-next">Next</button>
+<div style='display:flex;'><div style='margin: auto;'><vzome-viewer-previous label='prev step'></vzome-viewer-previous><vzome-viewer-next label='next step'></vzome-viewer-next></div></div>
   
   
   <vzome-viewer style="width: 100%; height: 60vh" indexed="true" 
