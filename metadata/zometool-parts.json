@@ -1,0 +1,176 @@
+{
+  "colors": {
+    "blue":      "#008ec2",
+    "yellow":    "#ffb31a",
+    "red":       "#d91218",
+    "green":     "#00993f",
+    "turquoise": "#00b3a1",
+    "white":     "#f2f2f2",
+    "black":     "#323232",
+    "orange":    "#eb5200",
+    "purple":    "#7d36d3",
+    "gray":      "#858585"
+  },
+
+  "parts": {
+    "PZB-BAL-W": {
+      "orbit": "ball",
+      "color": "white"
+    },
+    "PZB-BAL-BLK": {
+      "orbit": "ball",
+      "color": "black"
+    },
+    "PZB-BAL-GRN": {
+      "orbit": "ball",
+      "color": "green"
+    },
+    "PZB-BAL-BLU": {
+      "orbit": "ball",
+      "color": "blue"
+    },
+    "PZB-BAL-YEL": {
+      "orbit": "ball",
+      "color": "yellow"
+    },
+    "PZB-BAL-ORG": {
+      "orbit": "ball",
+      "color": "orange"
+    },
+    "PZB-BAL-RED": {
+      "orbit": "ball",
+      "color": "red"
+    },
+    
+    "PST-B0-BLU": {
+      "orbit": "blue",
+      "color": "blue",
+      "length": [1,1,1]
+    },
+    "PST-B1-BLU": {
+      "orbit": "blue",
+      "color": "blue",
+      "length": [1,1,1]
+    },
+    "PST-B2-BLU": {
+      "orbit": "blue",
+      "color": "blue",
+      "length": [1,1,1]
+    },
+
+    "PST-Y0-YEL": {
+      "orbit": "yellow",
+      "color": "yellow",
+      "length": [1,1,1]
+    },
+    "PST-Y1-YEL": {
+      "orbit": "yellow",
+      "color": "yellow",
+      "length": [1,1,1]
+    },
+    "PST-Y2-YEL": {
+      "orbit": "yellow",
+      "color": "yellow",
+      "length": [1,1,1]
+    },
+
+    "PST-R00-RED": {
+      "orbit": "red",
+      "color": "red",
+      "length": [1,1,1]
+    },
+    "PST-R0-RED": {
+      "orbit": "red",
+      "color": "red",
+      "length": [1,1,1]
+    },
+    "PST-R1-RED": {
+      "orbit": "red",
+      "color": "red",
+      "length": [1,1,1]
+    },
+    "PST-R2-RED": {
+      "orbit": "red",
+      "color": "red",
+      "length": [1,1,1]
+    },
+
+    "PST-G0-GRN": {
+      "orbit": "green",
+      "color": "green",
+      "length": [1,1,1]
+    },
+    "PST-G1-GRN": {
+      "orbit": "green",
+      "color": "green",
+      "length": [1,1,1]
+    },
+    "PST-G2-GRN": {
+      "orbit": "green",
+      "color": "green",
+      "length": [1,1,1]
+    },
+
+    "PST-HG0-GRN": {
+      "orbit": "green",
+      "color": "green",
+      "length": [1,1,2]
+    },
+    "PST-HG1-GRN": {
+      "orbit": "green",
+      "color": "green",
+      "length": [1,2,2]
+    },
+    "PST-HG2-GRN": {
+      "orbit": "green",
+      "color": "green",
+      "length": [2,3,2]
+    },
+
+    "PST-B0-W": {
+      "orbit": "blue",
+      "color": "white",
+      "length": [1,1,1]
+    },
+    "PST-B1-W": {
+      "orbit": "blue",
+      "color": "white",
+      "length": [1,1,1]
+    },
+    "PST-B1-YEL": {
+      "orbit": "blue",
+      "color": "yellow",
+      "length": [1,1,1]
+    },
+    "PST-B1-RED": {
+      "orbit": "blue",
+      "color": "red",
+      "length": [1,1,1]
+    },
+    "PST-B1-GRN": {
+      "orbit": "blue",
+      "color": "green",
+      "length": [1,1,1]
+    },
+    "PST-B2-YEL": {
+      "orbit": "blue",
+      "color": "yellow",
+      "length": [1,1,1]
+    },
+    "PST-Y0-W": {
+      "orbit": "yellow",
+      "color": "white",
+      "length": [1,1,1]
+    },
+    "PST-R00-W": {
+      "orbit": "red",
+      "color": "white",
+      "length": [1,1,1]
+    },
+    "PST-R1-W": {
+      "orbit": "red",
+      "color": "white",
+      "length": [1,1,1]
+    }
+  }
+}
