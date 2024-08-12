@@ -1,6 +1,7 @@
 {  
   "STM001": {
     "label": "Steam Kit",
+    "url": "/products/the-steam-kit.html",
     "bom": {
       "PZB-BAL-W": 330,
       "PZB-BAL-BLK": 100,
@@ -44,6 +45,7 @@
   },
   "CRTX84": {
     "label": "Creator 3",
+    "url": "/creator-3/",
     "bom": {
       "PZB-BAL-W": 180,
 
