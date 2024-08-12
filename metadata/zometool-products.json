@@ -1,0 +1,63 @@
+{  
+  "STM001": {
+    "label": "Steam Kit",
+    "bom": {
+      "PZB-BAL-W": 330,
+      "PZB-BAL-BLK": 100,
+      "PZB-BAL-GRN": 10,
+      "PZB-BAL-BLU": 12,
+      "PZB-BAL-YEL": 12,
+      "PZB-BAL-ORG": 3,
+      "PZB-BAL-RED": 20,
+
+      "PST-B0-BLU": 180,
+      "PST-B1-BLU": 120,
+      "PST-B2-BLU": 120,
+
+      "PST-Y0-YEL": 200,
+      "PST-Y1-YEL": 80,
+      "PST-Y2-YEL": 80,
+      
+      "PST-R00-RED": 120,
+      "PST-R0-RED": 120,
+      "PST-R1-RED": 60,
+      "PST-R2-RED": 60,
+      
+      "PST-G0-GRN": 48,
+      "PST-G1-GRN": 48,
+      "PST-G2-GRN": 48,
+      
+      "PST-HG0-GRN": 12,
+      "PST-HG1-GRN": 32,
+      "PST-HG2-GRN": 12,
+      
+      "PST-B0-W": 12,
+      "PST-B1-W": 2,
+      "PST-B1-YEL": 3,
+      "PST-B1-RED": 30,
+      "PST-B1-GRN": 3,
+      "PST-B2-YEL": 12,
+      "PST-Y0-W": 10,
+      "PST-R00-W": 32,
+      "PST-R1-W": 5
+    }
+  },
+  "CRTX84": {
+    "label": "Creator 3",
+    "bom": {
+      "PZB-BAL-W": 180,
+
+      "PST-B0-BLU": 90,
+      "PST-B1-BLU": 90,
+      "PST-B2-BLU": 90,
+
+      "PST-Y0-YEL": 60,
+      "PST-Y1-YEL": 60,
+      "PST-Y2-YEL": 60,
+      
+      "PST-R0-RED": 36,
+      "PST-R1-RED": 36,
+      "PST-R2-RED": 36
+    }
+  }
+}
