@@ -1,46 +1,38 @@
 {  
-  "STM001": {
-    "label": "Steam Kit",
-    "url": "/products/the-steam-kit.html",
+  "0A-STE-KIT": {
+    "label": "STEAM",
+    "url": "products/the-steam-kit.html",
     "bom": {
       "PZB-BAL-W": 330,
-      "PZB-BAL-BLK": 100,
-      "PZB-BAL-GRN": 10,
+      "PZB-BAL-B": 100,
+      "PZB-BAL-G": 10,
       "PZB-BAL-BLU": 12,
       "PZB-BAL-YEL": 12,
       "PZB-BAL-ORG": 3,
       "PZB-BAL-RED": 20,
-
       "PST-B0-BLU": 180,
+      "PST-B0-W": 12,
       "PST-B1-BLU": 120,
+      "PST-B1-RED": 30,
+      "PST-B1-W": 2,
       "PST-B2-BLU": 120,
-
+      "PST-B2-YEL": 12,
       "PST-Y0-YEL": 200,
+      "PST-Y0-W": 10,
       "PST-Y1-YEL": 80,
       "PST-Y2-YEL": 80,
-      
       "PST-R00-RED": 120,
+      "PST-R00-W": 32,
       "PST-R0-RED": 120,
-      "PST-R1-RED": 60,
+      "PST-R1-RED": 120,
+      "PST-R1-W": 5,
       "PST-R2-RED": 60,
-      
       "PST-G0-GRN": 48,
       "PST-G1-GRN": 48,
       "PST-G2-GRN": 48,
-      
-      "PST-HG0-GRN": 12,
-      "PST-HG1-GRN": 32,
-      "PST-HG2-GRN": 12,
-      
-      "PST-B0-W": 12,
-      "PST-B1-W": 2,
-      "PST-B1-YEL": 3,
-      "PST-B1-RED": 30,
-      "PST-B1-GRN": 3,
-      "PST-B2-YEL": 12,
-      "PST-Y0-W": 10,
-      "PST-R00-W": 32,
-      "PST-R1-W": 5
+      "PST-HG0-TEA": 12,
+      "PST-HG1-TEA": 32,
+      "PST-HG2-GRN": 12
     }
   },
   "CRTX84": {
@@ -60,6 +52,516 @@
       "PST-R0-RED": 36,
       "PST-R1-RED": 36,
       "PST-R2-RED": 36
+    }
+  },
+  "0B-4DC-PRJ": {
+    "label": "4D Cube",
+    "url": "",
+    "bom": {
+      "PZB-BAL-W": 15,
+      "PST-R0-RED": 28
+    }
+  },
+  "0B-ADE-PRJ": {
+    "label": "Animal Virus",
+    "url": "",
+    "bom": {
+      "PZB-BAL-W": 34,
+      "PZB-BAL-BLU": 12,
+      "PZB-BAL-YEL": 12,
+      "PST-B0-BLU": 2,
+      "PST-B2-BLU": 30,
+      "PST-Y2-YEL": 1,
+      "PST-R00-RED": 32,
+      "PST-R1-RED": 12,
+      "PST-R2-RED": 12
+    }
+  },
+  "0A-BAS-KIT": {
+    "label": "Basic",
+    "url": "products/basic-kit.html",
+    "bom": {
+      "PZB-BAL-W": 30,
+      "PST-B0-BLU": 15,
+      "PST-B1-BLU": 15,
+      "PST-B2-BLU": 15,
+      "PST-Y0-YEL": 10,
+      "PST-Y1-YEL": 10,
+      "PST-Y2-YEL": 10,
+      "PST-R0-RED": 6,
+      "PST-R1-RED": 6,
+      "PST-R2-RED": 6
+    }
+  },
+  "0B-BIO-PRJ": {
+    "label": "Biochemistry",
+    "url": "",
+    "bom": {
+      "PZB-BAL-W": 20,
+      "PZB-BAL-RED": 20,
+      "PZB-BAL-ORG": 3,
+      "PZB-BAL-YEL": 2,
+      "PZB-BAL-BLU": 8,
+      "PZB-BAL-K": 12,
+      "PST-B0-BLU": 30,
+      "PST-Y0-YEL": 30
+    }
+  },
+  "0B-BUK-PRJ": {
+    "label": "Buckyball",
+    "url": "",
+    "bom": {
+      "PZB-BAL-K": 60,
+      "PST-B0-BLU": 90
+    }
+  },
+  "Cha-Cha Cubes": {
+    "label": "CHAIM",
+    "url": "",
+    "bom": {
+      "PZB-BAL-W": 24,
+      "PST-B0-BLU": 12,
+      "PST-B1-BLU": 12,
+      "PST-B2-BLU": 12,
+      "PST-R0-RED": 6,
+      "PST-R1-RED": 6
+    }
+  },
+  "0A-ZT3-KIT": {
+    "label": "Classroom",
+    "url": "",
+    "bom": {
+      "PZB-BAL-W": 750,
+      "PST-B0-BLU": 120,
+      "PST-B1-BLU": 120,
+      "PST-B2-BLU": 120,
+      "PST-Y0-YEL": 90,
+      "PST-Y1-YEL": 90,
+      "PST-Y2-YEL": 90,
+      "PST-R0-RED": 90,
+      "PST-R1-RED": 90,
+      "PST-R2-RED": 90,
+      "PST-G1-GRN": 48
+    }
+  },
+  "0B-VIR-PRJ": {
+    "label": "Combined Virus",
+    "url": "",
+    "bom": {
+      "PZB-BAL-W": 33,
+      "PZB-BAL-RED": 16,
+      "PZB-BAL-BLU": 12,
+      "PZB-BAL-YEL": 12,
+      "PST-B0-BLU": 30,
+      "PST-B0-W": 2,
+      "PST-B1-BLU": 35,
+      "PST-B2-BLU": 30,
+      "PST-Y2-YEL": 5,
+      "PST-R00-RED": 5,
+      "PST-R00-W": 32,
+      "PST-R0-RED": 6,
+      "PST-R1-RED": 12,
+      "PST-R2-RED": 12
+    }
+  },
+  "0B-BUB-PRJ": {
+    "label": "Crazy Bubbles",
+    "url": "crazy-bubbles/",
+    "bom": {
+      "PZB-BAL-W": 11,
+      "PST-B0-BLU": 8,
+      "PST-B1-BLU": 10,
+      "PST-B2-BLU": 12,
+      "PST-Y0-YEL": 1
+    }
+  },
+  "0A-ZT1-KIT": {
+    "label": "Creator 1",
+    "url": "creator-1/",
+    "bom": {
+      "PZB-BAL-W": 60,
+      "PST-B0-BLU": 30,
+      "PST-B1-BLU": 30,
+      "PST-B2-BLU": 30,
+      "PST-Y0-YEL": 20,
+      "PST-Y1-YEL": 20,
+      "PST-Y2-YEL": 20,
+      "PST-R0-RED": 12,
+      "PST-R1-RED": 12,
+      "PST-R2-RED": 12
+    }
+  },
+  "0A-ZT3-KITCreator 4-CREATOR 4 kit BOM -- Mr. Kim.csv": {
+    "label": "Creator 4",
+    "url": "",
+    "bom": {
+      "PZB-BAL-W": 270,
+      "PST-B0-BLU": 120,
+      "PST-B1-BLU": 120,
+      "PST-B2-BLU": 120,
+      "PST-Y0-YEL": 80,
+      "PST-Y1-YEL": 80,
+      "PST-Y2-YEL": 80,
+      "PST-R0-RED": 48,
+      "PST-R1-RED": 48,
+      "PST-R2-RED": 48
+    }
+  },
+  "0B-CRY-PRJ": {
+    "label": "Crystallography",
+    "url": "",
+    "bom": {
+      "PZB-BAL-W": 77,
+      "PST-B0-BLU": 32,
+      "PST-B1-BLU": 32,
+      "PST-B2-BLU": 8,
+      "PST-Y1-YEL": 31,
+      "PST-R0-RED": 16,
+      "PST-R1-RED": 28,
+      "PST-HG1-GRN": 32
+    }
+  },
+  "0B-DNA-PRJ": {
+    "label": "DNA",
+    "url": "",
+    "bom": {
+      "PZB-BAL-W": 8,
+      "PZB-BAL-GRY": 10,
+      "PZB-BAL-K": 12,
+      "PST-B0-WHI": 12,
+      "PST-B1-BLU": 3,
+      "PST-B1-GRN": 3,
+      "PST-B1-RED": 3,
+      "PST-B1-YEL": 3,
+      "PST-Y0-WHI": 10,
+      "PST-B1-WHI": 2,
+      "PST-R1-WHI": 5
+    }
+  },
+  "G4G14": {
+    "label": "G4G14",
+    "url": "",
+    "bom": {
+      "PZB-BAL-W": 26,
+      "PZB-BAL-BLU": 6,
+      "PST-B1-BLU": 30,
+      "PST-B2-BLU": 24,
+      "PST-B0-W": 30,
+      "PST-B1-W": 30,
+      "PST-B2-W": 6
+    }
+  },
+  "0B-GRN-PRJ": {
+    "label": "GreenLines",
+    "url": "products/green-lines.html",
+    "bom": {
+      "PZB-BAL-W": 60,
+      "PST-B0-BLU": 6,
+      "PST-B1-BLU": 12,
+      "PST-G0-GRN": 48,
+      "PST-G1-GRN": 48,
+      "PST-G2-GRN": 48
+    }
+  },
+  "HashCube-HashCube BOM.csv": {
+    "label": "HashCube",
+    "url": "",
+    "bom": {
+      "PZB-BAL-W": 40,
+      "PZB-BAL-K": 16,
+      "PST-B0-BLU": 12,
+      "PST-B2-BLU": 12,
+      "PST-Y0-YEL": 30,
+      "PST-Y1-YEL": 8,
+      "PST-R0-RED": 30
+    }
+  },
+  "0B-HIL-PRJ": {
+    "label": "Hilbert",
+    "url": "",
+    "bom": {
+      "PZB-BAL-W": 1,
+      "PST-B0-BLU": 30,
+      "PST-Y0-YEL": 20,
+      "PST-R0-RED": 12
+    }
+  },
+  "OB-HYP-PRJ": {
+    "label": "Hyperdo",
+    "url": "the-hyperdo/",
+    "bom": {
+      "PZB-BAL-W": 330,
+      "PST-B0-BLU": 180,
+      "PST-Y0-YEL": 200,
+      "PST-Y1-YEL": 20,
+      "PST-R00-RED": 120,
+      "PST-R0-RED": 120
+    }
+  },
+  "Hyperspace-Hyperspace kit as counted bagged parts.csv": {
+    "label": "Hyperspace",
+    "url": "",
+    "bom": {
+      "PZB-BAL-W": 840,
+      "PST-B2-BLU": 720,
+      "PST-Y2-YEL": 800,
+      "PST-R1-RED": 520,
+      "PST-R2-RED": 520
+    }
+  },
+  "Hyperspace-HYPERSPACE kit BOM.csv": {
+    "label": "Hyperspace",
+    "url": "",
+    "bom": {
+      "PZB-BAL-W": 840,
+      "PST-B2-BLU": 720,
+      "PST-Y2-YEL": 800,
+      "PST-R1-RED": 520,
+      "PST-R2-RED": 520
+    }
+  },
+  "0B-KRI-PRJ": {
+    "label": "Ice",
+    "url": "ice-crystals/",
+    "bom": {
+      "PZB-BAL-W": 30,
+      "PST-B0-BLU": 18,
+      "PST-B1-BLU": 30,
+      "PST-B2-BLU": 12
+    }
+  },
+  "Jain 10-GreenLines BOM.csv": {
+    "label": "Jain 10",
+    "url": "",
+    "bom": {
+      "PZB-BAL-K": 206,
+      "PST-B0-BLU": 222,
+      "PST-Y0-YEL": 24,
+      "PST-R0-GRN": 60,
+      "PST-HG0-GRN": 78
+    }
+  },
+  "0B-KEP-PRJ": {
+    "label": "Kepler",
+    "url": "",
+    "bom": {
+      "PZB-BAL-W": 38,
+      "PST-B0-BLU": 30,
+      "PST-B1-RED": 30,
+      "PST-B2-YEL": 12,
+      "PST-R0-RED": 12,
+      "PST-HG0-TEA": 12,
+      "PST-HG1-TEA": 12,
+      "PST-HG2-GRN": 12
+    }
+  },
+  "0B-MM1-PRJ": {
+    "label": "Molecular Mania",
+    "url": "",
+    "bom": {
+      "PZB-BAL-W": 12,
+      "PZB-BAL-RED": 5,
+      "PZB-BAL-BLU": 2,
+      "PZB-BAL-K": 5,
+      "PST-B0-BLU": 3,
+      "PST-Y0-YEL": 13,
+      "PST-R0-RED": 2
+    }
+  },
+  "BLACK": {
+    "label": "Monochrome CREATOR 3 Black",
+    "url": "products/monochrome_ZT3.html",
+    "bom": {
+      "PZB-BAL-K": 180,
+      "PST-B0-K": 90,
+      "PST-B1-K": 90,
+      "PST-B2-K": 90,
+      "PST-Y0-K": 60,
+      "PST-Y1-K": 60,
+      "PST-Y2-K": 60,
+      "PST-R0-K": 36,
+      "PST-R1-K": 36,
+      "PST-R2-K": 36
+    }
+  },
+  "WHITE": {
+    "label": "Monochrome CREATOR 3 White",
+    "url": "products/monochrome_ZT3.html",
+    "bom": {
+      "PZB-BAL-W": 180,
+      "PST-B0-W": 90,
+      "PST-B1-W": 90,
+      "PST-B2-W": 90,
+      "PST-Y0-W": 60,
+      "PST-Y1-K": 60,
+      "PST-Y2-K": 60,
+      "PST-R0-K": 36,
+      "PST-R1-K": 36,
+      "PST-R2-K": 36
+    }
+  },
+  "0B-PHG-PRJ ": {
+    "label": "Phage Virus",
+    "url": "products/phage-virus.html",
+    "bom": {
+      "PZB-BAL-W": 13,
+      "PZB-BAL-RED": 16,
+      "PZB-BAL-BLU": 5,
+      "PZB-BAL-YEL": 12,
+      "PST-B0-BLU": 30,
+      "PST-B0-W": 2,
+      "PST-B1-BLU": 5,
+      "PST-B2-BLU": 30,
+      "PST-Y2-YEL": 5,
+      "PST-R00-RED": 5,
+      "PST-R00-W": 12,
+      "PST-R0-RED": 6,
+      "PST-R2-RED": 12
+    }
+  },
+  "0B-PLA-PRJ": {
+    "label": "Platonic Solids",
+    "url": "",
+    "bom": {
+      "PZB-BAL-W": 20,
+      "PZB-BAL-BLU": 42,
+      "PZB-BAL-GRN": 10,
+      "PZB-BAL-K": 2,
+      "PST-B0-BLU": 60,
+      "PST-B0-W": 30,
+      "PST-B1-BLU": 42,
+      "PST-B1-K": 1,
+      "PST-Y0-K": 5,
+      "PST-Y1-K": 2,
+      "PST-R00-K": 6,
+      "PST-G0-W": 6,
+      "PST-G1-GRN": 18,
+      "PST-HG1-W": 12,
+      "PST-HG1-B": 4
+    }
+  },
+  "Polystructures-Polystructures kit BOM.csv": {
+    "label": "Polystructures",
+    "url": "",
+    "bom": {
+      "PZB-BAL-GRY": 60,
+      "PST-B0-MBLU": 30,
+      "PST-B1-MBLU": 30,
+      "PST-B2-MBLU": 30,
+      "PST-Y0-MYEL": 20,
+      "PST-Y1-MYEL": 20,
+      "PST-Y2-MYEL": 20,
+      "PST-R0-MRED": 12,
+      "PST-R1-MRED": 12,
+      "PST-R2-MRED": 12,
+      "PST-G1-MGRN": 12
+    }
+  },
+  "0B-PUR-PRJ": {
+    "label": "Pure Carbon",
+    "url": "",
+    "bom": {
+      "PZB-BAL-K": 64,
+      "PST-B0-BLU": 30,
+      "PST-B2-BLU": 6,
+      "PST-Y0-YEL": 40,
+      "PST-Y2-YEL": 4,
+      "PST-G2-GRN": 18
+    }
+  },
+  "0B-PYR-PRJ": {
+    "label": "Pyramid",
+    "url": "",
+    "bom": {
+      "PZB-BAL-W": 7,
+      "PST-B0-BLU": 5,
+      "PST-B1-BLU": 5,
+      "PST-B2-BLU": 3,
+      "PST-Y0-YEL": 4,
+      "PST-Y1-YEL": 3,
+      "PST-Y2-YEL": 3,
+      "PST-R0-RED": 3,
+      "PST-R1-RED": 3,
+      "PST-R2-RED": 1
+    }
+  },
+  "STEAM-New STEAM kit parts.csv": {
+    "label": "STEAM-New STEAM kit parts.csv",
+    "url": "",
+    "bom": {
+      "PZB-BAL-W": 330,
+      "PZB-BAL-B": 100,
+      "PZB-BAL-G": 10,
+      "PZB-BAL-BLU": 12,
+      "PZB-BAL-YEL": 12,
+      "PZB-BAL-ORG": 3,
+      "PZB-BAL-RED": 20,
+      "PST-B0-BLU": 180,
+      "PST-B0-W": 12,
+      "PST-B1-BLU": 120,
+      "PST-B1-W": 2,
+      "PST-B2-BLU": 120,
+      "PST-B2-YEL": 12,
+      "PST-Y0-YEL": 200,
+      "PST-Y0-W": 10,
+      "PST-Y1-YEL": 80,
+      "PST-Y2-YEL": 80,
+      "PST-R00-RED": 120,
+      "PST-R00-W": 32,
+      "PST-R0-RED": 120,
+      "PST-R1-RED": 120,
+      "PST-R1-W": 5,
+      "PST-R2-RED": 60,
+      "PST-G0-GRN": 48,
+      "PST-G1-GRN": 48,
+      "PST-G2-GRN": 48,
+      "PST-HG0-TEA": 12,
+      "PST-HG1-TEA": 32,
+      "PST-HG2-GRN": 12
+    }
+  },
+  "THC-THC W Y00 tool.csv": {
+    "label": "THC",
+    "url": "",
+    "bom": {
+      "PZB-BAL-W": 30,
+      "PZB-BAL-GRN": 2,
+      "PZB-BAL-K": 22,
+      "PZB-BAL-BLU": 2,
+      "PZB-BAL-RED": 4,
+      "PST-Y00-YEL": 28,
+      "PST-Y0-YEL": 19,
+      "PST-B0-WHT": 7
+    }
+  },
+  "THC-THC.csv": {
+    "label": "THC",
+    "url": "",
+    "bom": {
+      "PZB-BAL-W": 30,
+      "PZB-BAL-GRN": 2,
+      "PZB-BAL-K": 22,
+      "PZB-BAL-BLU": 2,
+      "PZB-BAL-RED": 4,
+      "PST-Y00-YEL": 28,
+      "PST-Y0-YEL": 19,
+      "PST-B0-WHT": 7
+    }
+  },
+  "0A-WRK-KIT": {
+    "label": "Workshop",
+    "url": "products/workshop-kit.html",
+    "bom": {
+      "PZB-BAL-W": 1000,
+      "PST-B0-BLU": 720,
+      "PST-B1-BLU": 720,
+      "PST-B2-BLU": 720,
+      "PST-Y0-YEL": 640,
+      "PST-Y1-YEL": 640,
+      "PST-Y2-YEL": 640,
+      "PST-R0-RED": 560,
+      "PST-R1-RED": 560,
+      "PST-R2-RED": 560
     }
   }
 }
