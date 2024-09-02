@@ -5,10 +5,10 @@
     "red":       "#d91218",
     "green":     "#00993f",
     "turquoise": "#00b3a1",
-    "white":     "#f2f2f2",
-    "black":     "#323232",
     "orange":    "#eb5200",
     "purple":    "#7d36d3",
+    "white":     "#f2f2f2",
+    "black":     "#323232",
     "gray":      "#858585"
   },
 
@@ -40,6 +40,18 @@
     "PZB-BAL-RED": {
       "orbit": "ball",
       "color": "red"
+    },
+    "PZB-BAL-PUR": {
+      "orbit": "ball",
+      "color": "purple"
+    },
+    "PZB-BAL-TEA": {
+      "orbit": "ball",
+      "color": "turquoise"
+    },
+    "PZB-BAL-GRY": {
+      "orbit": "ball",
+      "color": "gray"
     },
     
     "PST-B0-BLU": {
@@ -125,6 +137,17 @@
       "orbit": "green",
       "color": "green",
       "length": [2,3,2]
+    },
+
+    "PST-HG0-TEA": {
+      "orbit": "green",
+      "color": "turquoise",
+      "length": [1,1,2]
+    },
+    "PST-HG1-TEA": {
+      "orbit": "green",
+      "color": "turquoise",
+      "length": [1,2,2]
     },
 
     "PST-B0-W": {
