@@ -1,6 +1,6 @@
 {  
   "0A-STE-KIT": {
-    "label": "STEAM",
+    "label": "STEAM Kit",
     "url": "products/the-steam-kit.html",
     "bom": {
       "PZB-BAL-W": 330,
@@ -35,7 +35,7 @@
       "PST-HG2-GRN": 12
     }
   },
-  "CRTX84": {
+  "0A-ZT3-KIT": {
     "label": "Creator 3",
     "url": "/creator-3/",
     "bom": {
@@ -78,7 +78,7 @@
     }
   },
   "0A-BAS-KIT": {
-    "label": "Basic",
+    "label": "Basic Kit",
     "url": "products/basic-kit.html",
     "bom": {
       "PZB-BAL-W": 30,
@@ -109,7 +109,7 @@
   },
   "0B-BUK-PRJ": {
     "label": "Buckyball",
-    "url": "",
+    "url": "products/buckyball.html",
     "bom": {
       "PZB-BAL-BLK": 60,
       "PST-B0-BLU": 90
@@ -125,23 +125,6 @@
       "PST-B2-BLU": 12,
       "PST-R0-RED": 6,
       "PST-R1-RED": 6
-    }
-  },
-  "0A-ZT3-KIT": {
-    "label": "Classroom",
-    "url": "",
-    "bom": {
-      "PZB-BAL-W": 750,
-      "PST-B0-BLU": 120,
-      "PST-B1-BLU": 120,
-      "PST-B2-BLU": 120,
-      "PST-Y0-YEL": 90,
-      "PST-Y1-YEL": 90,
-      "PST-Y2-YEL": 90,
-      "PST-R0-RED": 90,
-      "PST-R1-RED": 90,
-      "PST-R2-RED": 90,
-      "PST-G1-GRN": 48
     }
   },
   "0B-VIR-PRJ": {
@@ -209,7 +192,7 @@
   },
   "0B-CRY-PRJ": {
     "label": "Crystallography",
-    "url": "",
+    "url": "crystallography/",
     "bom": {
       "PZB-BAL-W": 77,
       "PST-B0-BLU": 32,
@@ -223,7 +206,7 @@
   },
   "0B-DNA-PRJ": {
     "label": "DNA",
-    "url": "",
+    "url": "products/dna.html",
     "bom": {
       "PZB-BAL-W": 8,
       "PZB-BAL-GRY": 10,
@@ -342,8 +325,8 @@
     }
   },
   "0B-KEP-PRJ": {
-    "label": "Kepler",
-    "url": "",
+    "label": "Kepler's Obsession",
+    "url": "products/keplers-obsession.html",
     "bom": {
       "PZB-BAL-W": 38,
       "PST-B0-BLU": 30,
@@ -357,7 +340,7 @@
   },
   "0B-MM1-PRJ": {
     "label": "Molecular Mania",
-    "url": "",
+    "url": "products/molecular-mania.html",
     "bom": {
       "PZB-BAL-W": 12,
       "PZB-BAL-RED": 5,
@@ -470,8 +453,8 @@
     }
   },
   "0B-PYR-PRJ": {
-    "label": "Pyramid",
-    "url": "",
+    "label": "Pyramid Puzzle",
+    "url": "products/pyramid-puzzle.html",
     "bom": {
       "PZB-BAL-W": 7,
       "PST-B0-BLU": 5,
