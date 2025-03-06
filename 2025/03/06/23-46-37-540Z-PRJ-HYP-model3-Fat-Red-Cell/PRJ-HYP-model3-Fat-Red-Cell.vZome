@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" edition="online" version="1.0" buildNumber="329" field="golden">
+  <EditHistory editNumber="120" lastStickyEdit="120">
+    <StrutCreation anchor="0 0 0 0 0 0" dir="red" index="1" len="1 1"/>
+    <SelectManifestation startSegment="0 0 0 0 0 0" endSegment="0 0 1 2 1 1"/>
+    <RotationTool full="true" corrected="true" symmetry="icosahedral" name="tool-0"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation startSegment="0 0 0 0 0 0" endSegment="0 0 1 2 1 1"/>
+    <SelectManifestation point="0 0 1 2 1 1"/>
+    <EndBlock/>
+    <Delete/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="red" index="31" len="1 1"/>
+    <BeginBlock/>
+    <SelectManifestation startSegment="0 0 0 0 0 0" endSegment="0 0 -1 -2 1 1"/>
+    <SelectManifestation point="0 0 -1 -2 1 1"/>
+    <EndBlock/>
+    <RotationTool full="true" corrected="true" symmetry="icosahedral" name="tool-1"/>
+    <ApplyTool name="tool-0" selectInputs="true" copyColors="true"/>
+    <DeselectAll/>
+    <Snapshot id="0"/>
+    <StrutCreation anchor="-1 -2 -1 -1 0 0" index="8" len="2 2"/>
+    <SelectManifestation startSegment="-1 -2 -1 -1 0 0" endSegment="0 0 -1 -2 1 1"/>
+    <ApplyTool name="tool-0" selectInputs="true" copyColors="true"/>
+    <DeselectAll/>
+    <Snapshot id="1"/>
+    <Snapshot id="2"/>
+    <StrutCreation anchor="0 0 -1 -2 1 1" dir="yellow" index="7" len="0 1"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 -1 -1 2 3"/>
+    <SelectManifestation startSegment="0 0 -1 -2 1 1" endSegment="0 0 -1 -1 2 3"/>
+    <EndBlock/>
+    <ApplyTool name="tool-0" selectInputs="true" copyColors="true"/>
+    <DeselectAll/>
+    <Snapshot id="3"/>
+    <StrutCreation anchor="-1 -2 1 2 -1 -2" dir="red" index="0" len="1 1"/>
+    <StrutCreation anchor="0 0 2 3 -1 -2" dir="red" index="15" len="1 1"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 2 3 -1 -2"/>
+    <SelectManifestation point="1 1 0 0 -1 -2"/>
+    <SelectManifestation point="-1 -1 0 0 -1 -2"/>
+    <SelectManifestation point="-1 -2 1 2 -1 -2"/>
+    <SelectManifestation point="1 2 1 2 -1 -2"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 4/5 7/5 -1 -2"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 4/5 7/5 -1 -2"/>
+    <EndBlock/>
+    <Delete/>
+    <Snapshot id="4"/>
+    <Snapshot id="5"/>
+    <Snapshot id="6"/>
+    <BeginBlock/>
+    <SelectManifestation startSegment="0 0 2 3 -1 -2" endSegment="1 2 1 2 -1 -2"/>
+    <SelectManifestation point="0 0 2 3 -1 -2"/>
+    <SelectManifestation startSegment="-1 -2 1 2 -1 -2" endSegment="0 0 2 3 -1 -2"/>
+    <EndBlock/>
+    <ApplyTool name="tool-0" selectInputs="true" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation startSegment="0 0 0 0 0 0" endSegment="0 0 -1 -2 1 1"/>
+    <SelectManifestation startSegment="0 0 0 0 0 0" endSegment="1 2 -1 -1 0 0"/>
+    <SelectManifestation startSegment="0 0 0 0 0 0" endSegment="1 1 0 0 -1 -2"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation startSegment="0 0 0 0 0 0" endSegment="-1 -1 0 0 -1 -2"/>
+    <SelectManifestation startSegment="0 0 0 0 0 0" endSegment="-1 -2 -1 -1 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation startSegment="0 0 0 0 0 0" endSegment="-1 -1 0 0 -1 -2"/>
+    <SelectManifestation startSegment="0 0 0 0 0 0" endSegment="1 1 0 0 -1 -2"/>
+    <SelectManifestation startSegment="0 0 0 0 0 0" endSegment="1 2 -1 -1 0 0"/>
+    <SelectManifestation startSegment="0 0 0 0 0 0" endSegment="0 0 -1 -2 1 1"/>
+    <SelectManifestation startSegment="0 0 0 0 0 0" endSegment="-1 -2 -1 -1 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <Snapshot id="11"/>
+    <StrutCreation anchor="-2 -3 1 2 0 0" dir="yellow" index="9" len="0 1"/>
+    <StrutCreation anchor="-1 -2 2 3 1 1" index="37" len="2 2"/>
+    <StrutCreation anchor="-1 -1 1 2 2 3" dir="yellow" index="16" len="0 1"/>
+    <BeginBlock/>
+    <SelectManifestation startSegment="-1 -1 1 2 2 3" endSegment="-1 -2 0 0 2 3"/>
+    <SelectManifestation point="-1 -1 1 2 2 3"/>
+    <SelectManifestation startSegment="-1 -2 2 3 1 1" endSegment="-1 -1 1 2 2 3"/>
+    <SelectManifestation point="-1 -2 2 3 1 1"/>
+    <SelectManifestation startSegment="-2 -3 1 2 0 0" endSegment="-1 -2 2 3 1 1"/>
+    <DeselectAll/>
+    <SelectManifestation point="-1 -2 2 3 1 1"/>
+    <SelectManifestation point="-2 -3 0 0 1 1"/>
+    <SelectManifestation point="-1 -1 1 2 2 3"/>
+    <SelectManifestation point="-2 -3 1 2 0 0"/>
+    <SelectManifestation point="-1 -2 0 0 2 3"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <SelectManifestation point="-7/5 -11/5 4/5 7/5 6/5 8/5"/>
+    <Delete/>
+    <Snapshot id="7"/>
+    <BeginBlock/>
+    <SelectManifestation startSegment="-2 -3 1 2 0 0" endSegment="-1 -2 2 3 1 1"/>
+    <SelectManifestation startSegment="-1 -1 1 2 2 3" endSegment="-1 -2 0 0 2 3"/>
+    <DeselectAll/>
+    <SelectManifestation point="-1 -1 1 2 2 3"/>
+    <SelectManifestation startSegment="-1 -2 2 3 1 1" endSegment="-1 -1 1 2 2 3"/>
+    <SelectManifestation point="-1 -2 2 3 1 1"/>
+    <SelectManifestation startSegment="-2 -3 1 2 0 0" endSegment="-1 -2 2 3 1 1"/>
+    <SelectManifestation startSegment="-1 -1 1 2 2 3" endSegment="-1 -2 0 0 2 3"/>
+    <EndBlock/>
+    <ApplyTool name="tool-0" selectInputs="true" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-1 -2 2 3 1 1"/>
+    <SelectManifestation point="1 2 -1 -1 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="-1 -2 2 3 1 1"/>
+    <SelectManifestation point="1 2 -1 -1 0 0"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <SelectManifestation point="0 0 1/2 1 1/2 1/2"/>
+    <Delete/>
+    <Snapshot id="8"/>
+    <Snapshot id="9"/>
+    <Snapshot id="10"/>
+  </EditHistory>
+  <SymmetrySystem name="icosahedral" renderingStyle="lifelike">
+    <Direction name="blue" orbit="[[0,0,1],[0,0,1]]" color="0,142,194"/>
+    <Direction name="green" orbit="[[2,-1,1],[5,-3,1]]" color="0,153,63"/>
+    <Direction name="sand" orbit="[[-8,5,1],[5,-3,1]]" color="154,117,74"/>
+    <Direction name="spruce" orbit="[[-5,4,11],[-5,4,11]]" color="18,73,48"/>
+    <Direction name="red" orbit="[[-1,1,1],[0,0,1]]" color="217,18,24"/>
+    <Direction name="coral" orbit="[[-3,2,2],[-1,1,2]]" color="255,126,106"/>
+    <Direction name="black" orbit="[[-2,3,11],[-7,5,11]]" color="50,50,50"/>
+    <Direction name="maroon" orbit="[[5,-3,1],[0,0,1]]" color="117,0,50"/>
+    <Direction name="sulfur" orbit="[[-1,1,3],[0,0,1]]" color="239,245,61"/>
+    <Direction name="yellow" orbit="[[0,0,1],[2,-1,1]]" color="255,179,26"/>
+    <Direction name="rose" orbit="[[0,0,1],[-4,3,5]]" color="255,51,143"/>
+    <Direction name="turquoise" orbit="[[2,-1,2],[-3,2,2]]" color="0,179,161"/>
+    <Direction name="apple" orbit="[[2,-1,3],[-1,1,3]]" color="116,195,0"/>
+    <Direction name="cinnamon" orbit="[[5,-3,2],[2,-1,2]]" color="136,37,0"/>
+    <Direction name="purple" orbit="[[2,-1,1],[0,0,1]]" color="125,54,211"/>
+    <Direction name="orange" orbit="[[-4,3,5],[3,-1,5]]" color="235,82,0"/>
+    <Direction name="navy" orbit="[[-1,1,2],[2,-1,2]]" color="0,0,153"/>
+    <Direction name="brown" orbit="[[2,-1,3],[5,-3,3]]" color="107,53,26"/>
+    <Direction name="lavender" orbit="[[-3,2,1],[-3,2,1]]" color="175,135,255"/>
+    <Direction name="olive" orbit="[[3,-1,5],[0,0,1]]" color="100,113,0"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="trapezoids">
+      <Direction name="blue" orbit="[[0,0,1],[0,0,1]]" color="0,142,194"/>
+      <Direction name="lavender" orbit="[[1,2,1],[-1,0,1]]" color="175,135,255"/>
+      <Direction name="turquoise" orbit="[[-1,2,1],[1,-2,1]]" color="0,179,161"/>
+      <Direction name="black" orbit="[[0,1,1],[1,-1,1]]" color="50,50,50"/>
+      <Direction name="green" orbit="[[0,0,1],[-1,0,1]]" color="0,153,63"/>
+      <Direction name="olive" orbit="[[1,0,1],[3,-2,1]]" color="100,113,0"/>
+      <Direction name="maroon" orbit="[[-1,2,1],[1,0,1]]" color="117,0,50"/>
+      <Direction name="brown" orbit="[[1,0,1],[-2,0,1]]" color="107,53,26"/>
+      <Direction name="yellow" orbit="[[1,0,1],[-1,0,1]]" color="255,179,26"/>
+      <Direction name="red" orbit="[[-1,1,1],[0,0,1]]" color="217,18,24"/>
+      <Direction name="purple" orbit="[[0,0,1],[2,-1,1]]" color="125,54,211"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools>
+    <Tool id="tool-0" label="axial symmetry 0" selectInputs="true" deleteInputs="false" copyColors="true"/>
+    <Tool id="tool-1" label="axial symmetry 1" hidden="true" selectInputs="true" deleteInputs="false" copyColors="true"/>
+  </Tools>
+  <sceneModel ambientLight="51,51,51" background="175,200,220">
+    <directionalLight color="253,253,253" x="1" y="-1" z="-0.3"/>
+    <directionalLight color="181,181,181" x="-1" y="0" z="-0.2"/>
+    <directionalLight color="48,48,48" x="0" y="0" z="-1"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="98.38412475585938" far="196.76824951171875" near="0.09109641181098091" parallel="false" stereoAngle="0.0" width="44.27285614013672">
+      <LookAtPoint x="0" y="0" z="0"/>
+      <UpDirection x="0.21850801371353124" y="0.7905694392783684" z="-0.5720613687551832"/>
+      <LookDirection x="-0.9341723510700027" y="-5.551115123125782e-17" z="-0.35682211043648004"/>
+    </ViewModel>
+  </Viewing>
+  <notes>
+    <page title="5x R0s from Ball" snapshot="0">
+      <ViewModel distance="46.94043731689453" far="93.88086700439453" near="0.11735107749700546" parallel="false" stereoAngle="0.0" width="21.12319564819336">
+        <LookAtPoint x="0" y="0" z="0"/>
+        <UpDirection x="0.5877852439880371" y="0.4253253936767578" z="-0.6881909966468811"/>
+        <LookDirection x="0" y="-0.8506507873535156" z="-0.525731086730957"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page title="Pentagon" snapshot="1">
+      <ViewModel distance="46.94043731689453" far="93.88086700439453" near="0.11735107749700546" parallel="false" stereoAngle="0.0" width="21.12319564819336">
+        <LookAtPoint x="0" y="0" z="0"/>
+        <UpDirection x="0.5877852439880371" y="0.4253253936767578" z="-0.6881909966468811"/>
+        <LookDirection x="0" y="-0.8506507873535156" z="-0.525731086730957"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page title="Lay Pentagonal Pyramid Flat" snapshot="2">
+      <ViewModel distance="46.94043731689453" far="93.88086700439453" near="0.11735107749700546" parallel="false" stereoAngle="0.0" width="21.12319564819336">
+        <LookAtPoint x="0" y="0" z="0"/>
+        <UpDirection x="0.1103668361902237" y="0.9937521815299988" z="0.016598455607891083"/>
+        <LookDirection x="0.22963304817676544" y="-0.00924758706241846" z="-0.9732331037521362"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page title="Add Y0's" snapshot="3">
+      <ViewModel distance="78.95510864257812" far="157.91021728515625" near="0.19738784432411194" parallel="false" stereoAngle="0.0" width="35.52980041503906">
+        <LookAtPoint x="0" y="0" z="0"/>
+        <UpDirection x="0.1266506463289261" y="0.9919392466545105" z="-0.003924579359591007"/>
+        <LookDirection x="0.26121729612350464" y="-0.0371684730052948" z="-0.9645638465881348"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page title="Add R0s to complete Pentagon" snapshot="4">
+      <ViewModel distance="77.39169311523438" far="154.78338623046875" near="0.19347929954528809" parallel="false" stereoAngle="0.0" width="34.826263427734375">
+        <LookAtPoint x="0" y="3.0652475357055664" z="-4.236067771911621"/>
+        <UpDirection x="0" y="1" z="0"/>
+        <LookDirection x="0" y="0" z="-1"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page title="Complete &quot;Crown&quot;, remove central R0s" snapshot="11">
+      <ViewModel distance="77.39169311523438" far="154.78338623046875" near="0.19347929954528809" parallel="false" stereoAngle="0.0" width="34.826263427734375">
+        <LookAtPoint x="-4.959674835205078" y="3.0652475357055664" z="3.7888543605804443"/>
+        <UpDirection x="0.5096506476402283" y="0.8054845333099365" z="0.3024098575115204"/>
+        <LookDirection x="0.7688409090042114" y="-0.26860156655311584" z="-0.5802906155586243"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page title="Mirrored Pentagon" snapshot="7">
+      <ViewModel distance="77.39169311523438" far="154.78338623046875" near="0.19347929954528809" parallel="false" stereoAngle="0.0" width="34.826263427734375">
+        <LookAtPoint x="-4.959674835205078" y="3.0652475357055664" z="3.7888543605804443"/>
+        <UpDirection x="0.4999999701976776" y="0.80901700258255" z="0.30901697278022766"/>
+        <LookDirection x="0.80901700258255" y="-0.30901700258255005" z="-0.5"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page title="Complete Cell!" snapshot="9">
+      <ViewModel distance="77.39169311523438" far="154.78338623046875" near="0.19347929954528809" parallel="false" stereoAngle="0.0" width="34.826263427734375">
+        <LookAtPoint x="0" y="2.1180338859558105" z="1.3090169429779053"/>
+        <UpDirection x="-0.35682210326194763" y="0.9341723322868347" z="0"/>
+        <LookDirection x="-0.3535533845424652" y="-0.1350453794002533" z="-0.9256147146224976"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page title="5-fold view" snapshot="10">
+      <ViewModel distance="94.52642822265625" far="189.05291748046875" near="0.23631617426872253" parallel="false" stereoAngle="0.0" width="42.536903381347656">
+        <LookAtPoint x="0" y="0" z="0"/>
+        <UpDirection x="0.5877852439880371" y="0.4253253936767578" z="-0.6881909966468811"/>
+        <LookDirection x="0" y="-0.8506507873535156" z="-0.525731086730957"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page title="Other 5-axis view" snapshot="10">
+      <ViewModel distance="120.16664123535156" far="240.3333282470703" near="0.3004166781902313" parallel="false" stereoAngle="0.0" width="54.07499313354492">
+        <LookAtPoint x="0" y="0" z="0"/>
+        <UpDirection x="-0.2628655731678009" y="0.9510564804077148" z="0.1624598503112793"/>
+        <LookDirection x="-0.525731086730957" y="0" z="-0.8506507873535156"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page title="2-fold View" snapshot="10">
+      <ViewModel distance="130.1749725341797" far="260.3500671386719" near="0.3254375457763672" parallel="false" stereoAngle="0.0" width="58.57875061035156">
+        <LookAtPoint x="0" y="0" z="0"/>
+        <UpDirection x="-0.9999999403953552" y="0" z="0"/>
+        <LookDirection x="0" y="0.35682210326194763" z="0.9341723322868347"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page title="3-axis View" snapshot="10">
+      <ViewModel distance="98.38412475585938" far="196.7683563232422" near="0.24596042931079865" parallel="false" stereoAngle="0.0" width="44.272865295410156">
+        <LookAtPoint x="0" y="0" z="0"/>
+        <UpDirection x="-0.1350453794002533" y="0.9256147742271423" z="0.3535533845424652"/>
+        <LookDirection x="-0.9341723322868347" y="0" z="-0.35682210326194763"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+  </notes>
+</vzome:vZome>
