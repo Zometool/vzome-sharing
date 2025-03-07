@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" edition="online" version="1.0" buildNumber="329" field="golden">
+  <EditHistory editNumber="110" lastStickyEdit="110">
+    <StrutCreation anchor="0 0 0 0 0 0" dir="red" index="15" len="1 1"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="red" index="30" len="1 1"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="red" index="1" len="1 1"/>
+    <Snapshot id="0"/>
+    <Snapshot id="1"/>
+    <StrutCreation anchor="0 0 1 2 1 1" dir="yellow" index="38" len="0 1"/>
+    <StrutCreation anchor="-1 -2 1 2 1 2" index="36" len="2 2"/>
+    <StrutCreation anchor="-2 -3 0 0 1 1" dir="yellow" index="24" len="0 1"/>
+    <BeginBlock/>
+    <SelectManifestation point="-2 -3 0 0 1 1"/>
+    <SelectManifestation point="-1 -2 1 2 1 2"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation point="-1 -2 -1 -1 0 0"/>
+    <SelectManifestation point="0 0 1 2 1 1"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <SelectManifestation point="-4/5 -7/5 1/5 3/5 3/5 4/5"/>
+    <Hide>
+      <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+    </Hide>
+    <Snapshot id="2"/>
+    <BeginBlock/>
+    <SelectManifestation startSegment="-2 -3 0 0 1 1" endSegment="-1 -2 -1 -1 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="yellow" index="2" len="0 1"/>
+    <SelectManifestation startSegment="0 0 0 0 0 0" endSegment="0 0 0 -1 1 2"/>
+    <RotationTool full="true" corrected="true" symmetry="icosahedral" name="tool-0"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 -1 1 2"/>
+    <SelectManifestation point="0 0 0 -1 1 2"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 -1 1 2"/>
+    <SelectManifestation startSegment="0 0 0 0 0 0" endSegment="0 0 0 -1 1 2"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation startSegment="0 0 1 2 1 1" endSegment="-1 -2 1 2 1 2"/>
+    <SelectManifestation point="-1 -2 1 2 1 2"/>
+    <SelectManifestation startSegment="-1 -2 1 2 1 2" endSegment="-2 -3 0 0 1 1"/>
+    <SelectManifestation point="-2 -3 0 0 1 1"/>
+    <SelectManifestation startSegment="-2 -3 0 0 1 1" endSegment="-1 -2 -1 -1 0 0"/>
+    <EndBlock/>
+    <ApplyTool name="tool-0" selectInputs="true" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <Snapshot id="3"/>
+    <StrutCreation anchor="-1 -2 1 2 1 2" dir="red" index="2" len="0 1"/>
+    <StrutCreation anchor="1 2 1 2 1 2" dir="red" index="32" len="0 1"/>
+    <StrutCreation anchor="1 1 1 2 2 3" index="45" len="2 2"/>
+    <BeginBlock/>
+    <SelectManifestation startSegment="1 1 1 2 2 3" endSegment="-1 -1 1 2 2 3"/>
+    <SelectManifestation point="-1 -1 1 2 2 3"/>
+    <SelectManifestation startSegment="-1 -2 1 2 1 2" endSegment="-1 -1 1 2 2 3"/>
+    <SelectManifestation point="1 1 1 2 2 3"/>
+    <SelectManifestation startSegment="1 2 1 2 1 2" endSegment="1 1 1 2 2 3"/>
+    <DeselectAll/>
+    <SelectManifestation point="-1 -1 1 2 2 3"/>
+    <SelectManifestation point="1 1 1 2 2 3"/>
+    <SelectManifestation point="0 0 1 2 1 1"/>
+    <EndBlock/>
+    <Branch>
+      <NewCentroid/>
+      <SelectManifestation point="0 0 1 2 5/3 7/3"/>
+      <Hide>
+        <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+      </Hide>
+      <Snapshot id="4"/>
+    </Branch>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="1 1 1 2 2 3"/>
+    <SelectManifestation point="-1 -1 1 2 2 3"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool name="tool-0" selectInputs="true" copyColors="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="yellow" index="2" len="1 0"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 -1 0 1 1"/>
+    <SelectManifestation startSegment="0 0 0 0 0 0" endSegment="0 0 -1 0 1 1"/>
+    <EndBlock/>
+    <Delete/>
+    <Snapshot id="5"/>
+    <StrutCreation anchor="1 2 -2 -3 1 1" dir="yellow" index="38" len="0 1"/>
+    <StrutCreation anchor="0 0 -2 -3 1 2" dir="yellow" index="30" len="0 1"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 -2 -3 1 2"/>
+    <SelectManifestation point="0 0 1 2 1 1"/>
+    <SelectManifestation point="1 2 -2 -3 1 1"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 1 2 1 1"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <Snapshot id="6"/>
+    <BeginBlock/>
+    <SelectManifestation startSegment="0 0 -2 -3 1 2" endSegment="-1 -2 -2 -3 1 1"/>
+    <SelectManifestation point="0 0 -2 -3 1 2"/>
+    <SelectManifestation startSegment="1 2 -2 -3 1 1" endSegment="0 0 -2 -3 1 2"/>
+    <EndBlock/>
+    <ApplyTool name="tool-0" selectInputs="true" copyColors="true"/>
+    <DeselectAll/>
+    <Snapshot id="7"/>
+    <StrutCreation anchor="1 2 0 0 2 3" dir="red" index="30" len="1 1"/>
+    <StrutCreation anchor="0 0 -1 -1 2 3" dir="red" index="45" len="1 1"/>
+    <StrutCreation anchor="0 0 -1 -1 2 3" dir="red" index="16" len="1 1"/>
+    <Snapshot id="8"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 -1 -1 2 3"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <SelectManifestation point="0 0 -1/2 -1/2 1 3/2"/>
+    <Hide>
+      <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+    </Hide>
+    <Snapshot id="9"/>
+  </EditHistory>
+  <SymmetrySystem name="icosahedral" renderingStyle="lifelike">
+    <Direction name="blue" orbit="[[0,0,1],[0,0,1]]" color="0,142,194"/>
+    <Direction name="green" orbit="[[2,-1,1],[5,-3,1]]" color="0,153,63"/>
+    <Direction name="sand" orbit="[[-8,5,1],[5,-3,1]]" color="154,117,74"/>
+    <Direction name="spruce" orbit="[[-5,4,11],[-5,4,11]]" color="18,73,48"/>
+    <Direction name="red" orbit="[[-1,1,1],[0,0,1]]" color="217,18,24"/>
+    <Direction name="coral" orbit="[[-3,2,2],[-1,1,2]]" color="255,126,106"/>
+    <Direction name="black" orbit="[[-2,3,11],[-7,5,11]]" color="50,50,50"/>
+    <Direction name="maroon" orbit="[[5,-3,1],[0,0,1]]" color="117,0,50"/>
+    <Direction name="sulfur" orbit="[[-1,1,3],[0,0,1]]" color="239,245,61"/>
+    <Direction name="yellow" orbit="[[0,0,1],[2,-1,1]]" color="255,179,26"/>
+    <Direction name="rose" orbit="[[0,0,1],[-4,3,5]]" color="255,51,143"/>
+    <Direction name="turquoise" orbit="[[2,-1,2],[-3,2,2]]" color="0,179,161"/>
+    <Direction name="apple" orbit="[[2,-1,3],[-1,1,3]]" color="116,195,0"/>
+    <Direction name="cinnamon" orbit="[[5,-3,2],[2,-1,2]]" color="136,37,0"/>
+    <Direction name="purple" orbit="[[2,-1,1],[0,0,1]]" color="125,54,211"/>
+    <Direction name="orange" orbit="[[-4,3,5],[3,-1,5]]" color="235,82,0"/>
+    <Direction name="navy" orbit="[[-1,1,2],[2,-1,2]]" color="0,0,153"/>
+    <Direction name="brown" orbit="[[2,-1,3],[5,-3,3]]" color="107,53,26"/>
+    <Direction name="lavender" orbit="[[-3,2,1],[-3,2,1]]" color="175,135,255"/>
+    <Direction name="olive" orbit="[[3,-1,5],[0,0,1]]" color="100,113,0"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="trapezoids">
+      <Direction name="blue" orbit="[[0,0,1],[0,0,1]]" color="0,142,194"/>
+      <Direction name="lavender" orbit="[[1,2,1],[-1,0,1]]" color="175,135,255"/>
+      <Direction name="turquoise" orbit="[[-1,2,1],[1,-2,1]]" color="0,179,161"/>
+      <Direction name="black" orbit="[[0,1,1],[1,-1,1]]" color="50,50,50"/>
+      <Direction name="green" orbit="[[0,0,1],[-1,0,1]]" color="0,153,63"/>
+      <Direction name="olive" orbit="[[1,0,1],[3,-2,1]]" color="100,113,0"/>
+      <Direction name="maroon" orbit="[[-1,2,1],[1,0,1]]" color="117,0,50"/>
+      <Direction name="brown" orbit="[[1,0,1],[-2,0,1]]" color="107,53,26"/>
+      <Direction name="yellow" orbit="[[1,0,1],[-1,0,1]]" color="255,179,26"/>
+      <Direction name="red" orbit="[[-1,1,1],[0,0,1]]" color="217,18,24"/>
+      <Direction name="purple" orbit="[[0,0,1],[2,-1,1]]" color="125,54,211"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools>
+    <Tool id="tool-0" label="axial symmetry 0" selectInputs="true" deleteInputs="false" copyColors="true"/>
+  </Tools>
+  <sceneModel ambientLight="51,51,51" background="175,200,220">
+    <directionalLight color="253,253,253" x="1" y="-1" z="-0.3"/>
+    <directionalLight color="181,181,181" x="-1" y="0" z="-0.2"/>
+    <directionalLight color="48,48,48" x="0" y="0" z="-1"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="62.1082878112793" far="124.2165756225586" near="0.05750767389933269" parallel="false" stereoAngle="0.0" width="27.948729515075684">
+      <LookAtPoint x="0" y="0" z="0"/>
+      <UpDirection x="0.1350453952747916" y="0.9256147834380498" z="0.3535534102451942"/>
+      <LookDirection x="-3.469446951953616e-18" y="0.35682211043647993" z="-0.9341723510700028"/>
+    </ViewModel>
+  </Viewing>
+  <notes>
+    <page title="R0 Branch along 3-axis" snapshot="0">
+      <ViewModel distance="62.1082878112793" far="124.2165756225586" near="0.15527069568634033" parallel="false" stereoAngle="0.0" width="27.948728561401367">
+        <LookAtPoint x="0" y="0" z="0"/>
+        <UpDirection x="0.1350453943014145" y="0.9256147742271423" z="0.3535534143447876"/>
+        <LookDirection x="0" y="0.35682210326194763" z="-0.9341723322868347"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page title="" snapshot="1">
+      <ViewModel distance="62.1082878112793" far="124.2165756225586" near="0.15527069568634033" parallel="false" stereoAngle="0.0" width="27.948728561401367">
+        <LookAtPoint x="0" y="0" z="0"/>
+        <UpDirection x="0" y="0.35682210326194763" z="0.9341723322868347"/>
+        <LookDirection x="-0.1350453943014145" y="0.9256148338317871" z="-0.3535534143447876"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page title="Bridge with Y0s and B0" snapshot="2">
+      <ViewModel distance="62.1082878112793" far="124.2165756225586" near="0.15527069568634033" parallel="false" stereoAngle="0.0" width="27.948728561401367">
+        <LookAtPoint x="-3.0652475357055664" y="1.1708203554153442" z="1.8944271802902222"/>
+        <UpDirection x="-0.80901700258255" y="0.30901697278022766" z="0.4999999701976776"/>
+        <LookDirection x="-0.30901700258255005" y="0.5" z="-0.80901700258255"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page title="Pattern Bridge" snapshot="3">
+      <ViewModel distance="87.2588882446289" far="174.51779174804688" near="0.21814723312854767" parallel="false" stereoAngle="0.0" width="39.26650619506836">
+        <LookAtPoint x="0" y="0" z="0"/>
+        <UpDirection x="-0.3186221718788147" y="0.08789908140897751" z="0.9437978267669678"/>
+        <LookDirection x="-0.49147772789001465" y="0.8360725045204163" z="-0.24378719925880432"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page title="Bridge with R00s and B0" snapshot="4">
+      <ViewModel distance="87.2588882446289" far="174.51779174804688" near="0.21814723312854767" parallel="false" stereoAngle="0.0" width="39.26650619506836">
+        <LookAtPoint x="0" y="4.236067771911621" z="5.442079544067383"/>
+        <UpDirection x="0" y="0" z="1"/>
+        <LookDirection x="0" y="1" z="0"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page title="Pattern Bridge along 3-axis" snapshot="5">
+      <ViewModel distance="87.2588882446289" far="174.51779174804688" near="0.21814723312854767" parallel="false" stereoAngle="0.0" width="39.26650619506836">
+        <LookAtPoint x="0" y="-1" z="2.6180338859558105"/>
+        <UpDirection x="-0.03870203718543053" y="0.09187974780797958" z="0.9950173497200012"/>
+        <LookDirection x="-0.21696780622005463" y="0.9712348580360413" z="-0.09812285751104355"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page title="Inverted Squashed Pentagon" snapshot="6">
+      <ViewModel distance="113.1686782836914" far="226.33737182617188" near="0.282921701669693" parallel="false" stereoAngle="0.0" width="50.9259033203125">
+        <LookAtPoint x="0" y="4.236067771911621" z="2.6180338859558105"/>
+        <UpDirection x="0" y="0" z="1"/>
+        <LookDirection x="0" y="1" z="0"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page title="Pattern along 3-axis" snapshot="7">
+      <ViewModel distance="113.1686782836914" far="226.33737182617188" near="0.282921701669693" parallel="false" stereoAngle="0.0" width="50.9259033203125">
+        <LookAtPoint x="0" y="4.236067771911621" z="2.6180338859558105"/>
+        <UpDirection x="-0.07907561957836151" y="0.1690475046634674" z="0.9824302792549133"/>
+        <LookDirection x="-0.17211705446243286" y="0.9684004187583923" z="-0.18048661947250366"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page title="Bridge R0s on top" snapshot="8">
+      <ViewModel distance="113.1686782836914" far="226.33737182617188" near="0.282921701669693" parallel="false" stereoAngle="0.0" width="50.9259033203125">
+        <LookAtPoint x="0" y="4.236067771911621" z="2.6180338859558105"/>
+        <UpDirection x="-0.07907561957836151" y="0.1690475046634674" z="0.9824302792549133"/>
+        <LookDirection x="-0.17211705446243286" y="0.9684004187583923" z="-0.18048661947250366"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page title="View 2-axis" snapshot="9">
+      <ViewModel distance="113.1686782836914" far="226.33737182617188" near="0.282921701669693" parallel="false" stereoAngle="0.0" width="50.9259033203125">
+        <LookAtPoint x="0" y="-1.3090169429779053" z="3.427051067352295"/>
+        <UpDirection x="0.30901700258255005" y="-0.4999999701976776" z="-0.80901700258255"/>
+        <LookDirection x="0.80901700258255" y="-0.30901700258255005" z="0.5"/>
+      </ViewModel>
+      <content xml:space="preserve">
+See the square in the middle?      </content>
+    </page>
+    <page title="View 3-axis" snapshot="9">
+      <ViewModel distance="113.1686782836914" far="226.33737182617188" near="0.282921701669693" parallel="false" stereoAngle="0.0" width="50.9259033203125">
+        <LookAtPoint x="0" y="-1.3090169429779053" z="3.427051067352295"/>
+        <UpDirection x="0.5000000596046448" y="-0.80901700258255" z="-0.30901700258255005"/>
+        <LookDirection x="0" y="-0.35682210326194763" z="0.9341723322868347"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page title="View 5-axis" snapshot="9">
+      <ViewModel distance="113.1686782836914" far="226.33737182617188" near="0.282921701669693" parallel="false" stereoAngle="0.0" width="50.9259033203125">
+        <LookAtPoint x="0" y="-1.3090169429779053" z="3.427051067352295"/>
+        <UpDirection x="0.1624598503112793" y="0.2628655731678009" z="-0.9510564804077148"/>
+        <LookDirection x="0.8506507873535156" y="-0.525731086730957" z="0"/>
+      </ViewModel>
+      <content xml:space="preserve">
+A squashed view like that of the view of a dodecahedron from the 2-axis! But, do you see the regular pentgons?      </content>
+    </page>
+  </notes>
+</vzome:vZome>
