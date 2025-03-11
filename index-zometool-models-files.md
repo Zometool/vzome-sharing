@@ -7,7 +7,14 @@ These are the models that shall be used on the Zometool.com website.
 ## STEAM Kits
 
 ### Instructions for Crazy Bubbles
-
+ - [Cube With Bubble](./2025/03/11/19-49-58-637Z-PRJ-BUB-1-Hypercube-Wand-+bubble/)
+ - Prism
+ - Pumpkin
+ - Banana
+ - Flower
+ - 4D Triangle
+ - Helix
+ <!-- Other demo models -->
 
 ### Instructions for Ice Crystals and Stars
 
@@ -20,7 +27,7 @@ These are the models that shall be used on the Zometool.com website.
   - [Buckyball](./2025/03/07/23-44-04-651Z-PRJ-BUK-Buckyball/)
 
 ### Instructions for Kepler's (Single Model)
-  - Kepler's Solids
+  - [Kepler's Solids](./2025/03/11/19-28-05-694Z-PRJ-KPK-Kepler's-Solids/)
 
 ### Instructions for Green Lines
 
