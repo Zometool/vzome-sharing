@@ -2,6 +2,8 @@
 
 
 # Index of Zometool Files for use with Zometool.com Website
+These are the models that shall be used on the Zometool.com website. 
+
 ## STEAM Kits
 
 ### Instructions for Crazy Bubbles
@@ -11,17 +13,14 @@
 
 
 
-<details open>
-<summary>
- <h3> Instructions for Crystallography </h3>
-</summary>
-</details>
+### Instructions for Crystallography 
+
 
 ### Instructions for BuckyBall (Single Model)
-
+  - [Buckyball](./2025/03/07/23-44-04-651Z-PRJ-BUK-Buckyball/)
 
 ### Instructions for Kepler's (Single Model)
-
+  - Kepler's Solids
 
 ### Instructions for Green Lines
 
@@ -48,7 +47,8 @@
 
 
 ### Instructions for Animal Virus (Single Model)
-
+  - [Animal Virus](./2025/03/07/22-37-59-240Z-PRJ-VIR-Animal-Virus-1/)
+  <!-- - [Animal Virus (No shadow scenes)](./2025/03/07/22-41-00-749Z-PRJ-VIR-Animal-Virus-2/) -->
 
 
 
