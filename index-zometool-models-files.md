@@ -4,14 +4,16 @@
 # Index of Zometool Files for use with Zometool.com Website
 These are the models that shall be used on the Zometool.com website. 
 
+Browse on [vZome Online](https://www.vzome.com/app/browser/?user=zometool) to easily find the full set. 
+
 ## STEAM Kits
 
 ### Instructions for Crazy Bubbles
  - [Cube With Bubble](./2025/03/11/19-49-58-637Z-PRJ-BUB-1-Hypercube-Wand-+bubble/)
- - Prism
- - Pumpkin
- - Banana
- - Flower
+ - Prism [.](./2024/04/28/22-51-52-Prism/)
+ - Pumpkin [.](./2024/04/)
+ - Banana [.](./2024/04/30/)
+ - Flower ^
  - 4D Triangle
  - Helix
  <!-- Other demo models -->
@@ -27,10 +29,21 @@ These are the models that shall be used on the Zometool.com website.
   - [Buckyball](./2025/03/07/23-44-04-651Z-PRJ-BUK-Buckyball/)
 
 ### Instructions for Kepler's (Single Model)
-  - [Kepler's Solids](./2025/03/11/19-28-05-694Z-PRJ-KPK-Kepler's-Solids/)
+  - [Kepler's Obsession](./2025/03/11/21-45-49-506Z-PRJ-KPK-Kepler's-Obsession/)
+
+### Instructions for Plato's Solids
+  - Preliminary set can be found at [v2024-04](./2024/04/28/)
 
 ### Instructions for Green Lines
-
+  - Octahedron
+  - Tetrahedron
+  - Truncated Cube
+  - Truncated Tetrahedron
+  - Hexagonal Slice through Cube
+  - Truncated Octahedron [.](./2024/04/26/16-22-53-TruncatedOctahedron/)
+  - Stella Octangula [.](./2024/04/26/16-21-28-StellaOctangula/)
+  - Cuboctahedron & Rhombic Dodecahedron
+  - 5 Tetrahedra in a Dodecahedron [.](./2024/04/26/16-16-20-5Tetras/)<!-- File only showing finished -->
 
 ### Instructions for Hyperdo 
   - [HyperDo (Main Model)](./2025/03/07/19-49-23-582Z-PRJ-HYP-Model-1-HyperDo-Detailed---LC/)
@@ -51,7 +64,7 @@ These are the models that shall be used on the Zometool.com website.
   - [DNA Model](./2025/03/05/09-13-20-424Z-PRJ-DNA-mod1/)
 
 ### Instructions for Phage Virus (Single Model)
-
+  - [Phage Virus (v2024)](./2024/05/09/13-16-00-Phage/)
 
 ### Instructions for Animal Virus (Single Model)
   - [Animal Virus](./2025/03/07/22-37-59-240Z-PRJ-VIR-Animal-Virus-1/)
