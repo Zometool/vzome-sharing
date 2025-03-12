@@ -19,20 +19,39 @@ Browse on [vZome Online](https://www.vzome.com/app/browser/?user=zometool) to ea
  <!-- Other demo models -->
 
 ### Instructions for Ice Crystals and Stars
+  <details>
+    <summary>
+      <h4> Ice Crystals (Expand list) </h4>
+    </summary>
+  </details> 
 
+  <details>
+    <summary>
+      <h4> Stellated Models (Expand list) </h4>
+    </summary>
+  </details> 
 
 
 ### Instructions for Crystallography 
-
+  <details>
+    <summary>
+      <h4> Crystallography (Expand list) </h4>
+    </summary>
+  </details> 
 
 ### Instructions for BuckyBall (Single Model)
-  - [Buckyball](./2025/03/07/23-44-04-651Z-PRJ-BUK-Buckyball/)
+  - [Buckyball](./2025/03/12/00-06-46-755Z-PRJ-BUK-Buckyball/)
 
 ### Instructions for Kepler's (Single Model)
   - [Kepler's Obsession](./2025/03/11/21-45-49-506Z-PRJ-KPK-Kepler's-Obsession/)
 
 ### Instructions for Plato's Solids
   - Preliminary set can be found at [v2024-04](./2024/04/28/)
+  - Tetrahedron/dual
+  - Cube with octahedron dual
+  - Octahedron with cube dual
+  - Dodecahedron with icosa dual
+  - Icosahedron with dodeca dual
 
 ### Instructions for Green Lines
   - Octahedron
@@ -81,16 +100,17 @@ Browse on [vZome Online](https://www.vzome.com/app/browser/?user=zometool) to ea
 ### The Challenge Cards
 
 
-<!--  If we want to use expanding lists
+ <!-- If we want to use expanding lists -->
 <style>
   summary > * {
           display: inline
         }
 </style>
 
+<!-- 
 <details open>
 <summary>
  <h3> Instructions for Crystallography </h3>
 </summary>
-</details>
+</details> 
 -->
