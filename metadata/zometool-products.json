@@ -4,32 +4,34 @@
     "url": "products/the-steam-kit.html",
     "bom": {
       "PZB-BAL-W": 330,
-      "PZB-BAL-BLK": 100,
-      "PZB-BAL-GRN": 10,
+      "PZB-BAL-B": 100,
+      "PZB-BAL-G": 10,
       "PZB-BAL-BLU": 12,
       "PZB-BAL-YEL": 12,
       "PZB-BAL-ORG": 3,
       "PZB-BAL-RED": 20,
       "PST-B0-BLU": 180,
-      "PST-B0-W": 12,
       "PST-B1-BLU": 120,
-      "PST-B1-RED": 30,
-      "PST-B1-W": 2,
       "PST-B2-BLU": 120,
-      "PST-B2-YEL": 12,
       "PST-Y0-YEL": 200,
-      "PST-Y0-W": 10,
       "PST-Y1-YEL": 80,
       "PST-Y2-YEL": 80,
       "PST-R00-RED": 120,
-      "PST-R00-W": 32,
       "PST-R0-RED": 120,
       "PST-R1-RED": 120,
-      "PST-R1-W": 5,
       "PST-R2-RED": 60,
       "PST-G0-GRN": 48,
       "PST-G1-GRN": 48,
       "PST-G2-GRN": 48,
+      "PST-B0-W": 12,
+      "PST-B1-W": 2,
+      "PST-B1-RED": 30,
+      "PST-B1-GRN": 3,
+      "PST-B1-YEL": 3,
+      "PST-B2-YEL": 12,
+      "PST-Y0-W": 10,
+      "PST-R00-W": 32,
+      "PST-R1-W": 5,
       "PST-HG0-TEA": 12,
       "PST-HG1-TEA": 32,
       "PST-HG2-GRN": 12
@@ -102,7 +104,7 @@
       "PZB-BAL-ORG": 3,
       "PZB-BAL-YEL": 2,
       "PZB-BAL-BLU": 8,
-      "PZB-BAL-BLK": 12,
+      "PZB-BAL-B": 12,
       "PST-B0-BLU": 30,
       "PST-Y0-YEL": 30
     }
@@ -111,7 +113,7 @@
     "label": "Buckyball",
     "url": "products/buckyball.html",
     "bom": {
-      "PZB-BAL-BLK": 60,
+      "PZB-BAL-B": 60,
       "PST-B0-BLU": 90
     }
   },
@@ -209,16 +211,16 @@
     "url": "products/dna.html",
     "bom": {
       "PZB-BAL-W": 8,
-      "PZB-BAL-GRY": 10,
-      "PZB-BAL-BLK": 12,
-      "PST-B0-WHI": 12,
+      "PZB-BAL-G": 10,
+      "PZB-BAL-B": 12,
+      "PST-B0-W": 12,
       "PST-B1-BLU": 3,
       "PST-B1-GRN": 3,
       "PST-B1-RED": 3,
       "PST-B1-YEL": 3,
-      "PST-Y0-WHI": 10,
-      "PST-B1-WHI": 2,
-      "PST-R1-WHI": 5
+      "PST-Y0-W": 10,
+      "PST-B1-W": 2,
+      "PST-R1-W": 5
     }
   },
   "G4G14": {
@@ -251,7 +253,7 @@
     "url": "",
     "bom": {
       "PZB-BAL-W": 40,
-      "PZB-BAL-BLK": 16,
+      "PZB-BAL-B": 16,
       "PST-B0-BLU": 12,
       "PST-B2-BLU": 12,
       "PST-Y0-YEL": 30,
@@ -317,7 +319,7 @@
     "label": "Jain 10",
     "url": "",
     "bom": {
-      "PZB-BAL-BLK": 206,
+      "PZB-BAL-B": 206,
       "PST-B0-BLU": 222,
       "PST-Y0-YEL": 24,
       "PST-R0-GRN": 60,
@@ -345,7 +347,7 @@
       "PZB-BAL-W": 12,
       "PZB-BAL-RED": 5,
       "PZB-BAL-BLU": 2,
-      "PZB-BAL-BLK": 5,
+      "PZB-BAL-B": 5,
       "PST-B0-BLU": 3,
       "PST-Y0-YEL": 13,
       "PST-R0-RED": 2
@@ -355,7 +357,7 @@
     "label": "Monochrome CREATOR 3 Black",
     "url": "products/monochrome_ZT3.html",
     "bom": {
-      "PZB-BAL-BLK": 180,
+      "PZB-BAL-B": 180,
       "PST-B0-K": 90,
       "PST-B1-K": 90,
       "PST-B2-K": 90,
@@ -409,7 +411,7 @@
       "PZB-BAL-W": 20,
       "PZB-BAL-BLU": 42,
       "PZB-BAL-GRN": 10,
-      "PZB-BAL-BLK": 2,
+      "PZB-BAL-B": 2,
       "PST-B0-BLU": 60,
       "PST-B0-W": 30,
       "PST-B1-BLU": 42,
@@ -427,7 +429,7 @@
     "label": "Polystructures",
     "url": "",
     "bom": {
-      "PZB-BAL-GRY": 60,
+      "PZB-BAL-G": 60,
       "PST-B0-MBLU": 30,
       "PST-B1-MBLU": 30,
       "PST-B2-MBLU": 30,
@@ -444,7 +446,7 @@
     "label": "Pure Carbon",
     "url": "",
     "bom": {
-      "PZB-BAL-BLK": 64,
+      "PZB-BAL-B": 64,
       "PST-B0-BLU": 30,
       "PST-B2-BLU": 6,
       "PST-Y0-YEL": 40,
@@ -473,7 +475,7 @@
     "url": "",
     "bom": {
       "PZB-BAL-W": 330,
-      "PZB-BAL-BLK": 100,
+      "PZB-BAL-B": 100,
       "PZB-BAL-GRN": 10,
       "PZB-BAL-BLU": 12,
       "PZB-BAL-YEL": 12,
@@ -509,7 +511,7 @@
     "bom": {
       "PZB-BAL-W": 30,
       "PZB-BAL-GRN": 2,
-      "PZB-BAL-BLK": 22,
+      "PZB-BAL-B": 22,
       "PZB-BAL-BLU": 2,
       "PZB-BAL-RED": 4,
       "PST-Y00-YEL": 28,
@@ -523,7 +525,7 @@
     "bom": {
       "PZB-BAL-W": 30,
       "PZB-BAL-GRN": 2,
-      "PZB-BAL-BLK": 22,
+      "PZB-BAL-B": 22,
       "PZB-BAL-BLU": 2,
       "PZB-BAL-RED": 4,
       "PST-Y00-YEL": 28,

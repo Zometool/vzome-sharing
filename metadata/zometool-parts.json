@@ -17,7 +17,7 @@
       "orbit": "ball",
       "color": "white"
     },
-    "PZB-BAL-BLK": {
+    "PZB-BAL-B": {
       "orbit": "ball",
       "color": "black"
     },
@@ -49,7 +49,7 @@
       "orbit": "ball",
       "color": "turquoise"
     },
-    "PZB-BAL-GRY": {
+    "PZB-BAL-G": {
       "orbit": "ball",
       "color": "gray"
     },
