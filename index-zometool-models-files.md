@@ -6,17 +6,7 @@ These are the models that shall be used on the Zometool.com website.
 
 Browse on [vZome Online](https://www.vzome.com/app/browser/?user=zometool) to easily find the full set. 
 
-## STEAM Kits
-
-### Instructions for Crazy Bubbles
- - [Cube With Bubble](./2025/03/11/19-49-58-637Z-PRJ-BUB-1-Hypercube-Wand-+bubble/)
- - Prism [.](./2024/04/28/22-51-52-Prism/)
- - Pumpkin [.](./2024/04/)
- - Banana [.](./2024/04/30/)
- - Flower ^
- - 4D Triangle
- - Helix
- <!-- Other demo models -->
+## *STEAM:* Math
 
 ### Instructions for Ice Crystals and Stars
   <details>
@@ -31,20 +21,6 @@ Browse on [vZome Online](https://www.vzome.com/app/browser/?user=zometool) to ea
     </summary>
   </details> 
 
-
-### Instructions for Crystallography 
-  <details>
-    <summary>
-      <h4> Crystallography (Expand list) </h4>
-    </summary>
-  </details> 
-
-### Instructions for BuckyBall (Single Model)
-  - [Buckyball](./2025/03/12/00-06-46-755Z-PRJ-BUK-Buckyball/)
-
-### Instructions for Kepler's (Single Model)
-  - [Kepler's Obsession](./2025/03/11/21-45-49-506Z-PRJ-KPK-Kepler's-Obsession/)
-
 ### Instructions for Plato's Solids
   - Preliminary set can be found at [v2024-04](./2024/04/28/)
   - Tetrahedron/dual
@@ -52,6 +28,9 @@ Browse on [vZome Online](https://www.vzome.com/app/browser/?user=zometool) to ea
   - Octahedron with cube dual
   - Dodecahedron with icosa dual
   - Icosahedron with dodeca dual
+
+### Instructions for Kepler's Obsession *(Single Model)*
+  - [Kepler's Obsession](./2025/03/11/21-45-49-506Z-PRJ-KPK-Kepler's-Obsession/)
 
 ### Instructions for Green Lines
   - Octahedron
@@ -72,22 +51,57 @@ Browse on [vZome Online](https://www.vzome.com/app/browser/?user=zometool) to ea
   - [Thin Red Cell](./2025/03/07/20-04-38-696Z-PRJ-HYP-Model-5-Thin-Red-Cell/)
   - [Flat Blue Cell](./2025/03/07/20-06-20-978Z-PRJ-HYP-Model-6-Blue-Flat-Cell/)
 
+## *STEAM:* Science
+
+### Instructions for Crazy Bubbles
+ - [Cube With Bubble](./2025/03/25/04-23-37-138Z-PRJ-BUB-1-Hypercube-Wand-with-bubble/)
+ - [Prism](./2025/03/25/04-34-13-672Z-PRJ-BUB-2-Prism-Tri+bubble/) <!--add to ZT-->
+ - [Pumpkin](./2025/03/25/04-37-06-005Z-PRJ-BUB-3-Pumpkin+bubble/) <!--add to ZT-->
+ - [Banana](./2025/03/25/05-14-04-117Z-PRJ-BUB-4-Banana/) [.](./2024/04/30/)
+ - [Flower](./2025/03/25/05-15-03-815Z-PRJ-BUB-5-Flower/)
+ - [4D Triangle](./2025/03/25/05-31-57-917Z-PRJ-BUB-6-Triangle-4D+bubble/)
+ - [Helix](./2025/03/25/05-35-04-013Z-PRJ-BUB-7-Spiral-Helix/)
+ <!-- Other demo models -->
+
+### Instructions for BuckyBall *(Single Model)*
+  - [Buckyball](./2025/03/12/00-06-46-755Z-PRJ-BUK-Buckyball/)
+
+
+### Instructions for Crystallography 
+  <details>
+    <summary>
+      <h4> Crystallography (Expand list) </h4>
+    </summary>
+  </details> 
+
 ### Instructions for Molecular Mania
   - Molecular Mania Cards Here
+
+## *STEAM:* Life Science
 
 ### Instructions for Biochemistry
   - Molecular Mania Cards Here
   - Full Biochem Card Set Here
 
-### Instructions for DNA (Single Model)
+### Instructions for DNA *(Single Model)*
   - [DNA Model](./2025/03/05/09-13-20-424Z-PRJ-DNA-mod1/)
 
-### Instructions for Phage Virus (Single Model)
-  - [Phage Virus (v2024)](./2024/05/09/13-16-00-Phage/)
-
-### Instructions for Animal Virus (Single Model)
+### Instructions for Animal Virus *(Single Model)*
   - [Animal Virus](./2025/03/07/22-37-59-240Z-PRJ-VIR-Animal-Virus-1/)
   <!-- - [Animal Virus (No shadow scenes)](./2025/03/07/22-41-00-749Z-PRJ-VIR-Animal-Virus-2/) -->
+
+### Instructions for Phage Virus *(Single Model)*
+  - [Phage Virus (v2024)](./2024/05/09/13-16-00-Phage/)
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -95,6 +109,7 @@ Browse on [vZome Online](https://www.vzome.com/app/browser/?user=zometool) to ea
 ## Zometool Manual
 
 ## Standard Kits
+### Instructions for BASIC Kit
 ### Instructions for Creator 1
 ### Instructions for Creator 3
 ### The Challenge Cards
