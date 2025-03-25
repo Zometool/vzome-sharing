@@ -57,7 +57,7 @@ Browse on [vZome Online](https://www.vzome.com/app/browser/?user=zometool) to ea
  - [Cube With Bubble](./2025/03/25/04-23-37-138Z-PRJ-BUB-1-Hypercube-Wand-with-bubble/)
  - [Prism](./2025/03/25/04-34-13-672Z-PRJ-BUB-2-Prism-Tri+bubble/) <!--add to ZT-->
  - [Pumpkin](./2025/03/25/04-37-06-005Z-PRJ-BUB-3-Pumpkin+bubble/) <!--add to ZT-->
- - [Banana](./2025/03/25/05-14-04-117Z-PRJ-BUB-4-Banana/) [.](./2024/04/30/)
+ - [Banana](./2025/03/25/05-14-04-117Z-PRJ-BUB-4-Banana/) [](./2024/04/30/)
  - [Flower](./2025/03/25/05-15-03-815Z-PRJ-BUB-5-Flower/)
  - [4D Triangle](./2025/03/25/05-31-57-917Z-PRJ-BUB-6-Triangle-4D+bubble/)
  - [Helix](./2025/03/25/05-35-04-013Z-PRJ-BUB-7-Spiral-Helix/)
@@ -87,7 +87,7 @@ Browse on [vZome Online](https://www.vzome.com/app/browser/?user=zometool) to ea
   - [DNA Model](./2025/03/05/09-13-20-424Z-PRJ-DNA-mod1/)
 
 ### Instructions for Animal Virus *(Single Model)*
-  - [Animal Virus](./2025/03/07/22-37-59-240Z-PRJ-VIR-Animal-Virus-1/)
+  - [Animal Virus](./2025/03/07/22-41-00-749Z-PRJ-VIR-Animal-Virus-2/)
   <!-- - [Animal Virus (No shadow scenes)](./2025/03/07/22-41-00-749Z-PRJ-VIR-Animal-Virus-2/) -->
 
 ### Instructions for Phage Virus *(Single Model)*
