@@ -55,11 +55,11 @@ Browse on [vZome Online](https://www.vzome.com/app/browser/?user=zometool) to ea
 
 ### Instructions for Crazy Bubbles
  - [Cube With Bubble](./2025/03/25/04-23-37-138Z-PRJ-BUB-1-Hypercube-Wand-with-bubble/)
- - [Prism](./2025/03/25/04-34-13-672Z-PRJ-BUB-2-Prism-Tri+bubble/) <!--add to ZT-->
- - [Pumpkin](./2025/03/25/04-37-06-005Z-PRJ-BUB-3-Pumpkin+bubble/) <!--add to ZT-->
+ - [Prism With Bubble](./2025/03/25/04-34-13-672Z-PRJ-BUB-2-Prism-Tri+bubble/) <!--add to ZT-->
+ - [Pumpkin With Bubble](./2025/03/25/04-37-06-005Z-PRJ-BUB-3-Pumpkin+bubble/) <!--add to ZT-->
  - [Banana](./2025/03/25/05-14-04-117Z-PRJ-BUB-4-Banana/) [](./2024/04/30/)
  - [Flower](./2025/03/25/05-15-03-815Z-PRJ-BUB-5-Flower/)
- - [4D Triangle](./2025/03/25/05-31-57-917Z-PRJ-BUB-6-Triangle-4D+bubble/)
+ - [4D Triangle With Bubble](./2025/03/25/05-31-57-917Z-PRJ-BUB-6-Triangle-4D+bubble/)
  - [Helix](./2025/03/25/05-35-04-013Z-PRJ-BUB-7-Spiral-Helix/)
  <!-- Other demo models -->
 
