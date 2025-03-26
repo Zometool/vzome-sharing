@@ -30,7 +30,7 @@ Browse on [vZome Online](https://www.vzome.com/app/browser/?user=zometool) to ea
   - Icosahedron with dodeca dual
 
 ### Instructions for Kepler's Obsession *(Single Model)*
-  - [Kepler's Obsession](./2025/03/11/21-45-49-506Z-PRJ-KPK-Kepler's-Obsession/)
+  - [Kepler's Obsession](./2025/03/20/06-44-08-528Z-PRJ-KPK-Keplers-Obsession/)
 
 ### Instructions for Green Lines
   - Octahedron
