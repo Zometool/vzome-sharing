@@ -58,7 +58,7 @@
   },
   "0B-4DC-PRJ": {
     "label": "4D Cube",
-    "url": "",
+    "url": "products/4d-cube.html",
     "bom": {
       "PZB-BAL-W": 15,
       "PST-R0-RED": 28
@@ -66,7 +66,7 @@
   },
   "0B-ADE-PRJ": {
     "label": "Animal Virus",
-    "url": "",
+    "url": "products/animal-virus.html",
     "bom": {
       "PZB-BAL-W": 34,
       "PZB-BAL-BLU": 12,
@@ -97,7 +97,7 @@
   },
   "0B-BIO-PRJ": {
     "label": "Biochemistry",
-    "url": "",
+    "url": "products/biochemistry.html",
     "bom": {
       "PZB-BAL-W": 20,
       "PZB-BAL-RED": 20,
