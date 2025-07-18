@@ -22,12 +22,19 @@ Browse on [vZome Online](https://www.vzome.com/app/browser/?user=zometool) to ea
   </details> 
 
 ### Instructions for Plato's Solids
-  - Preliminary set can be found at [v2024-04](./2024/04/28/)
-  - Tetrahedron/dual
-  - Cube with octahedron dual
-  - Octahedron with cube dual
-  - Dodecahedron with icosa dual
-  - Icosahedron with dodeca dual
+  <!-- - Preliminary set can be found at [v2024-04](./2024/04/28/) -->
+  - [Tetrahedron/dual](./2025/07/18/11-25-39-SOL-4-Tetra/)
+    - [Tetrahedron unfold](./2025/07/18/11-27-16-SOL-4-Tetra-Unfold/)
+  - [Cube with octahedron dual](./2025/07/18/11-29-10-SOL-6-Cube/)
+    - [Cube unfold](./2025/07/18/12-09-40-SOL-6-Cube-unfold/)
+  - [Octahedron with cube dual](./2025/07/18/12-13-53-SOL-8-Octahedron/)
+    - [Octahedron unfold](./2025/07/18/12-15-51-SOL-8-Octa-unfold/)
+  - [Dodecahedron](./2025/07/18/12-18-25-SOL-12-Dodecahedron/)
+    - [Dodecahedron with icosa dual](./2025/07/18/12-24-14-SOL-12-Dodeca-Dual2/)
+    - [Dodecahedron unfold](./2025/07/18/12-29-38-SOL-12-Dodeca-unfold2/)
+  - [Icosahedron](./2025/07/18/12-33-37-SOL-20-Icosa2/)
+    - [Icosahedron with dodeca dual](./2025/07/18/12-34-40-SOL-20-Icosa-Dual/)
+    - [Icosahedron unfold](./2025/07/18/12-36-01-SOL-20-Icosa-unfold/)
 
 ### Instructions for Kepler's Obsession *(Single Model)*
   - [Kepler's Obsession](./2025/03/20/06-44-08-528Z-PRJ-KPK-Keplers-Obsession/)
