@@ -36,14 +36,15 @@ Browse on [vZome Online](https://www.vzome.com/app/browser/?user=zometool) to ea
   - [Octahedron](./2025/04/16/11-55-21-GRN-octahedron-good-1/)
     - [Alt Octahedron (Smaller)](./2025/04/16/12-05-12-GRN-octahedron-better2-OnlyGRN/) 
   - [Tetrahedron](./2025/04/15/21-58-01-GRN-Tetrahedron/)
+  - [Truncated Tetrahedron](./2025/04/15/22-59-01-GRN-Trunc-Tetra-OL/)
   - The following can be completed with GreenLines and an expansion kit like the Creator 1 or 3: 
-    - [Truncated Cube](./2025/04/15/22-46-50-GRN+ZT1-TruncCube/)
-    - [Truncated Tetrahedron](./2025/04/15/22-59-01-GRN-Trunc-Tetra-OL/)
-    - [Hexagonal Slice through Cube](./2025/04/15/23-10-55-GRN-HexSliceThruCube/)
-    - [Truncated Octahedron](./2025/04/15/23-18-09-GRN-TruncOcta/) [(Old model here)](./2024/04/26/16-22-53-TruncatedOctahedron/)
-    - [Stella Octangula](./2025/04/15/23-25-47-GRN-StellaOctangula/) [(Old Model Here)](./2024/04/26/16-21-28-StellaOctangula/)
+    - [Truncated Cube](./2025/04/15/22-46-50-GRN+ZT1-TruncCube/) - Could update so it only uses GreenLine kit; size up
+    
+    - [Hexagonal Slice through Cube](./2025/04/15/23-10-55-GRN-HexSliceThruCube/) - Could update so it only uses GreenLine kit; size up
+    - [Truncated Octahedron](./2025/04/15/23-18-09-GRN-TruncOcta/) - [(Old model here)](./2024/04/26/16-22-53-TruncatedOctahedron/) - Could update so it only uses GreenLine kit; size up or use starting octahedron
+    - [Stella Octangula](./2025/04/15/23-25-47-GRN-StellaOctangula/) - [(Old Model Here)](./2024/04/26/16-21-28-StellaOctangula/) - Could update so it only uses GreenLine kit; use 6 B0s on one corner and grow from there
     - [Cuboctahedron & Rhombic Dodecahedron](./2025/04/15/23-22-38-GRN-Cubocta+Rhombic-Dodeca/)
-    - [5 Tetrahedra in a Dodecahedron](./2025/04/15/23-31-13-GRN-5Tetras/) [(Old model here)](./2024/04/26/16-16-20-5Tetras/)<!-- File only showing finished -->
+    - [5 Tetrahedra in a Dodecahedron](./2025/04/15/23-31-13-GRN-5Tetras/) - [(Old model here)](./2024/04/26/16-16-20-5Tetras/)<!-- File only showing finished -->
   - [Demo Models Here](./2025/04/15/) (Small models that are part of the GreenLines reading)
 
 ### Instructions for Hyperdo 
@@ -75,6 +76,9 @@ Browse on [vZome Online](https://www.vzome.com/app/browser/?user=zometool) to ea
     <summary>
       <h4> Crystallography (Expand list) </h4>
     </summary>
+    <ul>
+    <li> <a href="./2025/"> Primitive Cubic </a> </li>
+    </ul>
   </details> 
 
 ### Instructions for Molecular Mania
