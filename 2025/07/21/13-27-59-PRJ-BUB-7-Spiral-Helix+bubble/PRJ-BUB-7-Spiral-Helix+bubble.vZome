@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="101" field="golden" version="7.1">
+  <EditHistory editNumber="520" lastStickyEdit="520">
+    <StrutCreation anchor="0 0 0 0 0 0" index="37" len="2 2"/>
+    <Snapshot id="0"/>
+    <StrutCreation anchor="0 1 -1 -1 1 2" index="10" len="2 2"/>
+    <Snapshot id="1"/>
+    <StrutCreation anchor="0 2 0 0 2 4" index="51" len="2 2"/>
+    <Snapshot id="2"/>
+    <StrutCreation anchor="-1 1 1 2 2 5" index="45" len="2 2"/>
+    <StrutCreation anchor="-3 -1 1 2 2 5" index="39" len="2 2"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation point="0 1 -1 -1 1 2"/>
+    <SelectManifestation point="0 2 0 0 2 4"/>
+    <SelectManifestation point="-1 1 1 2 2 5"/>
+    <SelectManifestation point="-3 -1 1 2 2 5"/>
+    <SelectManifestation point="-4 -2 0 0 2 6"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <SelectManifestation point="-4/3 1/6 1/6 1/2 3/2 11/3"/>
+    <Delete/>
+    <Snapshot id="3"/>
+    <StrutCreation anchor="-4 -2 0 0 2 6" index="37" len="2 2"/>
+    <StrutCreation anchor="-4 -1 -1 -1 3 8" index="10" len="2 2"/>
+    <StrutCreation anchor="-4 0 0 0 4 10" index="51" len="2 2"/>
+    <Snapshot id="4"/>
+    <StrutCreation anchor="-5 -1 1 2 4 11" dir="yellow" index="22" len="0 1"/>
+    <Snapshot id="5"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="yellow" index="7" len="1 1"/>
+    <Snapshot id="6"/>
+    <StrutCreation anchor="0 0 1 1 2 3" dir="red" index="32" len="2 3"/>
+    <BeginBlock/>
+    <SelectManifestation point="-2 -3 1 1 5 8"/>
+    <DeselectAll/>
+    <SelectManifestation point="-5 -1 1 1 3 9"/>
+    <SelectManifestation point="-2 -3 1 1 5 8"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <SelectManifestation point="-2 -3 1 1 5 8"/>
+    <Delete/>
+    <SelectManifestation endSegment="-2 -3 1 1 5 8" startSegment="0 0 1 1 2 3"/>
+    <Delete/>
+    <StrutCreation anchor="-7/2 -2 1 1 4 17/2" dir="red" index="17" len="2 3"/>
+    <SelectManifestation point="-7/2 -2 1 1 4 17/2"/>
+    <Delete/>
+    <SelectManifestation point="0 0 1 1 2 3"/>
+    <Delete/>
+    <Snapshot id="7"/>
+    <Snapshot id="8"/>
+    <BeginBlock/>
+    <SelectManifestation point="-3/2 1 1 1 1 7/2"/>
+    <SelectManifestation point="0 1 -1 -1 1 2"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-3/2 1 1 1 1 7/2" startSegment="-7/2 -2 1 1 4 17/2"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-3/2 1 1 1 1 7/2" startSegment="-7/2 -2 1 1 4 17/2"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-3/2 1 1 1 1 7/2" startSegment="-7/2 -2 1 1 4 17/2"/>
+    <EndBlock/>
+    <Midpoint/>
+    <SelectManifestation point="-3/2 1 1 1 1 7/2"/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="-5 -1 1 1 3 9"/>
+    <SelectManifestation point="-5/2 -1/2 1 1 5/2 6"/>
+    <SelectManifestation point="-2 1/4 1 1 7/4 19/4"/>
+    <DeselectAll/>
+    <SelectManifestation point="-5/2 -1/2 1 1 5/2 6"/>
+    <SelectManifestation point="-5 -1 1 1 3 9"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="-15/4 -3/4 1 1 11/4 15/2"/>
+    <SelectManifestation point="-5/2 -1/2 1 1 5/2 6"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="-15/4 -3/4 1 1 11/4 15/2"/>
+    <SelectManifestation point="-5 -1 1 1 3 9"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="-15/4 -3/4 1 1 11/4 15/2"/>
+    <SelectManifestation point="-3 -1 1 2 2 5"/>
+    <SelectManifestation point="-2 1/4 1 1 7/4 19/4"/>
+    <SelectManifestation point="-5/2 -1/2 1 1 5/2 6"/>
+    <SelectManifestation point="-3 -1 1 2 2 5"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="-2 1/4 1 1 7/4 19/4"/>
+    <SelectManifestation point="-5/2 -1/2 1 1 5/2 6"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="-2 1/4 1 1 7/4 19/4"/>
+    <SelectManifestation point="-3/2 1 1 1 1 7/2"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="-7/4 5/8 1 1 11/8 33/8"/>
+    <SelectManifestation point="-2 1/4 1 1 7/4 19/4"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="-5 -1 1 1 3 9"/>
+    <SelectManifestation point="-4 0 0 0 4 10"/>
+    <SelectManifestation point="-5 -1 1 2 4 11"/>
+    <SelectManifestation point="-4 -1 -1 -1 3 8"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="-9/2 -3/4 1/4 1/2 7/2 19/2"/>
+    <SelectManifestation point="-5 -1 1 1 3 9"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="-19/4 -7/8 5/8 3/4 13/4 37/4"/>
+    <SelectManifestation point="-5 -1 1 1 3 9"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="-19/4 -7/8 5/8 3/4 13/4 37/4"/>
+    <SelectManifestation point="-9/2 -3/4 1/4 1/2 7/2 19/2"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="-5 -1 1 1 3 9"/>
+    <SelectManifestation point="-4 0 0 0 4 10"/>
+    <SelectManifestation point="-4 -1 -1 -1 3 8"/>
+    <SelectManifestation point="-4 -2 0 0 2 6"/>
+    <SelectManifestation point="-5 -1 1 1 3 9"/>
+    <SelectManifestation point="-35/8 -7/8 1 1 23/8 33/4"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="-131/32 -31/32 0 0 95/32 129/16"/>
+    <SelectManifestation point="-35/8 -7/8 1 1 23/8 33/4"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="-271/64 -59/64 1/2 1/2 187/64 261/32"/>
+    <SelectManifestation point="-35/8 -7/8 1 1 23/8 33/4"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="-271/64 -59/64 1/2 1/2 187/64 261/32"/>
+    <SelectManifestation point="-131/32 -31/32 0 0 95/32 129/16"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="-4 -1 -1 -1 3 8"/>
+    <SelectManifestation point="-4 -2 0 0 2 6"/>
+    <SelectManifestation point="-3 -1 1 2 2 5"/>
+    <SelectManifestation endSegment="-3/2 1 1 1 1 7/2" startSegment="-7/2 -2 1 1 4 17/2"/>
+    <SelectManifestation endSegment="-3/2 1 1 1 1 7/2" startSegment="-7/2 -2 1 1 4 17/2"/>
+    <SelectManifestation point="-25/8 -5/8 1 1 21/8 27/4"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="-113/32 -37/32 1/4 1/2 77/32 103/16"/>
+    <SelectManifestation point="-25/8 -5/8 1 1 21/8 27/4"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="-213/64 -57/64 5/8 3/4 161/64 211/32"/>
+    <SelectManifestation point="-25/8 -5/8 1 1 21/8 27/4"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="-213/64 -57/64 5/8 3/4 161/64 211/32"/>
+    <SelectManifestation point="-113/32 -37/32 1/4 1/2 77/32 103/16"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="-4 -2 0 0 2 6"/>
+    <SelectManifestation point="-3 -1 1 2 2 5"/>
+    <SelectManifestation point="-1 1 1 2 2 5"/>
+    <DeselectAll/>
+    <SelectManifestation point="-5/2 -1/2 1 1 5/2 6"/>
+    <SelectManifestation point="-9/4 -1/8 1 1 17/8 43/8"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="-19/8 -5/16 1 1 37/16 91/16"/>
+    <SelectManifestation point="-3 -1 1 2 2 5"/>
+    <SelectManifestation point="-4 -2 0 0 2 6"/>
+    <SelectManifestation point="-1 1 1 2 2 5"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="-83/32 -37/64 3/4 5/4 133/64 347/64"/>
+    <SelectManifestation point="-19/8 -5/16 1 1 37/16 91/16"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <SelectManifestation point="-83/32 -37/64 3/4 5/4 133/64 347/64"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="-3 -1 1 2 2 5"/>
+    <SelectManifestation point="-1 1 1 2 2 5"/>
+    <SelectManifestation point="0 2 0 0 2 4"/>
+    <SelectManifestation point="-15/8 7/16 1 1 25/16 71/16"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="-15/8 7/16 1 1 25/16 71/16"/>
+    <SelectManifestation point="-47/32 39/64 3/4 5/4 121/64 295/64"/>
+    <SelectManifestation point="-2 1/4 1 1 7/4 19/4"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <SelectManifestation point="-47/32 39/64 3/4 5/4 121/64 295/64"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="-1 1 1 2 2 5"/>
+    <SelectManifestation point="0 2 0 0 2 4"/>
+    <SelectManifestation point="0 1 -1 -1 1 2"/>
+    <SelectManifestation point="-3/2 1 1 1 1 7/2"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="-5/8 5/4 1/4 1/2 3/2 29/8"/>
+    <SelectManifestation point="-3/2 1 1 1 1 7/2"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="-17/16 9/8 5/8 3/4 5/4 57/16"/>
+    <SelectManifestation point="-3/2 1 1 1 1 7/2"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="-17/16 9/8 5/8 3/4 5/4 57/16"/>
+    <SelectManifestation point="-5/8 5/4 1/4 1/2 3/2 29/8"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="-3/2 1 1 1 1 7/2"/>
+    <SelectManifestation point="0 1 -1 -1 1 2"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="-1/2 2/3 0 0 2/3 11/6"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="-1/4 1/3 0 0 1/3 11/12"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="-1/8 1/6 0 0 1/6 11/24"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="-1/8 1/6 0 0 1/6 11/24"/>
+    <SelectManifestation point="-1/4 1/3 0 0 1/3 11/12"/>
+    <SelectManifestation point="-1/2 2/3 0 0 2/3 11/6"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="-7/4 5/8 1 1 11/8 33/8"/>
+    <SelectManifestation point="-15/8 7/16 1 1 25/16 71/16"/>
+    <SelectManifestation point="-2 1/4 1 1 7/4 19/4"/>
+    <SelectManifestation point="-9/4 -1/8 1 1 17/8 43/8"/>
+    <SelectManifestation point="-19/8 -5/16 1 1 37/16 91/16"/>
+    <SelectManifestation point="-5/2 -1/2 1 1 5/2 6"/>
+    <SelectManifestation point="-25/8 -5/8 1 1 21/8 27/4"/>
+    <SelectManifestation point="-15/4 -3/4 1 1 11/4 15/2"/>
+    <SelectManifestation point="-35/8 -7/8 1 1 23/8 33/4"/>
+    <SelectManifestation point="-5/2 -1/2 1 1 5/2 6"/>
+    <SelectManifestation point="-5/2 -1/2 1 1 5/2 6"/>
+    <SelectManifestation point="-5/2 -1/2 1 1 5/2 6"/>
+    <SelectManifestation point="-5/2 -1/2 1 1 5/2 6"/>
+    <SelectManifestation point="-11/4 -1/3 1 1 7/3 73/12"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="-39/8 -15/16 13/16 7/8 25/8 73/8"/>
+    <SelectManifestation point="-4 0 0 0 4 10"/>
+    <SelectManifestation point="-5 -1 1 2 4 11"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="-37/8 -31/48 29/48 23/24 89/24 241/24"/>
+    <DeselectAll/>
+    <SelectManifestation point="-5 -1 1 2 4 11"/>
+    <SelectManifestation point="-37/8 -31/48 29/48 23/24 89/24 241/24"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="-77/16 -79/96 77/96 71/48 185/48 505/48"/>
+    <SelectManifestation point="-5 -1 1 2 4 11"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="-77/16 -79/96 77/96 71/48 185/48 505/48"/>
+    <SelectManifestation point="-37/8 -31/48 29/48 23/24 89/24 241/24"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="-157/32 -175/192 173/192 167/96 377/96 1033/96"/>
+    <SelectManifestation point="-4 0 0 0 4 10"/>
+    <SelectManifestation point="-39/8 -15/16 13/16 7/8 25/8 73/8"/>
+    <SelectManifestation point="-4 -1 -1 -1 3 8"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="-39/8 -15/16 13/16 7/8 25/8 73/8"/>
+    <SelectManifestation point="-4 0 0 0 4 10"/>
+    <SelectManifestation point="-4 -1 -1 -1 3 8"/>
+    <SelectManifestation point="-551/128 -115/128 3/4 3/4 371/128 525/64"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="-551/128 -115/128 3/4 3/4 371/128 525/64"/>
+    <SelectManifestation point="-4 -1 -1 -1 3 8"/>
+    <SelectManifestation point="-4 -2 0 0 2 6"/>
+    <SelectManifestation point="-413/128 -97/128 13/16 7/8 329/128 427/64"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="-413/128 -97/128 13/16 7/8 329/128 427/64"/>
+    <SelectManifestation point="-4 -2 0 0 2 6"/>
+    <SelectManifestation point="-3 -1 1 2 2 5"/>
+    <SelectManifestation point="-159/64 -57/128 7/8 9/8 281/128 711/128"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="-159/64 -57/128 7/8 9/8 281/128 711/128"/>
+    <SelectManifestation point="-3 -1 1 2 2 5"/>
+    <SelectManifestation point="-1 1 1 2 2 5"/>
+    <SelectManifestation point="-57/32 83/192 11/12 13/12 111/64 883/192"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="-57/32 83/192 11/12 13/12 111/64 883/192"/>
+    <SelectManifestation point="-1 1 1 2 2 5"/>
+    <SelectManifestation point="0 2 0 0 2 4"/>
+    <SelectManifestation point="-41/32 17/16 13/16 7/8 9/8 113/32"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="0 2 0 0 2 4"/>
+    <SelectManifestation point="-41/32 17/16 13/16 7/8 9/8 113/32"/>
+    <SelectManifestation point="0 1 -1 -1 1 2"/>
+    <SelectManifestation point="-1/16 1/12 0 0 1/12 11/48"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <SelectManifestation point="-569/128 -547/768 137/768 155/384 1349/384 3637/384"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="-157/32 -175/192 173/192 167/96 377/96 1033/96"/>
+    <SelectManifestation point="-4 0 0 0 4 10"/>
+    <SelectManifestation point="-39/8 -15/16 13/16 7/8 25/8 73/8"/>
+    <EndBlock/>
+    <Polygon/>
+    <BeginBlock/>
+    <SelectManifestation point="-39/8 -15/16 13/16 7/8 25/8 73/8"/>
+    <SelectManifestation point="-2199/512 -363/512 9/64 5/32 1667/512 2261/256"/>
+    <SelectManifestation point="-4 0 0 0 4 10"/>
+    <EndBlock/>
+    <Polygon/>
+    <BeginBlock/>
+    <SelectManifestation point="-2199/512 -363/512 9/64 5/32 1667/512 2261/256"/>
+    <SelectManifestation point="-4 -1 -1 -1 3 8"/>
+    <SelectManifestation point="-4 0 0 0 4 10"/>
+    <EndBlock/>
+    <Polygon/>
+    <BeginBlock/>
+    <SelectManifestation point="-2199/512 -363/512 9/64 5/32 1667/512 2261/256"/>
+    <SelectManifestation point="-551/128 -115/128 3/4 3/4 371/128 525/64"/>
+    <SelectManifestation point="-39/8 -15/16 13/16 7/8 25/8 73/8"/>
+    <EndBlock/>
+    <Polygon/>
+    <BeginBlock/>
+    <SelectManifestation point="-551/128 -115/128 3/4 3/4 371/128 525/64"/>
+    <SelectManifestation point="-4 -1 -1 -1 3 8"/>
+    <SelectManifestation point="-2199/512 -363/512 9/64 5/32 1667/512 2261/256"/>
+    <EndBlock/>
+    <Polygon/>
+    <BeginBlock/>
+    <SelectManifestation point="-497/128 -149/128 9/64 5/32 335/128 231/32"/>
+    <SelectManifestation point="-4 -1 -1 -1 3 8"/>
+    <SelectManifestation point="-551/128 -115/128 3/4 3/4 371/128 525/64"/>
+    <EndBlock/>
+    <Polygon/>
+    <BeginBlock/>
+    <SelectManifestation point="-497/128 -149/128 9/64 5/32 335/128 231/32"/>
+    <SelectManifestation point="-4 -2 0 0 2 6"/>
+    <SelectManifestation point="-4 -1 -1 -1 3 8"/>
+    <EndBlock/>
+    <Polygon/>
+    <BeginBlock/>
+    <SelectManifestation point="-497/128 -149/128 9/64 5/32 335/128 231/32"/>
+    <SelectManifestation point="-413/128 -97/128 13/16 7/8 329/128 427/64"/>
+    <SelectManifestation point="-551/128 -115/128 3/4 3/4 371/128 525/64"/>
+    <EndBlock/>
+    <Polygon/>
+    <BeginBlock/>
+    <SelectManifestation point="-413/128 -97/128 13/16 7/8 329/128 427/64"/>
+    <SelectManifestation point="-4 -2 0 0 2 6"/>
+    <SelectManifestation point="-497/128 -149/128 9/64 5/32 335/128 231/32"/>
+    <EndBlock/>
+    <Polygon/>
+    <BeginBlock/>
+    <SelectManifestation point="-1627/512 -269/256 43/64 1 561/256 2973/512"/>
+    <SelectManifestation point="-4 -2 0 0 2 6"/>
+    <SelectManifestation point="-413/128 -97/128 13/16 7/8 329/128 427/64"/>
+    <EndBlock/>
+    <Polygon/>
+    <BeginBlock/>
+    <SelectManifestation point="-1627/512 -269/256 43/64 1 561/256 2973/512"/>
+    <SelectManifestation point="-3 -1 1 2 2 5"/>
+    <SelectManifestation point="-4 -2 0 0 2 6"/>
+    <EndBlock/>
+    <Polygon/>
+    <BeginBlock/>
+    <SelectManifestation point="-1627/512 -269/256 43/64 1 561/256 2973/512"/>
+    <SelectManifestation point="-159/64 -57/128 7/8 9/8 281/128 711/128"/>
+    <SelectManifestation point="-413/128 -97/128 13/16 7/8 329/128 427/64"/>
+    <EndBlock/>
+    <Polygon/>
+    <BeginBlock/>
+    <SelectManifestation point="-1627/512 -269/256 43/64 1 561/256 2973/512"/>
+    <SelectManifestation point="-3 -1 1 2 2 5"/>
+    <SelectManifestation point="-159/64 -57/128 7/8 9/8 281/128 711/128"/>
+    <EndBlock/>
+    <Polygon/>
+    <BeginBlock/>
+    <SelectManifestation point="-159/64 -57/128 7/8 9/8 281/128 711/128"/>
+    <SelectManifestation point="-529/256 -5/1536 91/96 149/96 1015/512 7739/1536"/>
+    <SelectManifestation point="-3 -1 1 2 2 5"/>
+    <EndBlock/>
+    <Polygon/>
+    <BeginBlock/>
+    <SelectManifestation point="-529/256 -5/1536 91/96 149/96 1015/512 7739/1536"/>
+    <SelectManifestation point="-1 1 1 2 2 5"/>
+    <SelectManifestation point="-3 -1 1 2 2 5"/>
+    <EndBlock/>
+    <Polygon/>
+    <BeginBlock/>
+    <SelectManifestation point="-529/256 -5/1536 91/96 149/96 1015/512 7739/1536"/>
+    <SelectManifestation point="-57/32 83/192 11/12 13/12 111/64 883/192"/>
+    <SelectManifestation point="-159/64 -57/128 7/8 9/8 281/128 711/128"/>
+    <EndBlock/>
+    <Polygon/>
+    <BeginBlock/>
+    <SelectManifestation point="-57/32 83/192 11/12 13/12 111/64 883/192"/>
+    <SelectManifestation point="-1 1 1 2 2 5"/>
+    <SelectManifestation point="-529/256 -5/1536 91/96 149/96 1015/512 7739/1536"/>
+    <EndBlock/>
+    <Polygon/>
+    <BeginBlock/>
+    <SelectManifestation point="-57/32 83/192 11/12 13/12 111/64 883/192"/>
+    <SelectManifestation point="-65/64 863/768 131/192 95/96 439/256 3289/768"/>
+    <SelectManifestation point="-1 1 1 2 2 5"/>
+    <EndBlock/>
+    <Polygon/>
+    <BeginBlock/>
+    <SelectManifestation point="-65/64 863/768 131/192 95/96 439/256 3289/768"/>
+    <SelectManifestation point="0 2 0 0 2 4"/>
+    <SelectManifestation point="-1 1 1 2 2 5"/>
+    <EndBlock/>
+    <Polygon/>
+    <BeginBlock/>
+    <SelectManifestation point="-65/64 863/768 131/192 95/96 439/256 3289/768"/>
+    <SelectManifestation point="-41/32 17/16 13/16 7/8 9/8 113/32"/>
+    <SelectManifestation point="-57/32 83/192 11/12 13/12 111/64 883/192"/>
+    <EndBlock/>
+    <Polygon/>
+    <BeginBlock/>
+    <SelectManifestation point="-41/32 17/16 13/16 7/8 9/8 113/32"/>
+    <SelectManifestation point="0 2 0 0 2 4"/>
+    <SelectManifestation point="-65/64 863/768 131/192 95/96 439/256 3289/768"/>
+    <EndBlock/>
+    <Polygon/>
+    <BeginBlock/>
+    <SelectManifestation point="-41/32 17/16 13/16 7/8 9/8 113/32"/>
+    <SelectManifestation point="-43/128 199/192 -3/64 -1/32 101/96 937/384"/>
+    <SelectManifestation point="0 2 0 0 2 4"/>
+    <EndBlock/>
+    <Polygon/>
+    <BeginBlock/>
+    <SelectManifestation point="-43/128 199/192 -3/64 -1/32 101/96 937/384"/>
+    <SelectManifestation point="0 1 -1 -1 1 2"/>
+    <SelectManifestation point="0 2 0 0 2 4"/>
+    <EndBlock/>
+    <Polygon/>
+    <BeginBlock/>
+    <SelectManifestation point="-43/128 199/192 -3/64 -1/32 101/96 937/384"/>
+    <SelectManifestation point="-41/32 17/16 13/16 7/8 9/8 113/32"/>
+    <SelectManifestation point="-1/16 1/12 0 0 1/12 11/48"/>
+    <EndBlock/>
+    <Polygon/>
+    <BeginBlock/>
+    <SelectManifestation point="-1/16 1/12 0 0 1/12 11/48"/>
+    <SelectManifestation point="0 1 -1 -1 1 2"/>
+    <SelectManifestation point="-43/128 199/192 -3/64 -1/32 101/96 937/384"/>
+    <EndBlock/>
+    <Polygon/>
+    <BeginBlock/>
+    <SelectManifestation point="-43/128 199/192 -3/64 -1/32 101/96 937/384"/>
+    <SelectManifestation point="-41/32 17/16 13/16 7/8 9/8 113/32"/>
+    <SelectManifestation point="-65/64 863/768 131/192 95/96 439/256 3289/768"/>
+    <SelectManifestation point="-57/32 83/192 11/12 13/12 111/64 883/192"/>
+    <SelectManifestation point="-529/256 -5/1536 91/96 149/96 1015/512 7739/1536"/>
+    <SelectManifestation point="-159/64 -57/128 7/8 9/8 281/128 711/128"/>
+    <SelectManifestation point="-1627/512 -269/256 43/64 1 561/256 2973/512"/>
+    <SelectManifestation point="-413/128 -97/128 13/16 7/8 329/128 427/64"/>
+    <SelectManifestation point="-497/128 -149/128 9/64 5/32 335/128 231/32"/>
+    <SelectManifestation point="-551/128 -115/128 3/4 3/4 371/128 525/64"/>
+    <SelectManifestation point="-2199/512 -363/512 9/64 5/32 1667/512 2261/256"/>
+    <SelectManifestation point="-39/8 -15/16 13/16 7/8 25/8 73/8"/>
+    <SelectManifestation point="-157/32 -175/192 173/192 167/96 377/96 1033/96"/>
+    <SelectManifestation point="-1/16 1/12 0 0 1/12 11/48"/>
+    <SelectManifestation>
+      <polygonVertex at="-1/16 1/12 0 0 1/12 11/48"/>
+      <polygonVertex at="0 1 -1 -1 1 2"/>
+      <polygonVertex at="-43/128 199/192 -3/64 -1/32 101/96 937/384"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <Hide/>
+    <Snapshot id="9"/>
+  </EditHistory>
+  <notes>
+    <page snapshot="0" title="">
+      <ViewModel distance="42.47346115112305" far="84.9469223022461" near="0.10618365556001663" parallel="false" stereoAngle="0.0" width="19.113059997558594">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.0" y="1.0" z="0.0"/>
+        <LookDirection x="0.525731086730957" y="0.0" z="-0.8506507873535156"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="1" title="">
+      <ViewModel distance="39.20794677734375" far="78.4158935546875" near="0.09801986068487167" parallel="false" stereoAngle="0.0" width="17.64357566833496">
+        <LookAtPoint x="1.6180340051651" y="-2.6180338859558105" z="4.236067771911621"/>
+        <UpDirection x="0.0" y="1.0" z="0.0"/>
+        <LookDirection x="0.525731086730957" y="0.0" z="-0.8506507873535156"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="2" title="">
+      <ViewModel distance="40.80805206298828" far="81.61610412597656" near="0.10202014446258545" parallel="false" stereoAngle="0.0" width="18.363624572753906">
+        <LookAtPoint x="3.2360680103302" y="0.0" z="8.472135543823242"/>
+        <UpDirection x="0.0" y="1.0" z="0.0"/>
+        <LookDirection x="0.525731086730957" y="0.0" z="-0.8506507873535156"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="3" title="">
+      <ViewModel distance="68.64027404785156" far="137.28054809570312" near="0.17160072922706604" parallel="false" stereoAngle="0.0" width="30.88812828063965">
+        <LookAtPoint x="-1.063660979270935" y="0.9756836891174316" z="7.432791233062744"/>
+        <UpDirection x="0.0" y="1.0" z="0.0"/>
+        <LookDirection x="0.525731086730957" y="0.0" z="-0.8506507873535156"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="4" title="">
+      <ViewModel distance="58.49138259887695" far="116.9827651977539" near="0.14622850716114044" parallel="false" stereoAngle="0.0" width="26.32113265991211">
+        <LookAtPoint x="-1.063660979270935" y="0.9756836891174316" z="7.432791233062744"/>
+        <UpDirection x="0.0" y="1.0" z="0.0"/>
+        <LookDirection x="0.525731086730957" y="0.0" z="-0.8506507873535156"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="5" title="">
+      <ViewModel distance="46.94043731689453" far="93.88087463378906" near="0.11735115200281143" parallel="false" stereoAngle="0.0" width="21.123205184936523">
+        <LookAtPoint x="-6.6180338859558105" y="3.427051067352295" z="19.680339813232422"/>
+        <UpDirection x="0.0" y="1.0" z="0.0"/>
+        <LookDirection x="0.525731086730957" y="0.0" z="-0.8506507873535156"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="6" title="">
+      <ViewModel distance="46.01095199584961" far="92.02190399169922" near="0.11502743512392044" parallel="false" stereoAngle="0.0" width="20.704936981201172">
+        <LookAtPoint x="0.0" y="1.3090169429779053" z="3.427051067352295"/>
+        <UpDirection x="0.3648054599761963" y="0.3333255648612976" z="0.869373619556427"/>
+        <LookDirection x="0.8933066129684448" y="0.13796643912792206" z="-0.42774587869644165"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="7" title="">
+      <ViewModel distance="47.888694763183594" far="95.77739715576172" near="0.11972180008888245" parallel="false" stereoAngle="0.0" width="21.549922943115234">
+        <LookAtPoint x="-3.3090169429779053" y="2.6180338859558105" z="12.20820426940918"/>
+        <UpDirection x="0.04172052443027496" y="0.2336685061454773" z="0.9714201092720032"/>
+        <LookDirection x="0.9427363872528076" y="0.3128125071525574" z="-0.1157335564494133"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="8" title="">
+      <ViewModel distance="98.38412475585938" far="196.76829528808594" near="0.24596045911312103" parallel="false" stereoAngle="0.0" width="44.27288055419922">
+        <LookAtPoint x="-3.3090169429779053" y="2.6180338859558105" z="12.20820426940918"/>
+        <UpDirection x="-0.5494546890258789" y="-0.13754157721996307" z="0.8241243362426758"/>
+        <LookDirection x="-0.1738874316215515" y="-0.9459344744682312" z="-0.2738044261932373"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="9" title="">
+      <ViewModel distance="102.39925384521484" far="204.7985076904297" near="0.09481419622898102" parallel="false" stereoAngle="0.0" width="46.07966613769531">
+        <LookAtPoint x="-7.236067771911621" y="0.0" z="11.70820426940918"/>
+        <UpDirection x="-0.24533163011074066" y="0.3654285967350006" z="0.8979349732398987"/>
+        <LookDirection x="0.6752464175224304" y="0.7290131449699402" z="-0.11219801008701324"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+  </notes>
+  <sceneModel ambientLight="41,41,41" background="175,200,220">
+    <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
+    <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
+    <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="102.39925384521484" far="204.7985076904297" near="0.09481419622898102" parallel="false" stereoAngle="0.0" width="46.07966613769531">
+      <LookAtPoint x="-7.236067771911621" y="0.0" z="11.70820426940918"/>
+      <UpDirection x="-0.052986424416303635" y="0.8498008251190186" z="0.5244474411010742"/>
+      <LookDirection x="0.8293322920799255" y="0.32998448610305786" z="-0.45091500878334045"/>
+    </ViewModel>
+  </Viewing>
+  <SymmetrySystem name="icosahedral" renderingStyle="lifelike">
+    <Direction color="255,255,255" name="5" orbit="[[-19792,29269,140261],[-282753,238870,981827]]" prototype="-2873/8192 -2081/4096 -117/4096 -3437/8192 2519/8192 1159/8192"/>
+    <Direction color="255,255,255" name="6" orbit="[[0,0,1],[117,-52,224]]" prototype="-43/128 -289/512 -159/512 13/512 -117/512 69/128"/>
+    <Direction color="255,255,255" name="3" orbit="[[-11648,9581,80141],[139053,-68493,80141]]" prototype="315/128 -13/32 -13/32 39/128 -591/128 315/128"/>
+    <Direction color="255,255,255" name="4" orbit="[[-188160,341843,3543269],[-284351,1228097,17716345]]" prototype="-1177/2048 1963/2048 -2349/2048 -195/1024 729/512 -1401/2048"/>
+    <Direction color="255,255,255" name="1" orbit="[[0,0,1],[2,-1,14]]" prototype="-1/8 15/16 -15/16 15/16 -11/16 -1/8"/>
+    <Direction color="255,255,255" name="2" orbit="[[25116,4043,2542053],[-2670405,2226661,2542053]]" prototype="2505/2048 393/1024 13/1024 13/2048 -1943/2048 2057/2048"/>
+    <Direction color="255,255,255" name="0" orbit="[[364,-195,139],[837,-503,139]]" prototype="185/96 -55/96 55/96 5/48 -5/4 55/96"/>
+    <Direction color="50,50,50" name="black" orbit="[[-2,3,11],[-7,5,11]]"/>
+    <Direction color="255,51,143" name="rose" orbit="[[0,0,1],[-4,3,5]]"/>
+    <Direction color="0,179,161" name="turquoise" orbit="[[2,-1,2],[-3,2,2]]"/>
+    <Direction color="125,54,211" name="purple" orbit="[[2,-1,1],[0,0,1]]"/>
+    <Direction color="255,255,255" name="9" orbit="[[-4345432,4482699,90356011],[121725195,-73488811,90356011]]" prototype="-8507/8192 -2289/4096 91/4096 -429/8192 7737/8192 -4475/8192"/>
+    <Direction color="255,255,255" name="7" orbit="[[5114480,-2448307,4239439],[2923411,-1725149,4239439]]" prototype="341/2048 2539/4096 765/4096 895/4096 1409/4096 5/2048"/>
+    <Direction color="255,255,255" name="8" orbit="[[-3791788,3177681,33926911],[53712159,-29325055,33926911]]" prototype="-5465/8192 -2289/4096 91/4096 -429/8192 4695/8192 -1433/8192"/>
+    <Direction color="18,73,48" name="spruce" orbit="[[-5,4,11],[-5,4,11]]"/>
+    <Direction color="255,126,106" name="coral" orbit="[[-3,2,2],[-1,1,2]]"/>
+    <Direction color="117,0,50" name="maroon" orbit="[[5,-3,1],[0,0,1]]"/>
+    <Direction color="239,245,61" name="sulfur" orbit="[[-1,1,3],[0,0,1]]"/>
+    <Direction color="116,195,0" name="apple" orbit="[[2,-1,3],[-1,1,3]]"/>
+    <Direction color="0,0,153" name="navy" orbit="[[-1,1,2],[2,-1,2]]"/>
+    <Direction color="0,153,63" name="green" orbit="[[2,-1,1],[5,-3,1]]"/>
+    <Direction color="154,117,74" name="sand" orbit="[[-8,5,1],[5,-3,1]]"/>
+    <Direction color="255,255,255" name="17" orbit="[[7589720,-4603885,582739],[-7831603,4845651,582739]]" prototype="173/1536 11/96 217/1024 785/1536 187/1536 303/512"/>
+    <Direction color="255,255,255" name="16" orbit="[[21329870,-10570685,18317209],[17472729,-8747769,18317209]]" prototype="-1473/8192 141/2048 -229/2048 -4073/8192 -1003/8192 -5473/8192"/>
+    <Direction color="255,255,255" name="19" orbit="[[-500976,448469,570019],[265653,-125627,570019]]" prototype="-11/48 -349/768 1/96 19/1536 -253/768 -41/96"/>
+    <Direction color="255,255,255" name="18" orbit="[[0,0,1],[3833,-1456,25744]]" prototype="0 0 -9/256 59/768 5/48 43/48"/>
+    <Direction color="255,255,255" name="13" orbit="[[23648352,-14454427,1068751],[18044015,-11147439,1068751]]" prototype="-4085/8192 -2335/8192 1397/8192 1053/2048 1099/4096 -21/8192"/>
+    <Direction color="255,255,255" name="12" orbit="[[41814136,-22756721,22470001],[14088145,-6827633,22470001]]" prototype="-3835/8192 -1873/4096 507/4096 5075/8192 3897/8192 197/8192"/>
+    <Direction color="255,255,255" name="15" orbit="[[50398,-30651,9183],[141383,-81103,45915]]" prototype="187/1024 627/4096 -2265/4096 -3525/4096 -665/4096 -5/1024"/>
+    <Direction color="255,255,255" name="14" orbit="[[0,0,1],[3645,-1440,4712]]" prototype="-137/256 -69/512 159/512 163/512 253/512 71/256"/>
+    <Direction color="235,82,0" name="orange" orbit="[[-4,3,5],[3,-1,5]]"/>
+    <Direction color="107,53,26" name="brown" orbit="[[2,-1,3],[5,-3,3]]"/>
+    <Direction color="255,255,255" name="11" orbit="[[5059936,-2636969,4177137],[-2911817,1880215,4177137]]" prototype="3131/4096 497/2048 -91/2048 -1363/4096 -2361/4096 2683/4096"/>
+    <Direction color="255,255,255" name="10" orbit="[[0,0,1],[91,-52,56]]" prototype="-1/32 -95/128 17/128 13/128 -91/128 27/32"/>
+    <Direction color="0,142,194" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
+    <Direction color="217,18,24" name="red" orbit="[[-1,1,1],[0,0,1]]"/>
+    <Direction color="255,179,26" name="yellow" orbit="[[0,0,1],[2,-1,1]]"/>
+    <Direction color="255,255,255" name="28" orbit="[[-143944,186559,867331],[1372265,-710281,867331]]" prototype="811/3072 -77/64 -497/1536 -1/1024 -4415/3072 3607/3072"/>
+    <Direction color="255,255,255" name="27" orbit="[[-1280344,2090029,6026809],[-5196419,3432043,6026809]]" prototype="367/1536 -143/128 -719/768 -1/512 -1991/1536 1627/1536"/>
+    <Direction color="136,37,0" name="cinnamon" orbit="[[5,-3,2],[2,-1,2]]"/>
+    <Direction color="255,255,255" name="24" orbit="[[20986108,-8004555,32643059],[-74429011,46591379,32643059]]" prototype="-6445/12288 -3391/12288 -1759/4096 -197/512 1879/6144 -589/12288"/>
+    <Direction color="255,255,255" name="23" orbit="[[-66494,41425,7831],[-1283929,830357,321071]]" prototype="93/2048 199/1536 295/768 3757/6144 55/2048 -457/6144"/>
+    <Direction color="255,255,255" name="26" orbit="[[0,0,1],[82,-41,176]]" prototype="-45/128 -217/384 -45/128 0 -41/192 217/384"/>
+    <Direction color="255,255,255" name="25" orbit="[[9929036,-6089603,387221],[-4643479,2931755,387221]]" prototype="-1157/3072 -23/48 -1481/1536 -1/1024 -223/3072 461/1024"/>
+    <Direction color="255,255,255" name="20" orbit="[[-10487112,6819881,2748041],[-6566679,4072439,2748041]]" prototype="173/1536 11/96 -255/1024 -683/1536 41/512 973/1536"/>
+    <Direction color="255,255,255" name="22" orbit="[[0,0,1],[36198,-19161,24404]]" prototype="-169/256 -19/768 -451/768 -7/48 17/24 149/768"/>
+    <Direction color="255,255,255" name="21" orbit="[[45565934,-22834931,49009319],[37708327,-19125767,49009319]]" prototype="843/4096 -43/3072 -223/1536 -6517/12288 881/4096 8833/12288"/>
+    <Direction color="175,135,255" name="lavender" orbit="[[-3,2,1],[-3,2,1]]"/>
+    <Direction color="100,113,0" name="olive" orbit="[[3,-1,5],[0,0,1]]"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="trapezoids">
+      <Direction color="0,142,194" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
+      <Direction color="175,135,255" name="lavender" orbit="[[1,2,1],[-1,0,1]]"/>
+      <Direction color="0,179,161" name="turquoise" orbit="[[-1,2,1],[1,-2,1]]"/>
+      <Direction color="50,50,50" name="black" orbit="[[0,1,1],[1,-1,1]]"/>
+      <Direction color="0,153,63" name="green" orbit="[[0,0,1],[-1,0,1]]"/>
+      <Direction color="100,113,0" name="olive" orbit="[[1,0,1],[3,-2,1]]"/>
+      <Direction color="117,0,50" name="maroon" orbit="[[-1,2,1],[1,0,1]]"/>
+      <Direction color="107,53,26" name="brown" orbit="[[1,0,1],[-2,0,1]]"/>
+      <Direction color="255,179,26" name="yellow" orbit="[[1,0,1],[-1,0,1]]"/>
+      <Direction color="217,18,24" name="red" orbit="[[-1,1,1],[0,0,1]]"/>
+      <Direction color="125,54,211" name="purple" orbit="[[0,0,1],[2,-1,1]]"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools/>
+</vzome:vZome>
