@@ -66,8 +66,8 @@ Browse on [vZome Online](https://www.vzome.com/app/browser/?user=zometool) to ea
 
 ### Instructions for Crazy Bubbles
  - [Cube With Bubble](./2025/03/25/19-37-46-989Z-PRJ-BUB-1-Hypercube-Wand-with-bubble/)
- - [Prism With Bubble](./2025/03/25/04-34-13-672Z-PRJ-BUB-2-Prism-Tri+bubble/) <!--add to ZT-->
- - [Pumpkin With Bubble](./2025/03/25/04-37-06-005Z-PRJ-BUB-3-Pumpkin+bubble/) <!--add to ZT-->
+ - [Prism With Bubble](./2025/03/25/04-34-13-672Z-PRJ-BUB-2-Prism-Tri+bubble/) 
+ - [Pumpkin With Bubble](./2025/03/25/04-37-06-005Z-PRJ-BUB-3-Pumpkin+bubble/) 
  - [Banana with Bubble](./2025/07/21/12-45-09-PRJ-BUB-4-Banana+bubble/)
    - [Banana (No bubble, Old)](./2025/03/25/05-14-04-117Z-PRJ-BUB-4-Banana/) [](./2024/04/30/)
  - [Flower with Bubble](./2025/07/21/13-07-23-PRJ-BUB-5-Flower+bubble-2/)
@@ -82,6 +82,7 @@ Browse on [vZome Online](https://www.vzome.com/app/browser/?user=zometool) to ea
 
 
 ### Instructions for Crystallography 
+  <!--
   <details>
     <summary>
       <h4> Crystallography (Expand list) </h4>
@@ -90,6 +91,16 @@ Browse on [vZome Online](https://www.vzome.com/app/browser/?user=zometool) to ea
     <li> <a href="./2025/"> Primitive Cubic </a> </li>
     </ul>
   </details> 
+  -->
+
+  - Crystallography
+    - [Cubic](./2025/07/21/15-01-04-CRY-Cubic-F-All/)
+    - [Tetragonal](./2025/07/21/14-53-32-CRY-Tetragonal-P-All/)
+    - [Orthorhombic](./2025/07/21/14-56-53-CRY-Orthorhombic-F-All/)
+    - [Monoclinic](./2025/07/21/15-02-07-CRY-Monoclinic-C-All/)
+    - [Triclinic](./2025/07/21/14-54-01-CRY-Triclinic-P-Only/)
+    - [Rhombohedral](./2025/07/21/14-55-30-CRY-Rhombohedral-P-Only/)
+    - [Hexagonal](./2025/07/21/14-58-38-CRY-Hexagonal-P-Only/)
 
 ### Instructions for Molecular Mania
   - Molecular Mania Cards Here
