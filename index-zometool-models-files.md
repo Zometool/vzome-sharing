@@ -9,7 +9,7 @@ Browse on [vZome Online](https://www.vzome.com/app/browser/?user=zometool) to ea
 ## *STEAM:* Math
 
 ### Instructions for Ice Crystals and Stars
-<!-->
+<!-- >
   <details>
     <summary>
       <h4> Ice Crystals (Expand list) </h4>
@@ -21,7 +21,7 @@ Browse on [vZome Online](https://www.vzome.com/app/browser/?user=zometool) to ea
       <h4> Stellated Models (Expand list) </h4>
     </summary>
   </details> 
-  <-->
+  < -->
 
   - Ice Crystals (3-fold)
     - [Basic Crystal](./2025/07/22/12-50-12-KRI-2d-3fold-1/)
