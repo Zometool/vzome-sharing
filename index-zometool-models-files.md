@@ -9,6 +9,7 @@ Browse on [vZome Online](https://www.vzome.com/app/browser/?user=zometool) to ea
 ## *STEAM:* Math
 
 ### Instructions for Ice Crystals and Stars
+<!-->
   <details>
     <summary>
       <h4> Ice Crystals (Expand list) </h4>
@@ -20,6 +21,28 @@ Browse on [vZome Online](https://www.vzome.com/app/browser/?user=zometool) to ea
       <h4> Stellated Models (Expand list) </h4>
     </summary>
   </details> 
+  <-->
+
+  - Ice Crystals (3-fold)
+    - [Basic Crystal](./2025/07/22/12-50-12-KRI-2d-3fold-1/)
+    - [Thin Crystal](./2025/07/22/12-51-20-KRI-2d-3fold-2/)
+    - [Fat, Webbed Crystal](./2025/07/22/12-52-05-KRI-2d-3fold-3/)
+    - [Fat Crystal](./2025/07/22/12-54-02-KRI-2d-3fold-4/)
+    - [3-fold Crystal](./2025/07/22/12-55-03-KRI-2d-3fold-5/)
+    - [Crystal with Barbs](./2025/07/22/12-56-08-KRI-2d-3fold-6/)
+    - [Extra Crystal 1](./2025/07/22/13-05-12-A13-Ice-Crystal-1-B0s/)
+
+  - Stars (5-fold)
+    - [10-pointed star](./2025/07/22/12-57-02-KRI-2d-5fold-1/)
+    - [5-pointed star](./2025/07/22/12-58-09-KRI-2d-5fold-2/)
+    - [Pentagram-Pentagon-Decagon Tiling](./2025/07/22/12-59-01-KRI-2d-5fold-3/)
+
+  - Stars (2-fold)
+    - [4-fold Star](./2025/07/22/13-01-02-KRI-2d-2fold-1/)
+    - [2-fold Plaid Star](./2025/07/22/13-02-09-KRI-2d-2fold-2/)
+  - 3-D Stellated Models
+    - [Stellated Icosahedron](./2025/07/22/13-03-01-KRI+_Stellated-Icosa/)
+    - [Stellated Dodecahedron](./2025/07/22/13-03-32-KRI+_Stellated-Dodeca/)
 
 ### Instructions for Plato's Solids
   <!-- - Preliminary set can be found at [v2024-04](./2024/04/28/) -->
