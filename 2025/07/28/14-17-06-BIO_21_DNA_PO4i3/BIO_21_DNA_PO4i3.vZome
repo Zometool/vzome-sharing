@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="101" field="golden" version="7.1">
+  <EditHistory editNumber="21" lastStickyEdit="21">
+    <StrutCreation anchor="0 0 0 0 0 0" dir="yellow" index="6" len="0 1"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="yellow" index="2" len="0 1"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="yellow" index="30" len="0 1"/>
+    <StrutCreation anchor="0 0 0 0 0 0" index="25" len="2 2"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field": "golden",
+  "vertices": [
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ]
+  ],
+  "balls": [
+    {
+      "vertex": 0,
+      "color": "#eb5200"
+    }
+  ],
+  "struts": [],
+  "panels": []
+}
+
+    
+</ImportColoredMeshJson>
+    <StrutCreation anchor="0 1 1 2 0 0" dir="red" index="15" len="1 1"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 1 1 2 0 0"/>
+    <SelectManifestation point="0 0 0 -1 1 2"/>
+    <SelectManifestation point="-1 -2 0 0 0 -1"/>
+    <SelectManifestation point="0 1 -1 -1 -1 -2"/>
+    <SelectManifestation endSegment="1 3 0 1 0 0" startSegment="0 1 1 2 0 0"/>
+    <EndBlock/>
+    <MapToColor blue="24" colorMapper="CopyLastSelectedColor" green="18" red="217"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="1 3 0 1 0 0" startSegment="0 1 1 2 0 0"/>
+    <SelectManifestation point="1 3 0 1 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <Snapshot id="0"/>
+  </EditHistory>
+  <notes>
+    <page snapshot="0" title=" Phosphate">
+      <ViewModel distance="42.47346115112305" far="84.94690704345703" near="0.03932728245854378" parallel="false" stereoAngle="0.0" width="19.113059997558594">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.5106366276741028" y="-0.8594112992286682" z="-0.02573850005865097"/>
+        <LookDirection x="-0.5458812713623047" y="-0.34718388319015503" z="0.7625463604927063"/>
+      </ViewModel>
+      <content xml:space="preserve">
+Phosphate is a molecule containing phosphorus bonded to 4 oxygen atoms. It is highly charged, and phosphoric acid is an important inorganic acid. Phosphate is part of the sugar-phosphate backbone for both DNA and RNA. Phosphate is a key part of many important energy transfer molecules, such as ATP and GTP.
+      </content>
+    </page>
+  </notes>
+  <sceneModel ambientLight="41,41,41" background="140,194,231">
+    <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
+    <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
+    <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="26.87647247314453" far="53.75294494628906" near="0.024885622784495354" parallel="false" stereoAngle="0.0" width="12.094412803649902">
+      <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+      <UpDirection x="0.5106366276741028" y="-0.8594112992286682" z="-0.02573850005865097"/>
+      <LookDirection x="-0.5458812713623047" y="-0.34718388319015503" z="0.7625463604927063"/>
+    </ViewModel>
+  </Viewing>
+  <SymmetrySystem name="icosahedral" renderingStyle="lifelike">
+    <Direction color="0,142,194" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
+    <Direction color="0,153,63" name="green" orbit="[[2,-1,1],[5,-3,1]]"/>
+    <Direction color="154,117,74" name="sand" orbit="[[-8,5,1],[5,-3,1]]"/>
+    <Direction color="18,73,48" name="spruce" orbit="[[-5,4,11],[-5,4,11]]"/>
+    <Direction color="217,18,24" name="red" orbit="[[-1,1,1],[0,0,1]]"/>
+    <Direction color="255,126,106" name="coral" orbit="[[-3,2,2],[-1,1,2]]"/>
+    <Direction color="50,50,50" name="black" orbit="[[-2,3,11],[-7,5,11]]"/>
+    <Direction color="117,0,50" name="maroon" orbit="[[5,-3,1],[0,0,1]]"/>
+    <Direction color="255,179,26" name="yellow" orbit="[[0,0,1],[2,-1,1]]"/>
+    <Direction color="230,245,62" name="sulfur" orbit="[[-1,1,3],[0,0,1]]"/>
+    <Direction color="255,51,143" name="rose" orbit="[[0,0,1],[-4,3,5]]"/>
+    <Direction color="0,179,161" name="turquoise" orbit="[[2,-1,2],[-3,2,2]]"/>
+    <Direction color="116,195,0" name="apple" orbit="[[2,-1,3],[-1,1,3]]"/>
+    <Direction color="136,37,0" name="cinnamon" orbit="[[5,-3,2],[2,-1,2]]"/>
+    <Direction color="125,54,211" name="purple" orbit="[[2,-1,1],[0,0,1]]"/>
+    <Direction color="235,82,0" name="orange" orbit="[[-4,3,5],[3,-1,5]]"/>
+    <Direction color="0,0,153" name="navy" orbit="[[-1,1,2],[2,-1,2]]"/>
+    <Direction color="107,53,26" name="brown" orbit="[[2,-1,3],[5,-3,3]]"/>
+    <Direction color="175,135,255" name="lavender" orbit="[[-3,2,1],[-3,2,1]]"/>
+    <Direction color="100,113,0" name="olive" orbit="[[3,-1,5],[0,0,1]]"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="trapezoids">
+      <Direction color="0,142,194" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
+      <Direction color="175,135,255" name="lavender" orbit="[[1,2,1],[-1,0,1]]"/>
+      <Direction color="0,179,161" name="turquoise" orbit="[[-1,2,1],[1,-2,1]]"/>
+      <Direction color="50,50,50" name="black" orbit="[[0,1,1],[1,-1,1]]"/>
+      <Direction color="0,153,63" name="green" orbit="[[0,0,1],[-1,0,1]]"/>
+      <Direction color="100,113,0" name="olive" orbit="[[1,0,1],[3,-2,1]]"/>
+      <Direction color="117,0,50" name="maroon" orbit="[[-1,2,1],[1,0,1]]"/>
+      <Direction color="107,53,26" name="brown" orbit="[[1,0,1],[-2,0,1]]"/>
+      <Direction color="255,179,26" name="yellow" orbit="[[1,0,1],[-1,0,1]]"/>
+      <Direction color="217,18,24" name="red" orbit="[[-1,1,1],[0,0,1]]"/>
+      <Direction color="125,54,211" name="purple" orbit="[[0,0,1],[2,-1,1]]"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools/>
+</vzome:vZome>
