@@ -85,6 +85,9 @@ Browse on [vZome Online](https://www.vzome.com/app/browser/?user=zometool) to ea
   - [Thin Red Cell](./2025/03/07/20-04-38-696Z-PRJ-HYP-Model-5-Thin-Red-Cell/)
   - [Flat Blue Cell](./2025/03/07/20-06-20-978Z-PRJ-HYP-Model-6-Blue-Flat-Cell/)
 
+### Pyramid Power Solutions
+The solutions can be found all compiled at [this webapp here](https://vzome.github.io/zome-tetras/).
+
 ## *STEAM:* Science
 
 ### Instructions for Crazy Bubbles
@@ -126,13 +129,13 @@ Browse on [vZome Online](https://www.vzome.com/app/browser/?user=zometool) to ea
     - [Hexagonal](./2025/07/21/14-58-38-CRY-Hexagonal-P-Only/)
 
 ### Instructions for Molecular Mania
-  - Molecular Mania Cards Here
+  - Molecular Mania Cards Here (See below)
 
 ## *STEAM:* Life Science
 
 ### Instructions for Biochemistry
   - Molecular Mania Cards Here
-  - Full Biochem Card Set Here
+  - [Full Biochem Card Set Here](https://lucosmic.github.io/zome-molecules-j/)
 
 ### Instructions for DNA *(Single Model)*
   - [DNA Model](./2025/03/05/09-13-20-424Z-PRJ-DNA-mod1/)
