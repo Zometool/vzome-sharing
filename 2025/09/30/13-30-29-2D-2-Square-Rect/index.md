@@ -2,16 +2,16 @@
 title: 2D 2 Square Rect
 share-description: A 3D design created in vZome.  Use your mouse or touch to interact.
 image: https://Zometool.github.io/vzome-sharing/2025/09/30/13-30-29-2D-2-Square-Rect/2D-2-Square-Rect.png
-layout: design
+layout: zometool
 ---
 
   
-  
-  <vzome-viewer style="width: 100%; height: 60dvh" show-scenes='named'
+  <zometool-instructions style="width: 100%; height: 60dvh"
         src="https://Zometool.github.io/vzome-sharing/2025/09/30/13-30-29-2D-2-Square-Rect/2D-2-Square-Rect.vZome" >
     <img  style="width: 100%"
         src="https://Zometool.github.io/vzome-sharing/2025/09/30/13-30-29-2D-2-Square-Rect/2D-2-Square-Rect.png" >
-  </vzome-viewer>
+  </zometool-instructions>
 
 
 [Source folder](<https://github.com/Zometool/vzome-sharing/tree/main/2025/09/30/13-30-29-2D-2-Square-Rect/>)
+
