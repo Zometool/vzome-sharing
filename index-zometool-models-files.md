@@ -161,6 +161,62 @@ The solutions can be found all compiled at [this webapp here](https://vzome.gith
 
 
 ## Zometool Manual
+### Bubbles
+- [Hypercube Bubble](./2025/03/25/04-23-37-138Z-PRJ-BUB-1-Hypercube-Wand-with-bubble/)
+- [Dodecahedron (alas; no bubble)](./2025/03/05/07-45-57-752Z-PRJ-HYP-Dodeca-by-Y1s/)
+<br><br>
+
+- [Saddle](./2025/09/30/13-27-13-p6-bubbles-fig1-saddle/)
+- [4-D Triangle](./2025/03/25/05-31-57-917Z-PRJ-BUB-6-Triangle-4D+bubble/)
+- [Flower 5-petal 2-fold](./2025/09/30/13-27-45-p6-bubbles-fig3-flower2/)
+- [Spiral](./2025/03/25/05-33-44-822Z-PRJ-BUB-7-Spiral-Helix/)
+- [Cuboid](./2025/09/30/13-28-14-p7-bubbles-fig5-cuboid/)
+- [Pumpkin](./2025/03/25/04-37-06-005Z-PRJ-BUB-3-Pumpkin+bubble/)
+
+
+### Tetra Challenge
+Again, the tetra challenge solutions is [right here](https://vzome.github.io/zome-tetras/).
+
+### Shape & Color 2, 3, 5
+- [0-D, 1-D, 2-D Explorations](./2025/09/30/13-29-44-0D-1D-2D-Explorations/)
+- [2-D 2-fold Shapes](./2025/09/30/13-30-29-2D-2-Square-Rect/)
+- [2-D 3-fold Shapes](./2025/09/30/13-31-06-2D-3-Tri-Hexagon/)
+- [2-D 5-fold Plane: Pentagon](./2025/09/30/13-32-01-2D-5-1-Pentagon/)
+- [2-D 5-fold Plane: Decagon](./2025/09/30/13-32-34-2D-5-2-Decagon/)
+
+### 2, 3 & 5 in Nature
+- [2-fold Plane: Golden Rectangle Spiral](./2025/09/30/13-33-34-p12-nature2D-2f-goldenSpiral/)
+- [3-fold Plane: Snowflake - Simple](./2025/09/30/13-35-05-p12-nature2D-3f-snowflake/)
+- [5-fold Plane: Fractal Star](./2025/09/30/13-35-46-p12-nature2D-5f-fractalStar/)
+
+### Shadows from the 4th Dimension
+- [Impossible Cube (Revision as written in Book)](./2025/09/30/13-46-32-p14-Shadows4D-ImpossibleCube-REV0/)
+  - Intention to Update This demonstrating a projection instead of a skew
+- [Parallel Hypercube Shadow](./2025/09/30/13-47-05-p14-Shadows4D-Parallel4DCube-REV0/)
+  - There's also [this one](./2025/09/30/13-47-35-p14-Shadows4D-ParallelHyperCube-REV0/) as well. 
+  - Intention to Update This demonstrating a projection instead of a skew
+- [2-D Perspective Cube Shadow](./2025/09/30/13-48-34-p16-shadows-Perspective2DCubeShadow/)
+  - There's also [this one](./2025/09/30/13-49-50-p16-shadows-Perspective2DCubeShadow+3DPerspBuild/) that shows an actual cube projected from the 2-D "shadow" build. 
+- [3-D Perspective Cube Shadow](./2025/09/30/13-50-23-p17-shadows-3DPerspCubeShadow/)
+- [4-D Perspective Cube Shadow](./2025/09/30/13-51-24-p17-shadows-4DPerspHypercube/)
+
+### 3-Dimensional Shapes
+- [Fractal Cube](./2025/09/30/13-52-43-p18+19-2-FractalCube/)
+- [Squashed Virus](./2025/09/30/13-53-11-p18+19-3-SquashedIcosa/)
+- [5-Crystal](./2025/09/30/13-54-33-p18+19-5-Crystal/) (Squashed Dodecahedron)
+<br><br>
+
+-  [Starburst Icosahedron](./2025/09/30/13-59-20-p20-starburstIcosa/)
+- [Starburst Dodecahedron](./2025/09/30/13-58-53-p20-starburstDodeca/)
+- [Double Starburst](./2025/09/30/13-59-48-p21-DoubleStarburst/)
+- [Bee House](./2025/09/30/14-01-04-p21-BeeHouse/)
+
+### Structures!
+- [Small Bridge](./2025/09/30/14-01-29-p22-SmallBridge/)
+- [Big Bridge](./2025/09/30/14-01-52-p22-BigBridge/)
+- [Pyramid](./2025/09/30/14-01-52-p22-BigBridge/)
+- [Dome](./2025/09/30/14-03-45-p22-Dome/)
+
 
 ## Standard Kits
 ### Instructions for BASIC Kit
