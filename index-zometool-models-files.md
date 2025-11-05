@@ -225,16 +225,16 @@ Again, the tetra challenge solutions is [right here](https://vzome.github.io/zom
 - [2-D 5-fold Plane: Pentagon](./2025/09/30/13-32-01-2D-5-1-Pentagon/)
 - [2-D 5-fold Plane: Decagon](./2025/09/30/13-32-34-2D-5-2-Decagon/)
 
-- [Flat Cube TBD]() (Like the Impossible Cube)
-- [Snow Flake]() (*also integrate this into the Ice Crystals kit as a bonus if it can support enough pieces*)
-- [Star]() (*ditto for ice crystals kit. I like this one a lot better than the 5-fold star in there - LC*)
+- [Flat Cube](./2025/11/05/07-37-43-2D-2-2-FlatCube/) (Like the Impossible Cube)
+- [Snow Flake](./2025/11/05/07-41-08-2D-3-2-Snow-Flake/) (*also integrate this into the Ice Crystals kit as a bonus if it can support enough pieces*)
+- [Star](./2025/11/05/07-43-47-2D-5-3-Star/) (*ditto for ice crystals kit. I like this one a lot better than the 5-fold star in there - LC*)
 - [Hypercube Bubble](./2025/03/25/04-23-37-138Z-PRJ-BUB-1-Hypercube-Wand-with-bubble/) (*Configure existing model-product*)
 - [4-D Triangle](./2025/03/25/05-31-57-917Z-PRJ-BUB-6-Triangle-4D+bubble/) (*Configure existing model-product*)
 - [Dodecahedron (alas; no bubble)](./2025/03/05/07-45-57-752Z-PRJ-HYP-Dodeca-by-Y1s/) (*Configure existing model-product. Should we add a bubble?*)
 - [4-D Perspective Cube Shadow (Hypercube)](./2025/09/30/13-51-24-p17-shadows-4DPerspHypercube/) (*Configure existing model-product*)
-- [Simplex]()
-- [Virus (Creator 1 Wrap Version)]()
-- [Graphite]() (*This could almost appear on the Crystallography lage too*)
+- [Simplex](./2025/11/05/07-45-16-4D-Simplex/) (a 4-D triangle with four tetrahedral cells)
+- [Virus (Creator 1 Wrap Version)](./2025/11/05/07-48-28-ZT1-Virus/)
+- [Graphite](./2025/11/05/07-46-35-ZT1-Graphite/) (*This could almost appear on the Crystallography page too*)
 - [Big Bridge](./2025/09/30/14-01-52-p22-BigBridge/) (*Configure existing model-product*)
 - [Dome](./2025/09/30/14-03-45-p22-Dome/) (*Configure existing model-product*)
 
@@ -246,17 +246,18 @@ Again, the tetra challenge solutions is [right here](https://vzome.github.io/zom
 - [2-D 5-fold Plane: Pentagon](./2025/09/30/13-32-01-2D-5-1-Pentagon/)
 - [2-D 5-fold Plane: Decagon](./2025/09/30/13-32-34-2D-5-2-Decagon/)
 
-- [2-fold Triacon Shadow]()
-- [3-fold Triacon Shadow]()
-- [5-fold Triacon Shadow]()
+- [2-fold Triacon Shadow](./2025/11/05/07-51-12-2D-2-3-Shadow-Triacon-2fold/)
+- [3-fold Triacon Shadow](./2025/11/05/07-52-02-2D-3-3-Shadow-Triacon-3fold/)
+- [5-fold Triacon Shadow](./2025/11/05/07-58-40-2D-5-3-Shadow-Triacon-5fold-r2_no_bend/)
 (*The above begs to be turned into a meta-zome ball*)
 
-- [Triacontahedron]() (This uses all pieces in the Creator 3 Kit; 30 each of the R struts)
+- [Triacontahedron](./2025/11/05/07-59-39-3D-ZT3-polyhedron_triacon/) (This uses all pieces in the Creator 3 Kit; 30 each of the R struts)
 
-- [24-cell]() (*Starts out as the cube shadow from Creator 1 Wrap*)
-- [Beehive]() (*Different from the Zometool Manual*)
-- [Buckyball]() (*I think I can use the one from the kit, but have to check colors*)
-- [Mosque]() (85 extra B0 Short Blues are needed to complete this model) (**Typo:** *called "Super-short" in PDF*)
+- [24-cell](./2025/11/05/08-01-11-4D-ZT3-24_cell-cleaned/) (*Starts out as the cube shadow from Creator 1 Wrap*)
+- [Beehive](./2025/11/05/08-01-43-Nat-ZT3-Honeycomb/) (*Different from the Zometool Manual*)
+- [Buckyball](./2025/11/05/08-02-40-Sci-ZT3-Buckyball/) (*I think I can use the one from the kit, but have to check colors*)
+- [Mosque Castle](./2025/11/05/08-21-27-Struc-ZT3-Mosque-Castle-onlyZT3/) (**Typo:** *called "Super-short" in PDF*)
+- [Mosque Castle (complete)](./2025/11/05/08-36-11-Struc-ZT3-Mosque-Castle-full/) (85 extra B0 Short Blues are needed to complete this model) 
 
 
 ### Creator 4 Wrap Featured Models
