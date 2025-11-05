@@ -31,6 +31,11 @@ Browse on [vZome Online](https://www.vzome.com/app/browser/?user=zometool) to ea
     - [3-fold Crystal](./2025/07/22/12-55-03-KRI-2d-3fold-5/)
     - [Crystal with Barbs](./2025/07/22/12-56-08-KRI-2d-3fold-6/)
     - [Extra Crystal 1](./2025/07/22/13-05-12-A13-Ice-Crystal-1-B0s/)
+    - Front page crystals (Left to Right) (Can these be done with one kit?)
+      - Ring crystal with 6-pt star (No)
+      - Triangular 9-pointed Star (I think so..)
+      - 6-lobed Flake with 3-fold center bit (No)
+      - Many Branched Thin Ice Crystal (No)
 
   - Stars (5-fold)
     - [10-pointed star](./2025/07/22/12-57-02-KRI-2d-5fold-1/)
@@ -149,17 +154,6 @@ The solutions can be found all compiled at [this webapp here](https://vzome.gith
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 ## Zometool Manual
 ### Bubbles
 - [Hypercube Bubble](./2025/03/25/04-23-37-138Z-PRJ-BUB-1-Hypercube-Wand-with-bubble/)
@@ -220,10 +214,62 @@ Again, the tetra challenge solutions is [right here](https://vzome.github.io/zom
 
 ## Standard Kits
 ### Instructions for BASIC Kit
-### Instructions for Creator 1
-### Instructions for Creator 3
+
+### Creator 1 Wrap Featured Models
+`TODO:` *To be integrated at Zometool website* </br>
+*were prior ones from the Manual not repeats?*
+
+- [0-D, 1-D, 2-D Explorations](./2025/09/30/13-29-44-0D-1D-2D-Explorations/)
+- [2-D 2-fold Shapes](./2025/09/30/13-30-29-2D-2-Square-Rect/)
+- [2-D 3-fold Shapes](./2025/09/30/13-31-06-2D-3-Tri-Hexagon/)
+- [2-D 5-fold Plane: Pentagon](./2025/09/30/13-32-01-2D-5-1-Pentagon/)
+- [2-D 5-fold Plane: Decagon](./2025/09/30/13-32-34-2D-5-2-Decagon/)
+
+- [Flat Cube TBD]() (Like the Impossible Cube)
+- [Snow Flake]() (*also integrate this into the Ice Crystals kit as a bonus if it can support enough pieces*)
+- [Star]() (*ditto for ice crystals kit. I like this one a lot better than the 5-fold star in there - LC*)
+- [Hypercube Bubble](./2025/03/25/04-23-37-138Z-PRJ-BUB-1-Hypercube-Wand-with-bubble/) (*Configure existing model-product*)
+- [4-D Triangle](./2025/03/25/05-31-57-917Z-PRJ-BUB-6-Triangle-4D+bubble/) (*Configure existing model-product*)
+- [Dodecahedron (alas; no bubble)](./2025/03/05/07-45-57-752Z-PRJ-HYP-Dodeca-by-Y1s/) (*Configure existing model-product. Should we add a bubble?*)
+- [4-D Perspective Cube Shadow (Hypercube)](./2025/09/30/13-51-24-p17-shadows-4DPerspHypercube/) (*Configure existing model-product*)
+- [Simplex]()
+- [Virus (Creator 1 Wrap Version)]()
+- [Graphite]() (*This could almost appear on the Crystallography lage too*)
+- [Big Bridge](./2025/09/30/14-01-52-p22-BigBridge/) (*Configure existing model-product*)
+- [Dome](./2025/09/30/14-03-45-p22-Dome/) (*Configure existing model-product*)
+
+### Creator 3 Wrap Featured Models
+(*Configure existing model-product*)
+- [0-D, 1-D, 2-D Explorations](./2025/09/30/13-29-44-0D-1D-2D-Explorations/)
+- [2-D 2-fold Shapes](./2025/09/30/13-30-29-2D-2-Square-Rect/)
+- [2-D 3-fold Shapes](./2025/09/30/13-31-06-2D-3-Tri-Hexagon/)
+- [2-D 5-fold Plane: Pentagon](./2025/09/30/13-32-01-2D-5-1-Pentagon/)
+- [2-D 5-fold Plane: Decagon](./2025/09/30/13-32-34-2D-5-2-Decagon/)
+
+- [2-fold Triacon Shadow]()
+- [3-fold Triacon Shadow]()
+- [5-fold Triacon Shadow]()
+(*The above begs to be turned into a meta-zome ball*)
+
+- [Triacontahedron]() (This uses all pieces in the Creator 3 Kit; 30 each of the R struts)
+
+- [24-cell]() (*Starts out as the cube shadow from Creator 1 Wrap*)
+- [Beehive]() (*Different from the Zometool Manual*)
+- [Buckyball]() (*I think I can use the one from the kit, but have to check colors*)
+- [Mosque]() (85 extra B0 Short Blues are needed to complete this model) (**Typo:** *called "Super-short" in PDF*)
+
+
+### Creator 4 Wrap Featured Models
+(*While discontinued on the website, it is still canon. PDF online instructions have no models.*)
+
 ### The Challenge Cards
 
+## Zometool Models Beyond!
+### Models of the Month (Legacy)
+
+### Models of the Month (New)
+
+### Featured Models built in recent workshops
 
  <!-- If we want to use expanding lists -->
 <style>
