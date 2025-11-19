@@ -249,7 +249,7 @@ Again, the tetra challenge solutions is [right here](https://vzome.github.io/zom
 - [2-fold Triacon Shadow](./2025/11/05/07-51-12-2D-2-3-Shadow-Triacon-2fold/)
 - [3-fold Triacon Shadow](./2025/11/05/07-52-02-2D-3-3-Shadow-Triacon-3fold/)
 - [5-fold Triacon Shadow](./2025/11/05/07-58-40-2D-5-3-Shadow-Triacon-5fold-r2_no_bend/)
-(*The above begs to be turned into a meta-zome ball*)
+(*The above begs to be turned into a 2-D meta-zome ball*)
 
 - [Triacontahedron](./2025/11/05/07-59-39-3D-ZT3-polyhedron_triacon/) (This uses all pieces in the Creator 3 Kit; 30 each of the R struts)
 
