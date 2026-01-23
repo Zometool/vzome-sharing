@@ -12801,7 +12801,7 @@
         0
       ],
       "orientation": 10,
-      "color": "#007695",
+      "color": "#008ec2",
       "selected": false,
       "shapeId": "s715545420413906",
       "type": "blue2",
@@ -12885,7 +12885,7 @@
         0
       ],
       "orientation": 2,
-      "color": "#007695",
+      "color": "#008ec2",
       "selected": false,
       "shapeId": "s715545420413906",
       "type": "blue2",
@@ -12899,7 +12899,7 @@
         0
       ],
       "orientation": 37,
-      "color": "#007695",
+      "color": "#008ec2",
       "selected": false,
       "shapeId": "s715545420413906",
       "type": "blue2",
@@ -12913,7 +12913,7 @@
         0
       ],
       "orientation": 8,
-      "color": "#007695",
+      "color": "#008ec2",
       "selected": false,
       "shapeId": "s715545420413906",
       "type": "blue2",
@@ -12927,7 +12927,7 @@
         0
       ],
       "orientation": 11,
-      "color": "#007695",
+      "color": "#008ec2",
       "selected": false,
       "shapeId": "s715545420413906",
       "type": "blue2",
@@ -12941,7 +12941,7 @@
         6.85410213470459
       ],
       "orientation": 52,
-      "color": "#007695",
+      "color": "#008ec2",
       "selected": false,
       "shapeId": "s5576538383855432",
       "type": "blue4",
@@ -12969,7 +12969,7 @@
         2.6180338859558105
       ],
       "orientation": 21,
-      "color": "#007695",
+      "color": "#008ec2",
       "selected": false,
       "shapeId": "s5576538383855432",
       "type": "blue4",
@@ -12983,7 +12983,7 @@
         6.85410213470459
       ],
       "orientation": 0,
-      "color": "#007695",
+      "color": "#008ec2",
       "selected": false,
       "shapeId": "s5576538383855432",
       "type": "blue4",
@@ -12997,7 +12997,7 @@
         6.85410213470459
       ],
       "orientation": 9,
-      "color": "#007695",
+      "color": "#008ec2",
       "selected": false,
       "shapeId": "s5576538383855432",
       "type": "blue4",
@@ -13011,7 +13011,7 @@
         2.6180338859558105
       ],
       "orientation": 7,
-      "color": "#007695",
+      "color": "#008ec2",
       "selected": false,
       "shapeId": "s5576538383855432",
       "type": "blue4",
@@ -13025,7 +13025,7 @@
         0
       ],
       "orientation": 40,
-      "color": "#007695",
+      "color": "#008ec2",
       "selected": false,
       "shapeId": "s5576538383855432",
       "type": "blue4",
@@ -13039,7 +13039,7 @@
         8.472135543823242
       ],
       "orientation": 54,
-      "color": "#007695",
+      "color": "#008ec2",
       "selected": false,
       "shapeId": "s5576538383855432",
       "type": "blue4",
@@ -13053,7 +13053,7 @@
         6.85410213470459
       ],
       "orientation": 45,
-      "color": "#007695",
+      "color": "#008ec2",
       "selected": false,
       "shapeId": "s5576538383855432",
       "type": "blue4",
@@ -13067,7 +13067,7 @@
         4.236067771911621
       ],
       "orientation": 36,
-      "color": "#007695",
+      "color": "#008ec2",
       "selected": false,
       "shapeId": "s5576538383855432",
       "type": "blue4",
@@ -13081,7 +13081,7 @@
         4.236067771911621
       ],
       "orientation": 25,
-      "color": "#007695",
+      "color": "#008ec2",
       "selected": false,
       "shapeId": "s5576538383855432",
       "type": "blue4",
@@ -13169,7 +13169,7 @@
           0
         ],
         "orientation": 10,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s715545420413906",
         "type": "blue2",
@@ -13253,7 +13253,7 @@
           0
         ],
         "orientation": 2,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s715545420413906",
         "type": "blue2",
@@ -13267,7 +13267,7 @@
           0
         ],
         "orientation": 37,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s715545420413906",
         "type": "blue2",
@@ -13281,7 +13281,7 @@
           0
         ],
         "orientation": 8,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s715545420413906",
         "type": "blue2",
@@ -13295,7 +13295,7 @@
           0
         ],
         "orientation": 11,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s715545420413906",
         "type": "blue2",
@@ -13309,7 +13309,7 @@
           8.472135543823242
         ],
         "orientation": 36,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s5576538383855432",
         "type": "blue4",
@@ -13337,7 +13337,7 @@
           6.85410213470459
         ],
         "orientation": 45,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s5576538383855432",
         "type": "blue4",
@@ -13351,7 +13351,7 @@
           4.236067771911621
         ],
         "orientation": 36,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s5576538383855432",
         "type": "blue4",
@@ -13365,7 +13365,7 @@
           4.236067771911621
         ],
         "orientation": 25,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s5576538383855432",
         "type": "blue4",
@@ -13379,7 +13379,7 @@
           6.85410213470459
         ],
         "orientation": 52,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s5576538383855432",
         "type": "blue4",
@@ -13393,7 +13393,7 @@
           8.472135543823242
         ],
         "orientation": 54,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s5576538383855432",
         "type": "blue4",
@@ -13407,7 +13407,7 @@
           6.85410213470459
         ],
         "orientation": 25,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s5576538383855432",
         "type": "blue4",
@@ -13421,7 +13421,7 @@
           4.236067771911621
         ],
         "orientation": 52,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s5576538383855432",
         "type": "blue4",
@@ -13435,7 +13435,7 @@
           4.236067771911621
         ],
         "orientation": 54,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s5576538383855432",
         "type": "blue4",
@@ -13449,7 +13449,7 @@
           6.85410213470459
         ],
         "orientation": 45,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s5576538383855432",
         "type": "blue4",
@@ -13563,7 +13563,7 @@
           0
         ],
         "orientation": 10,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s715545420413906",
         "type": "blue2",
@@ -13647,7 +13647,7 @@
           0
         ],
         "orientation": 2,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s715545420413906",
         "type": "blue2",
@@ -13661,7 +13661,7 @@
           0
         ],
         "orientation": 37,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s715545420413906",
         "type": "blue2",
@@ -13675,7 +13675,7 @@
           0
         ],
         "orientation": 8,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s715545420413906",
         "type": "blue2",
@@ -13689,7 +13689,7 @@
           0
         ],
         "orientation": 11,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s715545420413906",
         "type": "blue2",
@@ -13703,7 +13703,7 @@
           8.472135543823242
         ],
         "orientation": 36,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s5576538383855432",
         "type": "blue4",
@@ -13731,7 +13731,7 @@
           6.85410213470459
         ],
         "orientation": 45,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s5576538383855432",
         "type": "blue4",
@@ -13745,7 +13745,7 @@
           4.236067771911621
         ],
         "orientation": 36,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s5576538383855432",
         "type": "blue4",
@@ -13759,7 +13759,7 @@
           4.236067771911621
         ],
         "orientation": 25,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s5576538383855432",
         "type": "blue4",
@@ -13773,7 +13773,7 @@
           6.85410213470459
         ],
         "orientation": 52,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s5576538383855432",
         "type": "blue4",
@@ -13787,7 +13787,7 @@
           8.472135543823242
         ],
         "orientation": 54,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s5576538383855432",
         "type": "blue4",
@@ -13801,7 +13801,7 @@
           6.85410213470459
         ],
         "orientation": 25,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s5576538383855432",
         "type": "blue4",
@@ -13815,7 +13815,7 @@
           4.236067771911621
         ],
         "orientation": 52,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s5576538383855432",
         "type": "blue4",
@@ -13829,7 +13829,7 @@
           4.236067771911621
         ],
         "orientation": 54,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s5576538383855432",
         "type": "blue4",
@@ -13843,7 +13843,7 @@
           6.85410213470459
         ],
         "orientation": 45,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s5576538383855432",
         "type": "blue4",
@@ -13930,7 +13930,7 @@
           0
         ],
         "orientation": 10,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s715545420413906",
         "type": "blue2",
@@ -14014,7 +14014,7 @@
           0
         ],
         "orientation": 2,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s715545420413906",
         "type": "blue2",
@@ -14028,7 +14028,7 @@
           0
         ],
         "orientation": 37,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s715545420413906",
         "type": "blue2",
@@ -14042,7 +14042,7 @@
           0
         ],
         "orientation": 8,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s715545420413906",
         "type": "blue2",
@@ -14056,7 +14056,7 @@
           0
         ],
         "orientation": 11,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s715545420413906",
         "type": "blue2",
@@ -14086,7 +14086,7 @@
           0
         ],
         "orientation": 10,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s715545420413906",
         "type": "blue2",
@@ -14170,7 +14170,7 @@
           0
         ],
         "orientation": 2,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s715545420413906",
         "type": "blue2",
@@ -14184,7 +14184,7 @@
           0
         ],
         "orientation": 37,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s715545420413906",
         "type": "blue2",
@@ -14198,7 +14198,7 @@
           0
         ],
         "orientation": 8,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s715545420413906",
         "type": "blue2",
@@ -14212,7 +14212,7 @@
           0
         ],
         "orientation": 11,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s715545420413906",
         "type": "blue2",
@@ -14244,7 +14244,7 @@
           0
         ],
         "orientation": 10,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s715545420413906",
         "type": "blue2",
@@ -14328,7 +14328,7 @@
           0
         ],
         "orientation": 2,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s715545420413906",
         "type": "blue2",
@@ -14342,7 +14342,7 @@
           0
         ],
         "orientation": 37,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s715545420413906",
         "type": "blue2",
@@ -14356,7 +14356,7 @@
           0
         ],
         "orientation": 8,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s715545420413906",
         "type": "blue2",
@@ -14370,7 +14370,7 @@
           0
         ],
         "orientation": 11,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s715545420413906",
         "type": "blue2",
@@ -14384,7 +14384,7 @@
           6.85410213470459
         ],
         "orientation": 52,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s5576538383855432",
         "type": "blue4",
@@ -14412,7 +14412,7 @@
           2.6180338859558105
         ],
         "orientation": 21,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s5576538383855432",
         "type": "blue4",
@@ -14442,7 +14442,7 @@
           0
         ],
         "orientation": 10,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s715545420413906",
         "type": "blue2",
@@ -14526,7 +14526,7 @@
           0
         ],
         "orientation": 2,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s715545420413906",
         "type": "blue2",
@@ -14540,7 +14540,7 @@
           0
         ],
         "orientation": 37,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s715545420413906",
         "type": "blue2",
@@ -14554,7 +14554,7 @@
           0
         ],
         "orientation": 8,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s715545420413906",
         "type": "blue2",
@@ -14568,7 +14568,7 @@
           0
         ],
         "orientation": 11,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s715545420413906",
         "type": "blue2",
@@ -14598,7 +14598,7 @@
           0
         ],
         "orientation": 10,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s715545420413906",
         "type": "blue2",
@@ -14682,7 +14682,7 @@
           0
         ],
         "orientation": 2,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s715545420413906",
         "type": "blue2",
@@ -14696,7 +14696,7 @@
           0
         ],
         "orientation": 37,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s715545420413906",
         "type": "blue2",
@@ -14710,7 +14710,7 @@
           0
         ],
         "orientation": 8,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s715545420413906",
         "type": "blue2",
@@ -14724,7 +14724,7 @@
           0
         ],
         "orientation": 11,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s715545420413906",
         "type": "blue2",
@@ -14738,7 +14738,7 @@
           6.85410213470459
         ],
         "orientation": 52,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s5576538383855432",
         "type": "blue4",
@@ -14766,7 +14766,7 @@
           2.6180338859558105
         ],
         "orientation": 21,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s5576538383855432",
         "type": "blue4",
@@ -14780,7 +14780,7 @@
           6.85410213470459
         ],
         "orientation": 0,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s5576538383855432",
         "type": "blue4",
@@ -14794,7 +14794,7 @@
           6.85410213470459
         ],
         "orientation": 9,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s5576538383855432",
         "type": "blue4",
@@ -14808,7 +14808,7 @@
           2.6180338859558105
         ],
         "orientation": 7,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s5576538383855432",
         "type": "blue4",
@@ -14822,7 +14822,7 @@
           0
         ],
         "orientation": 40,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s5576538383855432",
         "type": "blue4",
@@ -14836,7 +14836,7 @@
           8.472135543823242
         ],
         "orientation": 54,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s5576538383855432",
         "type": "blue4",
@@ -14850,7 +14850,7 @@
           6.85410213470459
         ],
         "orientation": 45,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s5576538383855432",
         "type": "blue4",
@@ -14864,7 +14864,7 @@
           4.236067771911621
         ],
         "orientation": 36,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s5576538383855432",
         "type": "blue4",
@@ -14878,7 +14878,7 @@
           4.236067771911621
         ],
         "orientation": 25,
-        "color": "#007695",
+        "color": "#008ec2",
         "selected": false,
         "shapeId": "s5576538383855432",
         "type": "blue4",

@@ -1083,17 +1083,17 @@
   </SymmetrySystem>
   <OtherSymmetries>
     <SymmetrySystem name="octahedral" renderingStyle="trapezoids">
-      <Direction color="0,118,149" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
+      <Direction color="0,142,194" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
       <Direction color="175,135,255" name="lavender" orbit="[[1,2,1],[-1,0,1]]"/>
-      <Direction color="18,205,148" name="turquoise" orbit="[[-1,2,1],[1,-2,1]]"/>
-      <Direction color="30,30,30" name="black" orbit="[[0,1,1],[1,-1,1]]"/>
-      <Direction color="0,141,54" name="green" orbit="[[0,0,1],[-1,0,1]]"/>
+      <Direction color="0,179,161" name="turquoise" orbit="[[-1,2,1],[1,-2,1]]"/>
+      <Direction color="50,50,50" name="black" orbit="[[0,1,1],[1,-1,1]]"/>
+      <Direction color="0,153,63" name="green" orbit="[[0,0,1],[-1,0,1]]"/>
       <Direction color="100,113,0" name="olive" orbit="[[1,0,1],[3,-2,1]]"/>
       <Direction color="117,0,50" name="maroon" orbit="[[-1,2,1],[1,0,1]]"/>
       <Direction color="107,53,26" name="brown" orbit="[[1,0,1],[-2,0,1]]"/>
-      <Direction color="240,160,0" name="yellow" orbit="[[1,0,1],[-1,0,1]]"/>
-      <Direction color="175,0,0" name="red" orbit="[[-1,1,1],[0,0,1]]"/>
-      <Direction color="108,0,198" name="purple" orbit="[[0,0,1],[2,-1,1]]"/>
+      <Direction color="255,179,26" name="yellow" orbit="[[1,0,1],[-1,0,1]]"/>
+      <Direction color="217,18,24" name="red" orbit="[[-1,1,1],[0,0,1]]"/>
+      <Direction color="125,54,211" name="purple" orbit="[[0,0,1],[2,-1,1]]"/>
     </SymmetrySystem>
   </OtherSymmetries>
   <Tools>

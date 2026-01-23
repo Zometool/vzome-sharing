@@ -194,7 +194,7 @@ Again, the tetra challenge solutions is [right here](https://vzome.github.io/zom
 - [3-D Perspective Cube Shadow](./2025/09/30/13-50-23-p17-shadows-3DPerspCubeShadow/)
 - [4-D Perspective Cube Shadow](./2025/09/30/13-51-24-p17-shadows-4DPerspHypercube/)
 
-### 3-Dimensional Shapes
+### 3-Dimensional Shapes (7 models)
 - [Fractal Cube](./2025/09/30/13-52-43-p18+19-2-FractalCube/)
 - [Squashed Virus](./2025/09/30/13-53-11-p18+19-3-SquashedIcosa/)
 - [5-Crystal](./2025/09/30/13-54-33-p18+19-5-Crystal/) (Squashed Dodecahedron)
@@ -205,17 +205,17 @@ Again, the tetra challenge solutions is [right here](https://vzome.github.io/zom
 - [Double Starburst](./2025/09/30/13-59-48-p21-DoubleStarburst/)
 - [Bee House](./2025/09/30/14-01-04-p21-BeeHouse/)
 
-### Structures!
+### Structures! (4 models)
 - [Small Bridge](./2025/09/30/14-01-29-p22-SmallBridge/)
 - [Big Bridge](./2025/09/30/14-01-52-p22-BigBridge/)
 - [Pyramid](./2025/09/30/14-01-52-p22-BigBridge/)
 - [Dome](./2025/09/30/14-03-45-p22-Dome/)
 
 
-## Standard Kits
+## Standard Kits (31 models)
 ### Instructions for BASIC Kit
 
-### Creator 1 Wrap Featured Models
+### Creator 1 Wrap Featured Models (17 models)
 `TODO:` *To be integrated at Zometool website* </br>
 *were prior ones from the Manual not repeats?*
 
@@ -238,7 +238,7 @@ Again, the tetra challenge solutions is [right here](https://vzome.github.io/zom
 - [Big Bridge](./2025/09/30/14-01-52-p22-BigBridge/) (*Configure existing model-product*)
 - [Dome](./2025/09/30/14-03-45-p22-Dome/) (*Configure existing model-product*)
 
-### Creator 3 Wrap Featured Models
+### Creator 3 Wrap Featured Models (14 models)
 (*Configure existing model-product*)
 - [0-D, 1-D, 2-D Explorations](./2025/09/30/13-29-44-0D-1D-2D-Explorations/)
 - [2-D 2-fold Shapes](./2025/09/30/13-30-29-2D-2-Square-Rect/)

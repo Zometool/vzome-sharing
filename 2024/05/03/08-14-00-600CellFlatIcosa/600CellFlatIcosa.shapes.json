@@ -843,7 +843,7 @@
   } ],
   "instances" : [ {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : 11.09017,
       "y" : 0.0,
@@ -852,7 +852,7 @@
     "orientation" : 1
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : 17.944271,
       "y" : -11.09017,
@@ -861,7 +861,7 @@
     "orientation" : 1
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : 0.0,
       "y" : -17.944271,
@@ -870,7 +870,7 @@
     "orientation" : 17
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : 0.0,
       "y" : 6.854102,
@@ -879,7 +879,7 @@
     "orientation" : 56
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : 17.944271,
       "y" : 11.09017,
@@ -896,7 +896,7 @@
     }
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : 11.09017,
       "y" : -6.854102,
@@ -905,7 +905,7 @@
     "orientation" : 16
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : 11.09017,
       "y" : 11.09017,
@@ -930,7 +930,7 @@
     }
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : 11.09017,
       "y" : 6.854102,
@@ -939,7 +939,7 @@
     "orientation" : 40
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : -6.854102,
       "y" : 0.0,
@@ -948,7 +948,7 @@
     "orientation" : 0
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : 0.0,
       "y" : 11.09017,
@@ -957,7 +957,7 @@
     "orientation" : 9
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : 11.09017,
       "y" : 0.0,
@@ -974,7 +974,7 @@
     }
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : 11.09017,
       "y" : 0.0,
@@ -983,7 +983,7 @@
     "orientation" : 17
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : 11.09017,
       "y" : -6.854102,
@@ -1000,7 +1000,7 @@
     }
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : -11.09017,
       "y" : 6.854102,
@@ -1009,7 +1009,7 @@
     "orientation" : 19
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : -17.944271,
       "y" : -11.09017,
@@ -1018,7 +1018,7 @@
     "orientation" : 46
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : 0.0,
       "y" : 0.0,
@@ -1027,7 +1027,7 @@
     "orientation" : 47
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : 0.0,
       "y" : -17.944271,
@@ -1044,7 +1044,7 @@
     }
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : -11.09017,
       "y" : -6.854102,
@@ -1053,7 +1053,7 @@
     "orientation" : 8
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : 6.854102,
       "y" : 0.0,
@@ -1062,7 +1062,7 @@
     "orientation" : 39
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : -17.944271,
       "y" : -11.09017,
@@ -1071,7 +1071,7 @@
     "orientation" : 2
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : -11.09017,
       "y" : 0.0,
@@ -1080,7 +1080,7 @@
     "orientation" : 46
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : -11.09017,
       "y" : -11.09017,
@@ -1089,7 +1089,7 @@
     "orientation" : 11
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : -11.09017,
       "y" : 0.0,
@@ -1098,7 +1098,7 @@
     "orientation" : 0
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : 0.0,
       "y" : -17.944271,
@@ -1108,7 +1108,7 @@
     "orientation" : 9
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : 0.0,
       "y" : -17.944271,
@@ -1125,7 +1125,7 @@
     }
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : -6.854102,
       "y" : 0.0,
@@ -1134,7 +1134,7 @@
     "orientation" : 1
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : 0.0,
       "y" : 11.09017,
@@ -1143,7 +1143,7 @@
     "orientation" : 3
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : 0.0,
       "y" : -11.09017,
@@ -1152,7 +1152,7 @@
     "orientation" : 17
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : -11.09017,
       "y" : 0.0,
@@ -1161,7 +1161,7 @@
     "orientation" : 31
   }, {
     "shape" : "2ca157f7-a899-4d78-994f-c8a6336c41c9",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : 6.854102,
       "y" : -17.944271,
@@ -1170,7 +1170,7 @@
     "orientation" : 17
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : -11.09017,
       "y" : 11.09017,
@@ -1187,7 +1187,7 @@
     }
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : 0.0,
       "y" : 11.09017,
@@ -1196,7 +1196,7 @@
     "orientation" : 39
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : -11.09017,
       "y" : -11.09017,
@@ -1205,7 +1205,7 @@
     "orientation" : 25
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : -11.09017,
       "y" : -11.09017,
@@ -1222,7 +1222,7 @@
     }
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : 17.944271,
       "y" : -11.09017,
@@ -1231,7 +1231,7 @@
     "orientation" : 30
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : -11.09017,
       "y" : 0.0,
@@ -1240,7 +1240,7 @@
     "orientation" : 15
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : 0.0,
       "y" : -17.944271,
@@ -1249,7 +1249,7 @@
     "orientation" : 47
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : 0.0,
       "y" : 11.09017,
@@ -1258,7 +1258,7 @@
     "orientation" : 26
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : -6.854102,
       "y" : 0.0,
@@ -1267,7 +1267,7 @@
     "orientation" : 5
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : -17.944271,
       "y" : 0.0,
@@ -1276,7 +1276,7 @@
     "orientation" : 9
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : 0.0,
       "y" : -11.09017,
@@ -1285,7 +1285,7 @@
     "orientation" : 8
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : -6.854102,
       "y" : 17.944271,
@@ -1294,7 +1294,7 @@
     "orientation" : 0
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : 0.0,
       "y" : 11.09017,
@@ -1303,7 +1303,7 @@
     "orientation" : 47
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : 0.0,
       "y" : 0.0,
@@ -1312,7 +1312,7 @@
     "orientation" : 32
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : 0.0,
       "y" : -11.09017,
@@ -1321,7 +1321,7 @@
     "orientation" : 23
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : -17.944271,
       "y" : 11.09017,
@@ -1330,7 +1330,7 @@
     "orientation" : 0
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : 0.0,
       "y" : -6.854102,
@@ -1339,7 +1339,7 @@
     "orientation" : 1
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : -11.09017,
       "y" : 0.0,
@@ -1348,7 +1348,7 @@
     "orientation" : 0
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : 0.0,
       "y" : 0.0,
@@ -1357,7 +1357,7 @@
     "orientation" : 2
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : -17.944271,
       "y" : -11.09017,
@@ -1366,7 +1366,7 @@
     "orientation" : 15
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : 11.09017,
       "y" : 6.854102,
@@ -1375,7 +1375,7 @@
     "orientation" : 1
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : -6.854102,
       "y" : 0.0,
@@ -1384,7 +1384,7 @@
     "orientation" : 55
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : 17.944271,
       "y" : -11.09017,
@@ -1393,7 +1393,7 @@
     "orientation" : 46
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : 17.944271,
       "y" : -6.854102,
@@ -1402,7 +1402,7 @@
     "orientation" : 22
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : -17.944271,
       "y" : 0.0,
@@ -1411,7 +1411,7 @@
     "orientation" : 2
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : -11.09017,
       "y" : 0.0,
@@ -1420,7 +1420,7 @@
     "orientation" : 32
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : 0.0,
       "y" : 0.0,
@@ -1429,7 +1429,7 @@
     "orientation" : 17
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : 0.0,
       "y" : -11.09017,
@@ -1438,7 +1438,7 @@
     "orientation" : 30
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : 17.944271,
       "y" : 0.0,
@@ -1447,7 +1447,7 @@
     "orientation" : 39
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : -11.09017,
       "y" : 11.09017,
@@ -1464,7 +1464,7 @@
     }
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : 11.09017,
       "y" : 11.09017,
@@ -1481,7 +1481,7 @@
     }
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : 11.09017,
       "y" : 0.0,
@@ -1490,7 +1490,7 @@
     "orientation" : 30
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : -6.854102,
       "y" : 0.0,
@@ -1508,7 +1508,7 @@
     "orientation" : 54
   }, {
     "shape" : "2ca157f7-a899-4d78-994f-c8a6336c41c9",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : 11.09017,
       "y" : -11.09017,
@@ -1517,7 +1517,7 @@
     "orientation" : 32
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : 11.09017,
       "y" : -17.944271,
@@ -1526,7 +1526,7 @@
     "orientation" : 9
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : -11.09017,
       "y" : 0.0,
@@ -1543,7 +1543,7 @@
     }
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : 0.0,
       "y" : 11.09017,
@@ -1568,7 +1568,7 @@
     }
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : 0.0,
       "y" : 11.09017,
@@ -1577,7 +1577,7 @@
     "orientation" : 30
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : 0.0,
       "y" : 17.944271,
@@ -1586,7 +1586,7 @@
     "orientation" : 15
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : 11.09017,
       "y" : 0.0,
@@ -1595,7 +1595,7 @@
     "orientation" : 31
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : 0.0,
       "y" : -17.944271,
@@ -1604,7 +1604,7 @@
     "orientation" : 45
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : 11.09017,
       "y" : 6.854102,
@@ -1613,7 +1613,7 @@
     "orientation" : 17
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : -11.09017,
       "y" : -6.854102,
@@ -1630,7 +1630,7 @@
     }
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : 0.0,
       "y" : 0.0,
@@ -1639,7 +1639,7 @@
     "orientation" : 45
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : -11.09017,
       "y" : -6.854102,
@@ -1648,7 +1648,7 @@
     "orientation" : 2
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : 0.0,
       "y" : -11.09017,
@@ -1657,7 +1657,7 @@
     "orientation" : 7
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : -17.944271,
       "y" : 11.09017,
@@ -1666,7 +1666,7 @@
     "orientation" : 16
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : 11.09017,
       "y" : 6.854102,
@@ -1675,7 +1675,7 @@
     "orientation" : 16
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : 6.854102,
       "y" : -11.09017,
@@ -1684,7 +1684,7 @@
     "orientation" : 23
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : -6.854102,
       "y" : 0.0,
@@ -1693,7 +1693,7 @@
     "orientation" : 38
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : 0.0,
       "y" : -17.944271,
@@ -1702,7 +1702,7 @@
     "orientation" : 32
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : 6.854102,
       "y" : 0.0,
@@ -1719,7 +1719,7 @@
     }
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : 11.09017,
       "y" : 11.09017,
@@ -1744,7 +1744,7 @@
     }
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : 11.09017,
       "y" : 6.854102,
@@ -1761,7 +1761,7 @@
     }
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : -6.854102,
       "y" : 0.0,
@@ -1770,7 +1770,7 @@
     "orientation" : 3
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : 0.0,
       "y" : 11.09017,
@@ -1779,7 +1779,7 @@
     "orientation" : 41
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : 0.0,
       "y" : 17.944271,
@@ -1788,7 +1788,7 @@
     "orientation" : 2
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : 0.0,
       "y" : 17.944271,
@@ -1797,7 +1797,7 @@
     "orientation" : 47
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : 11.09017,
       "y" : -6.854102,
@@ -1806,7 +1806,7 @@
     "orientation" : 22
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : -6.854102,
       "y" : 0.0,
@@ -1815,7 +1815,7 @@
     "orientation" : 24
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : -6.854102,
       "y" : 0.0,
@@ -1824,7 +1824,7 @@
     "orientation" : 24
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : 6.854102,
       "y" : 0.0,
@@ -1833,7 +1833,7 @@
     "orientation" : 19
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : 6.854102,
       "y" : 17.944271,
@@ -1842,7 +1842,7 @@
     "orientation" : 25
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : 17.944271,
       "y" : -11.09017,
@@ -1851,7 +1851,7 @@
     "orientation" : 32
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : -6.854102,
       "y" : 0.0,
@@ -1860,7 +1860,7 @@
     "orientation" : 9
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : 11.09017,
       "y" : 0.0,
@@ -1869,7 +1869,7 @@
     "orientation" : 2
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : 0.0,
       "y" : 0.0,
@@ -1878,7 +1878,7 @@
     "orientation" : 16
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : 11.09017,
       "y" : -6.854102,
@@ -1887,7 +1887,7 @@
     "orientation" : 2
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : 11.09017,
       "y" : 6.854102,
@@ -1896,7 +1896,7 @@
     "orientation" : 7
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : 0.0,
       "y" : -22.18034,
@@ -1905,7 +1905,7 @@
     "orientation" : 23
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : -6.854102,
       "y" : 0.0,
@@ -1922,7 +1922,7 @@
     }
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : 6.854102,
       "y" : 0.0,
@@ -1931,7 +1931,7 @@
     "orientation" : 6
   }, {
     "shape" : "2ca157f7-a899-4d78-994f-c8a6336c41c9",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : 0.0,
       "y" : 11.09017,
@@ -1948,7 +1948,7 @@
     }
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : 0.0,
       "y" : 11.09017,
@@ -1957,7 +1957,7 @@
     "orientation" : 0
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : -6.854102,
       "y" : 0.0,
@@ -1990,7 +1990,7 @@
     }
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : -17.944271,
       "y" : 11.09017,
@@ -1999,7 +1999,7 @@
     "orientation" : 17
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : 11.09017,
       "y" : 0.0,
@@ -2008,7 +2008,7 @@
     "orientation" : 30
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : -17.944271,
       "y" : 11.09017,
@@ -2025,7 +2025,7 @@
     }
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : 0.0,
       "y" : 0.0,
@@ -2034,7 +2034,7 @@
     "orientation" : 15
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : -11.09017,
       "y" : 6.854102,
@@ -2043,7 +2043,7 @@
     "orientation" : 7
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : -6.854102,
       "y" : 0.0,
@@ -2052,7 +2052,7 @@
     "orientation" : 21
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : 0.0,
       "y" : -6.854102,
@@ -2061,7 +2061,7 @@
     "orientation" : 41
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : 0.0,
       "y" : 17.944271,
@@ -2070,7 +2070,7 @@
     "orientation" : 15
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : 0.0,
       "y" : 11.09017,
@@ -2079,7 +2079,7 @@
     "orientation" : 21
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : 11.09017,
       "y" : -11.09017,
@@ -2088,7 +2088,7 @@
     "orientation" : 40
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : 0.0,
       "y" : 11.09017,
@@ -2097,7 +2097,7 @@
     "orientation" : 8
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : 11.09017,
       "y" : 0.0,
@@ -2106,7 +2106,7 @@
     "orientation" : 16
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : 11.09017,
       "y" : -6.854102,
@@ -2123,7 +2123,7 @@
     }
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : 0.0,
       "y" : 11.09017,
@@ -2132,7 +2132,7 @@
     "orientation" : 22
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : 11.09017,
       "y" : -11.09017,
@@ -2149,7 +2149,7 @@
     }
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : 0.0,
       "y" : -17.944271,
@@ -2158,7 +2158,7 @@
     "orientation" : 0
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : 17.944271,
       "y" : 11.09017,
@@ -2167,7 +2167,7 @@
     "orientation" : 47
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : 0.0,
       "y" : -11.09017,
@@ -2176,7 +2176,7 @@
     "orientation" : 24
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : 0.0,
       "y" : -17.944271,
@@ -2185,7 +2185,7 @@
     "orientation" : 45
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : -11.09017,
       "y" : -6.854102,
@@ -2202,7 +2202,7 @@
     }
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : -17.944271,
       "y" : -11.09017,
@@ -2211,7 +2211,7 @@
     "orientation" : 1
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : 6.854102,
       "y" : 0.0,
@@ -2228,7 +2228,7 @@
     }
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : -11.09017,
       "y" : -6.854102,
@@ -2237,7 +2237,7 @@
     "orientation" : 4
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : -11.09017,
       "y" : -6.854102,
@@ -2246,7 +2246,7 @@
     "orientation" : 1
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : -11.09017,
       "y" : 6.854102,
@@ -2255,7 +2255,7 @@
     "orientation" : 39
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : 0.0,
       "y" : -11.09017,
@@ -2264,7 +2264,7 @@
     "orientation" : 0
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : 0.0,
       "y" : -17.944271,
@@ -2273,7 +2273,7 @@
     "orientation" : 46
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : 6.854102,
       "y" : 0.0,
@@ -2282,7 +2282,7 @@
     "orientation" : 21
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : 11.09017,
       "y" : 0.0,
@@ -2299,7 +2299,7 @@
     }
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : 6.854102,
       "y" : 0.0,
@@ -2308,7 +2308,7 @@
     "orientation" : 6
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : 17.944271,
       "y" : 11.09017,
@@ -2317,7 +2317,7 @@
     "orientation" : 31
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : -17.944271,
       "y" : -11.09017,
@@ -2334,7 +2334,7 @@
     }
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : 6.854102,
       "y" : 0.0,
@@ -2343,7 +2343,7 @@
     "orientation" : 25
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : -6.854102,
       "y" : 0.0,
@@ -2360,7 +2360,7 @@
     }
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : -11.09017,
       "y" : 0.0,
@@ -2369,7 +2369,7 @@
     "orientation" : 47
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : 17.944271,
       "y" : 11.09017,
@@ -2394,7 +2394,7 @@
     }
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : 11.09017,
       "y" : 6.854102,
@@ -2411,7 +2411,7 @@
     }
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : 0.0,
       "y" : 17.944271,
@@ -2420,7 +2420,7 @@
     "orientation" : 32
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : 0.0,
       "y" : 17.944271,
@@ -2437,7 +2437,7 @@
     }
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : 0.0,
       "y" : 0.0,
@@ -2446,7 +2446,7 @@
     "orientation" : 30
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : -6.854102,
       "y" : 0.0,
@@ -2455,7 +2455,7 @@
     "orientation" : 1
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : -11.09017,
       "y" : 11.09017,
@@ -2464,7 +2464,7 @@
     "orientation" : 52
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : 6.854102,
       "y" : 0.0,
@@ -2473,7 +2473,7 @@
     "orientation" : 21
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : 11.09017,
       "y" : 6.854102,
@@ -2482,7 +2482,7 @@
     "orientation" : 22
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : 0.0,
       "y" : -11.09017,
@@ -2499,7 +2499,7 @@
     }
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : 0.0,
       "y" : -17.944271,
@@ -2508,7 +2508,7 @@
     "orientation" : 22
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : -11.09017,
       "y" : 0.0,
@@ -2517,7 +2517,7 @@
     "orientation" : 15
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : -6.854102,
       "y" : 0.0,
@@ -2534,7 +2534,7 @@
     }
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : -11.09017,
       "y" : -11.09017,
@@ -2543,7 +2543,7 @@
     "orientation" : 37
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : 0.0,
       "y" : -11.09017,
@@ -2552,7 +2552,7 @@
     "orientation" : 47
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : -11.09017,
       "y" : 0.0,
@@ -2561,7 +2561,7 @@
     "orientation" : 16
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : 0.0,
       "y" : 17.944271,
@@ -2570,7 +2570,7 @@
     "orientation" : 30
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : 0.0,
       "y" : 17.944271,
@@ -2579,7 +2579,7 @@
     "orientation" : 17
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : -11.09017,
       "y" : 6.854102,
@@ -2588,7 +2588,7 @@
     "orientation" : 6
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : 0.0,
       "y" : 0.0,
@@ -2597,7 +2597,7 @@
     "orientation" : 0
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : 0.0,
       "y" : 6.854102,
@@ -2606,7 +2606,7 @@
     "orientation" : 16
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : 0.0,
       "y" : 0.0,
@@ -2615,7 +2615,7 @@
     "orientation" : 46
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : -6.854102,
       "y" : 0.0,
@@ -2624,7 +2624,7 @@
     "orientation" : 40
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : -17.944271,
       "y" : 11.09017,
@@ -2641,7 +2641,7 @@
     }
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : 0.0,
       "y" : 11.09017,
@@ -2650,7 +2650,7 @@
     "orientation" : 53
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : -11.09017,
       "y" : 11.09017,
@@ -2659,7 +2659,7 @@
     "orientation" : 26
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : 0.0,
       "y" : 11.09017,
@@ -2684,7 +2684,7 @@
     }
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : -11.09017,
       "y" : -6.854102,
@@ -2693,7 +2693,7 @@
     "orientation" : 54
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : 0.0,
       "y" : 11.09017,
@@ -2702,7 +2702,7 @@
     "orientation" : 38
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : 0.0,
       "y" : 11.09017,
@@ -2711,7 +2711,7 @@
     "orientation" : 54
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : 17.944271,
       "y" : 11.09017,
@@ -2720,7 +2720,7 @@
     "orientation" : 32
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : 11.09017,
       "y" : -11.09017,
@@ -2729,7 +2729,7 @@
     "orientation" : 56
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : 0.0,
       "y" : -11.09017,
@@ -2738,7 +2738,7 @@
     "orientation" : 39
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : 17.944271,
       "y" : -11.09017,
@@ -2747,7 +2747,7 @@
     "orientation" : 47
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : 6.854102,
       "y" : 0.0,
@@ -2756,7 +2756,7 @@
     "orientation" : 54
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : 17.944271,
       "y" : 0.0,
@@ -2773,7 +2773,7 @@
     }
   }, {
     "shape" : "2ca157f7-a899-4d78-994f-c8a6336c41c9",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : 6.854102,
       "y" : -17.944271,
@@ -2790,7 +2790,7 @@
     }
   }, {
     "shape" : "2ca157f7-a899-4d78-994f-c8a6336c41c9",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : 11.09017,
       "y" : -11.09017,
@@ -2799,7 +2799,7 @@
     "orientation" : 0
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : 6.854102,
       "y" : 0.0,
@@ -2808,7 +2808,7 @@
     "orientation" : 39
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : 6.854102,
       "y" : 0.0,
@@ -2817,7 +2817,7 @@
     "orientation" : 4
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : -11.09017,
       "y" : -6.854102,
@@ -2826,7 +2826,7 @@
     "orientation" : 22
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : 0.0,
       "y" : 11.09017,
@@ -2835,7 +2835,7 @@
     "orientation" : 24
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : 11.09017,
       "y" : -6.854102,
@@ -2844,7 +2844,7 @@
     "orientation" : 3
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : 0.0,
       "y" : -11.09017,
@@ -2853,7 +2853,7 @@
     "orientation" : 5
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : 6.854102,
       "y" : 0.0,
@@ -2862,7 +2862,7 @@
     "orientation" : 8
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : 0.0,
       "y" : 11.09017,
@@ -2895,7 +2895,7 @@
     }
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : 11.09017,
       "y" : -11.09017,
@@ -2904,7 +2904,7 @@
     "orientation" : 38
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : 11.09017,
       "y" : 11.09017,
@@ -2929,7 +2929,7 @@
     }
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : 0.0,
       "y" : 0.0,
@@ -2938,7 +2938,7 @@
     "orientation" : 31
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : 0.0,
       "y" : -11.09017,
@@ -2947,7 +2947,7 @@
     "orientation" : 38
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : 6.854102,
       "y" : -17.944271,
@@ -2956,7 +2956,7 @@
     "orientation" : 10
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : 0.0,
       "y" : 17.944271,
@@ -2965,7 +2965,7 @@
     "orientation" : 31
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : 0.0,
       "y" : 17.944271,
@@ -2974,7 +2974,7 @@
     "orientation" : 30
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : 0.0,
       "y" : -11.09017,
@@ -2983,7 +2983,7 @@
     "orientation" : 9
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : -6.854102,
       "y" : -17.944271,
@@ -2992,7 +2992,7 @@
     "orientation" : 0
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : 0.0,
       "y" : 11.09017,
@@ -3001,7 +3001,7 @@
     "orientation" : 4
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : 0.0,
       "y" : -17.944271,
@@ -3010,7 +3010,7 @@
     "orientation" : 2
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : -11.09017,
       "y" : 6.854102,
@@ -3019,7 +3019,7 @@
     "orientation" : 17
   }, {
     "shape" : "174f5189-a6f3-4944-bd5e-40f8d9820153",
-    "color" : "#F0A000",
+    "color" : "#FFB31A",
     "position" : {
       "x" : -6.854102,
       "y" : 0.0,
@@ -3028,7 +3028,7 @@
     "orientation" : 16
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : 11.09017,
       "y" : 0.0,
@@ -3037,7 +3037,7 @@
     "orientation" : 46
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : 11.09017,
       "y" : 11.09017,
@@ -3046,7 +3046,7 @@
     "orientation" : 55
   }, {
     "shape" : "1aa6b407-9d0d-4177-ba21-c3eda7098193",
-    "color" : "#007695",
+    "color" : "#008ec2",
     "position" : {
       "x" : -11.09017,
       "y" : -11.09017,
@@ -3063,7 +3063,7 @@
     }
   }, {
     "shape" : "63eedf73-8ab3-4789-b97c-ebab046e4f47",
-    "color" : "#AF0000",
+    "color" : "#D91218",
     "position" : {
       "x" : 0.0,
       "y" : 0.0,
