@@ -1,7 +1,7 @@
 {
   "format": "online",
   "lighting": {
-    "backgroundColor": "#003333",
+    "backgroundColor": "#8CC2E7",
     "ambientColor": "#333333",
     "directionalLights": [
       {
@@ -12756,7 +12756,7 @@
         6.85410213470459
       ],
       "orientation": 46,
-      "color": "#af0000",
+      "color": "#d91218",
       "selected": false,
       "shapeId": "s3128828355945008",
       "type": "red1",
@@ -12784,7 +12784,7 @@
         0
       ],
       "orientation": 30,
-      "color": "#af0000",
+      "color": "#d91218",
       "selected": false,
       "shapeId": "s3128828355945008",
       "type": "red1",
@@ -12798,7 +12798,7 @@
         11.090169906616211
       ],
       "orientation": 17,
-      "color": "#af0000",
+      "color": "#d91218",
       "selected": false,
       "shapeId": "s3128828355945008",
       "type": "red1",
@@ -12812,7 +12812,7 @@
         0
       ],
       "orientation": 3,
-      "color": "#f0a000",
+      "color": "#ffb31a",
       "selected": false,
       "shapeId": "s10020218914558798",
       "type": "yellow2",
@@ -12826,7 +12826,7 @@
         5.486067771911621
       ],
       "orientation": 0,
-      "color": "#00ffff",
+      "color": "#ffffff",
       "selected": false,
       "shapeId": "s7353759936583462",
       "type": null,
@@ -12840,7 +12840,7 @@
         5.486067771911621
       ],
       "orientation": 25,
-      "color": "#00ffff",
+      "color": "#ffffff",
       "selected": false,
       "shapeId": "s01577925658964996",
       "type": null,
@@ -12854,7 +12854,7 @@
         2.8680338859558105
       ],
       "orientation": 51,
-      "color": "#00ffff",
+      "color": "#ffffff",
       "selected": false,
       "shapeId": "s7251057340579883",
       "type": null,
@@ -12868,7 +12868,7 @@
         2.8680338859558105
       ],
       "orientation": 54,
-      "color": "#00ffff",
+      "color": "#ffffff",
       "selected": false,
       "shapeId": "s01577925658964996",
       "type": null,
@@ -12882,7 +12882,7 @@
         7.10410213470459
       ],
       "orientation": 11,
-      "color": "#00ffff",
+      "color": "#ffffff",
       "selected": false,
       "shapeId": "s01577925658964996",
       "type": null,
@@ -12896,7 +12896,7 @@
         2.8680338859558105
       ],
       "orientation": 8,
-      "color": "#00ffff",
+      "color": "#ffffff",
       "selected": false,
       "shapeId": "s7251057340579883",
       "type": null,
@@ -12910,7 +12910,7 @@
         2.8680338859558105
       ],
       "orientation": 22,
-      "color": "#00ffff",
+      "color": "#ffffff",
       "selected": false,
       "shapeId": "s7251057340579883",
       "type": null,
@@ -12924,7 +12924,7 @@
         2.8680338859558105
       ],
       "orientation": 17,
-      "color": "#00ffff",
+      "color": "#ffffff",
       "selected": false,
       "shapeId": "s7353759936583462",
       "type": null,
@@ -12938,7 +12938,7 @@
         7.10410213470459
       ],
       "orientation": 46,
-      "color": "#00ffff",
+      "color": "#ffffff",
       "selected": false,
       "shapeId": "s7353759936583462",
       "type": null,
@@ -12969,7 +12969,7 @@
           6.85410213470459
         ],
         "orientation": 16,
-        "color": "#af0000",
+        "color": "#d91218",
         "selected": false,
         "shapeId": "s3128828355945008",
         "type": "red1",
@@ -12997,7 +12997,7 @@
           6.85410213470459
         ],
         "orientation": 17,
-        "color": "#af0000",
+        "color": "#d91218",
         "selected": false,
         "shapeId": "s3128828355945008",
         "type": "red1",
@@ -13011,7 +13011,7 @@
           6.85410213470459
         ],
         "orientation": 47,
-        "color": "#af0000",
+        "color": "#d91218",
         "selected": false,
         "shapeId": "s3128828355945008",
         "type": "red1",
@@ -13440,7 +13440,7 @@
           6.85410213470459
         ],
         "orientation": 46,
-        "color": "#af0000",
+        "color": "#d91218",
         "selected": false,
         "shapeId": "s3128828355945008",
         "type": "red1",
@@ -13468,7 +13468,7 @@
           0
         ],
         "orientation": 30,
-        "color": "#af0000",
+        "color": "#d91218",
         "selected": false,
         "shapeId": "s3128828355945008",
         "type": "red1",
@@ -13482,7 +13482,7 @@
           11.090169906616211
         ],
         "orientation": 17,
-        "color": "#af0000",
+        "color": "#d91218",
         "selected": false,
         "shapeId": "s3128828355945008",
         "type": "red1",
@@ -13496,7 +13496,7 @@
           0
         ],
         "orientation": 3,
-        "color": "#f0a000",
+        "color": "#ffb31a",
         "selected": false,
         "shapeId": "s10020218914558798",
         "type": "yellow2",
@@ -13596,7 +13596,7 @@
           6.85410213470459
         ],
         "orientation": 46,
-        "color": "#af0000",
+        "color": "#d91218",
         "selected": false,
         "shapeId": "s3128828355945008",
         "type": "red1",
@@ -13624,7 +13624,7 @@
           0
         ],
         "orientation": 30,
-        "color": "#af0000",
+        "color": "#d91218",
         "selected": false,
         "shapeId": "s3128828355945008",
         "type": "red1",
@@ -13638,7 +13638,7 @@
           11.090169906616211
         ],
         "orientation": 17,
-        "color": "#af0000",
+        "color": "#d91218",
         "selected": false,
         "shapeId": "s3128828355945008",
         "type": "red1",
@@ -13652,7 +13652,7 @@
           0
         ],
         "orientation": 3,
-        "color": "#f0a000",
+        "color": "#ffb31a",
         "selected": false,
         "shapeId": "s10020218914558798",
         "type": "yellow2",
@@ -13666,7 +13666,7 @@
           0
         ],
         "orientation": 0,
-        "color": "#00ffff",
+        "color": "#ffffff",
         "selected": false,
         "shapeId": "s4465524553876852",
         "type": null,
@@ -13680,7 +13680,7 @@
           4.486067771911621
         ],
         "orientation": 8,
-        "color": "#00ffff",
+        "color": "#ffffff",
         "selected": false,
         "shapeId": "s5396556830445949",
         "type": null,
@@ -13694,7 +13694,7 @@
           4.486067771911621
         ],
         "orientation": 22,
-        "color": "#00ffff",
+        "color": "#ffffff",
         "selected": false,
         "shapeId": "s5396556830445949",
         "type": null,
@@ -13708,7 +13708,7 @@
           4.486067771911621
         ],
         "orientation": 51,
-        "color": "#00ffff",
+        "color": "#ffffff",
         "selected": false,
         "shapeId": "s5396556830445949",
         "type": null,
@@ -13722,7 +13722,7 @@
           11.090169906616211
         ],
         "orientation": 17,
-        "color": "#00ffff",
+        "color": "#ffffff",
         "selected": false,
         "shapeId": "s4465524553876852",
         "type": null,
@@ -13736,7 +13736,7 @@
           6.85410213470459
         ],
         "orientation": 46,
-        "color": "#00ffff",
+        "color": "#ffffff",
         "selected": false,
         "shapeId": "s4465524553876852",
         "type": null,
@@ -13836,7 +13836,7 @@
           6.85410213470459
         ],
         "orientation": 46,
-        "color": "#af0000",
+        "color": "#d91218",
         "selected": false,
         "shapeId": "s3128828355945008",
         "type": "red1",
@@ -13864,7 +13864,7 @@
           0
         ],
         "orientation": 30,
-        "color": "#af0000",
+        "color": "#d91218",
         "selected": false,
         "shapeId": "s3128828355945008",
         "type": "red1",
@@ -13878,7 +13878,7 @@
           11.090169906616211
         ],
         "orientation": 17,
-        "color": "#af0000",
+        "color": "#d91218",
         "selected": false,
         "shapeId": "s3128828355945008",
         "type": "red1",
@@ -13892,7 +13892,7 @@
           0
         ],
         "orientation": 3,
-        "color": "#f0a000",
+        "color": "#ffb31a",
         "selected": false,
         "shapeId": "s10020218914558798",
         "type": "yellow2",
@@ -13906,7 +13906,7 @@
           5.486067771911621
         ],
         "orientation": 0,
-        "color": "#00ffff",
+        "color": "#ffffff",
         "selected": false,
         "shapeId": "s7353759936583462",
         "type": null,
@@ -13920,7 +13920,7 @@
           5.486067771911621
         ],
         "orientation": 25,
-        "color": "#00ffff",
+        "color": "#ffffff",
         "selected": false,
         "shapeId": "s01577925658964996",
         "type": null,
@@ -13934,7 +13934,7 @@
           2.8680338859558105
         ],
         "orientation": 51,
-        "color": "#00ffff",
+        "color": "#ffffff",
         "selected": false,
         "shapeId": "s7251057340579883",
         "type": null,
@@ -13948,7 +13948,7 @@
           2.8680338859558105
         ],
         "orientation": 54,
-        "color": "#00ffff",
+        "color": "#ffffff",
         "selected": false,
         "shapeId": "s01577925658964996",
         "type": null,
@@ -13962,7 +13962,7 @@
           7.10410213470459
         ],
         "orientation": 11,
-        "color": "#00ffff",
+        "color": "#ffffff",
         "selected": false,
         "shapeId": "s01577925658964996",
         "type": null,
@@ -13976,7 +13976,7 @@
           2.8680338859558105
         ],
         "orientation": 8,
-        "color": "#00ffff",
+        "color": "#ffffff",
         "selected": false,
         "shapeId": "s7251057340579883",
         "type": null,
@@ -13990,7 +13990,7 @@
           2.8680338859558105
         ],
         "orientation": 22,
-        "color": "#00ffff",
+        "color": "#ffffff",
         "selected": false,
         "shapeId": "s7251057340579883",
         "type": null,
@@ -14004,7 +14004,7 @@
           2.8680338859558105
         ],
         "orientation": 17,
-        "color": "#00ffff",
+        "color": "#ffffff",
         "selected": false,
         "shapeId": "s7353759936583462",
         "type": null,
@@ -14018,7 +14018,7 @@
           7.10410213470459
         ],
         "orientation": 46,
-        "color": "#00ffff",
+        "color": "#ffffff",
         "selected": false,
         "shapeId": "s7353759936583462",
         "type": null,
