@@ -1,5 +1,5 @@
   <sceneModel ambientLight="41,41,41" background="140,194,231">
-            <!-- Background old color #afc8dc new #8cc2e7-->
+            <!-- Background old "color" : "#AFC8DC" new "color" : "#8CC2E7"-->
     <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
     <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
     <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
@@ -7,30 +7,48 @@
 
 
 <SymmetrySystem name="icosahedral" renderingStyle="lifelike">
+        
+        <OldDirection color="0,118,149" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
         <Direction color="0,142,194" name="blue" orbit="[[0,0,1],[0,0,1]]"/> 
-        <!-- old color #007695 new color #008ec2 -->
+        <!-- old "color" : "#007695" new "color" : "#008EC2" -->
+        
+        <OldDirection color="0,141,54" name="green" orbit="[[2,-1,1],[5,-3,1]]"/>
         <Direction color="0,153,63" name="green" orbit="[[2,-1,1],[5,-3,1]]"/>
-        <!-- old color #008d36 new color #00993f -->
+        <!-- old "color" : "#008D36" new "color" : "#00993F" -->
+
     <Direction color="154,117,74" name="sand" orbit="[[-8,5,1],[5,-3,1]]"/>
     <Direction color="18,73,48" name="spruce" orbit="[[-5,4,11],[-5,4,11]]"/>
+        
+        <OldDirection color="175,0,0" name="red" orbit="[[-1,1,1],[0,0,1]]"/>
         <Direction color="217,18,24" name="red" orbit="[[-1,1,1],[0,0,1]]"/>
-        <!-- old color #af0000 new color #D91218 -->
+        <!-- old "color" : "#AF0000" new "color" : "#D91218" -->
     <Direction color="255,126,106" name="coral" orbit="[[-3,2,2],[-1,1,2]]"/>
+        
+        <OldDirection color="30,30,30" name="black" orbit="[[-2,3,11],[-7,5,11]]"/>
         <Direction color="50,50,50" name="black" orbit="[[-2,3,11],[-7,5,11]]"/>
-        <!-- old color #1e1e1e new color #323232 -->
+        <!-- old "color" : "#1E1E1E" new "color" : "#323232" -->
     <Direction color="117,0,50" name="maroon" orbit="[[5,-3,1],[0,0,1]]"/>
+        
+        <OldDirection color="240,160,0" name="yellow" orbit="[[0,0,1],[2,-1,1]]"/>
         <Direction color="255,179,26" name="yellow" orbit="[[0,0,1],[2,-1,1]]"/>
-        <!-- old color #f0a000 new color #ffb31a -->
+        <!-- old "color" : "#F0A000" new "color" : "#FFB31A" -->
     <Direction color="230,245,62" name="sulfur" orbit="[[-1,1,3],[0,0,1]]"/>
     <Direction color="255,51,143" name="rose" orbit="[[0,0,1],[-4,3,5]]"/>
+        
+        <OldDirection color="18,205,148" name="turquoise" orbit="[[2,-1,2],[-3,2,2]]"/>
         <Direction color="0,179,161" name="turquoise" orbit="[[2,-1,2],[-3,2,2]]"/>
-        <!-- old color #12dc94 new color #00b3a1 -->
+        <!-- old "color" : "#12CD94" new "color" : "#00B3A1" -->
     <Direction color="116,195,0" name="apple" orbit="[[2,-1,3],[-1,1,3]]"/>
     <Direction color="136,37,0" name="cinnamon" orbit="[[5,-3,2],[2,-1,2]]"/>
+        
+        <OldDirection color="108,0,198" name="purple" orbit="[[2,-1,1],[0,0,1]]"/>
         <Direction color="125,54,211" name="purple" orbit="[[2,-1,1],[0,0,1]]"/>
-        <!-- old color #6c00c6 new color #7d36d3 -->
+        <!-- old "color" : "#6C00C6" new "color" : "#7D36D3" -->
+        
+        <OldDirection color="220,76,0" name="orange" orbit="[[-4,3,5],[3,-1,5]]"/>
         <Direction color="235,82,0" name="orange" orbit="[[-4,3,5],[3,-1,5]]"/>
-        <!-- old color #dc4c00 new color #eb5200 -->
+        <!-- old "color" : "#DC4C00" new "color" : "#EB5200" -->
+    
     <Direction color="0,0,153" name="navy" orbit="[[-1,1,2],[2,-1,2]]"/>
     <Direction color="107,53,26" name="brown" orbit="[[2,-1,3],[5,-3,3]]"/>
     <Direction color="175,135,255" name="lavender" orbit="[[-3,2,1],[-3,2,1]]"/>
