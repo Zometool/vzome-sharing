@@ -63,6 +63,8 @@ Browse on [vZome Online](https://www.vzome.com/app/browser/?user=zometool) to ea
   - [Icosahedron](./2025/07/18/12-33-37-SOL-20-Icosa2/)
     - [Icosahedron with dodeca dual](./2025/07/18/12-34-40-SOL-20-Icosa-Dual/)
     - [Icosahedron unfold](./2025/07/18/12-36-01-SOL-20-Icosa-unfold/)
+  (*For Later: Pentagon and dodecahedron using only B0 struts*)
+    - [Pentagon And Dodecahedron (Only B0)](./2026/01/26/)
 
 ### Instructions for Kepler's Obsession *(Single Model)*
   - [Kepler's Obsession](./2025/03/20/06-44-08-528Z-PRJ-KPK-Keplers-Obsession/)
