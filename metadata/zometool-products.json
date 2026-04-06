@@ -119,6 +119,36 @@
       "PZB-BAL-W": 180
     }
   },
+  "0A-STUD-UNBK-KIT": {
+    "label": "Student Kit with Unbreakable Parts",
+    "url": "",
+    "bom": {
+      "PST-B0-BLU": 90,
+      "PST-B1-BLU": 90,
+      "PST-B2-BLU": 90,
+      "PST-R0-RED": 36,
+      "PST-R1-RED": 36,
+      "PST-R2-RED": 36,
+      "PST-Y0-YEL": 60,
+      "PST-Y1-YEL": 60,
+      "PST-Y2-YEL": 60,
+      "PST-G0-GRN": 16,
+      "PST-G1-GRN": 16,
+      "PST-G2-GRN": 16,
+      "PZB-BAL-W": 180,
+      
+      "PZB-BAL-BLK": 8,
+      "PZB-BAL-BLU": 8,
+      "PZB-BAL-GRN": 8,
+      "PZB-BAL-GRY": 8,
+      "PZB-BAL-ORG": 8,
+      "PZB-BAL-PUR": 8,
+      "PZB-BAL-RED": 8,
+      "PZB-BAL-TEA": 8,
+      "PZB-BAL-YEL": 8,
+      "PZB-BAL-???": 8,
+      "There should be 80 total non-white balls, 10x8ea or 8x10ea":80
+  },
   "0A-ZT3-WHITE": {
     "label": "Monochrome CREATOR 3 White",
     "url": "products/creator-3-monochrome-white.html",
