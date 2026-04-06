@@ -50992,7 +50992,7 @@
     }
   ],
   "lighting": {
-    "backgroundColor": "#003399",
+    "backgroundColor": "#ffffff",
     "ambientColor": "#333333",
     "directionalLights": [
       {
