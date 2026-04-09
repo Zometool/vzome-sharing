@@ -187,7 +187,7 @@ Again, the tetra challenge solutions is [right here](https://vzome.github.io/zom
 
 ### Shadows from the 4th Dimension
 - [Impossible Cube (Revision as written in Book)](./2025/09/30/13-46-32-p14-Shadows4D-ImpossibleCube-REV0/)
-  - Intention to Update This demonstrating a projection instead of a skew
+  - Updated This demonstrating a [projection instead of a skew](./2025/10/03/13-49-07-p14-Shadows4D-ImpossibleCube-REV1/)
 - [Parallel Hypercube Shadow](./2025/09/30/13-47-05-p14-Shadows4D-Parallel4DCube-REV0/)
   - There's also [this one](./2025/09/30/13-47-35-p14-Shadows4D-ParallelHyperCube-REV0/) as well. 
   - Intention to Update This demonstrating a projection instead of a skew
