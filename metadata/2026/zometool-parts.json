@@ -1,0 +1,91 @@
+{
+  "colors": {
+    "blue":      "#008ec2",
+    "yellow":    "#ffb31a",
+    "red":       "#d91218",
+    "green":     "#00993f",
+    "turquoise": "#00b3a1",
+    "orange":    "#eb5200",
+    "purple":    "#7d36d3",
+    "white":     "#f2f2f2",
+    "black":     "#323232",
+    "gray":      "#858585"
+  },
+
+  "parts": {
+    "ZT-BAL-WHT": {
+      "shape": "BALL",
+      "color": "white"
+    },
+    
+    "ZT-STR-B0": {
+      "shape": "B0",
+      "color": "blue"
+    },
+    "ZT-STR-B1": {
+      "shape": "B1",
+      "color": "blue"
+    },
+    "ZT-STR-B2": {
+      "shape": "B2",
+      "color": "blue"
+    },
+
+    "ZT-STR-Y0": {
+      "shape": "Y0",
+      "color": "yellow"
+    },
+    "ZT-STR-Y1": {
+      "shape": "Y1",
+      "color": "yellow"
+    },
+    "ZT-STR-Y2": {
+      "shape": "Y2",
+      "color": "yellow"
+    },
+
+    "ZT-STR-R00": {
+      "shape": "R00",
+      "color": "red"
+    },
+    "ZT-STR-R0": {
+      "shape": "R0",
+      "color": "red"
+    },
+    "ZT-STR-R1": {
+      "shape": "R1",
+      "color": "red"
+    },
+    "ZT-STR-R2": {
+      "shape": "R2",
+      "color": "red"
+    },
+
+    "ZT-STR-G0": {
+      "shape": "G0",
+      "color": "green"
+    },
+    "ZT-STR-G1": {
+      "shape": "G1",
+      "color": "green"
+    },
+    "ZT-STR-G2": {
+      "shape": "G2",
+      "color": "green"
+    },
+
+    "ZT-STR-HG0": {
+      "shape": "HG0",
+      "color": "turquoise"
+    },
+    "ZT-STR-HG1": {
+      "shape": "HG1",
+      "color": "turquoise"
+    },
+    "ZT-STR-HG2": {
+      "shape": "HG2",
+      "color": "green"
+    }
+
+  }
+}

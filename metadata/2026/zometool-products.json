@@ -1,0 +1,126 @@
+{  
+  "ZT-KIT-1-AM": {
+    "label": "Creator 1",
+    "url": "creator-1/",
+    "bom": {
+      "ZT-BAL-WHT": 60,
+      "ZT-STR-B0": 30,
+      "ZT-STR-B1": 30,
+      "ZT-STR-B2": 30,
+      "ZT-STR-Y0": 20,
+      "ZT-STR-Y1": 20,
+      "ZT-STR-Y2": 20,
+      "ZT-STR-R0": 12,
+      "ZT-STR-R1": 12,
+      "ZT-STR-R2": 12
+    }
+  },
+  "ZT-KIT-3-AM": {
+    "label": "Creator 3",
+    "url": "creator-3/",
+    "bom": {
+      "ZT-BAL-WHT": 180,
+
+      "ZT-STR-B0": 90,
+      "ZT-STR-B1": 90,
+      "ZT-STR-B2": 90,
+
+      "ZT-STR-Y0": 60,
+      "ZT-STR-Y1": 60,
+      "ZT-STR-Y2": 60,
+      
+      "ZT-STR-R0": 36,
+      "ZT-STR-R1": 36,
+      "ZT-STR-R2": 36
+    }
+  },
+  "ZT-KIT-3-PRO-AM": {
+    "label": "Creator 3 Pro",
+    "url": "",
+    "bom": {
+      "ZT-BAL-WHT": 240,
+
+      "ZT-STR-G0": 48,
+      "ZT-STR-G1": 48,
+      "ZT-STR-G2": 48,
+
+      "ZT-STR-B0": 96,
+      "ZT-STR-B1": 112,
+      "ZT-STR-B2": 90,
+
+      "ZT-STR-Y0": 60,
+      "ZT-STR-Y1": 60,
+      "ZT-STR-Y2": 60,
+      
+      "ZT-STR-R0": 36,
+      "ZT-STR-R1": 36,
+      "ZT-STR-R2": 36
+    }
+  },
+  "ZT-KIT-BAS-AM": {
+    "label": "Creator Basic",
+    "url": "products/basic-kit.html",
+    "bom": {
+      "ZT-BAL-WHT": 30,
+      "ZT-STR-B0": 15,
+      "ZT-STR-B1": 15,
+      "ZT-STR-B2": 15,
+      "ZT-STR-Y0": 10,
+      "ZT-STR-Y1": 10,
+      "ZT-STR-Y2": 10,
+      "ZT-STR-R0": 6,
+      "ZT-STR-R1": 6,
+      "ZT-STR-R2": 6
+    }
+  },
+  "ZT-KIT-GRN-AM": {
+    "label": "Green Lines",
+    "url": "products/green-lines.html",
+    "bom": {
+      "ZT-BAL-WHT": 60,
+      "ZT-STR-B0": 6,
+      "ZT-STR-B1": 12,
+      "ZT-STR-G0": 48,
+      "ZT-STR-G1": 48,
+      "ZT-STR-G2": 48
+    }
+  },
+  "ZT-KIT-STE-AM": {
+    "label": "STEAM",
+    "url": "products/the-steam-kit.html",
+    "bom": {
+      "ZT-BAL-WHT": 330,
+      "PZB-BAL-B": 100,
+      "PZB-BAL-G": 10,
+      "PZB-BAL-BLU": 12,
+      "PZB-BAL-YEL": 12,
+      "PZB-BAL-ORG": 3,
+      "PZB-BAL-RED": 20,
+      "ZT-STR-B0": 180,
+      "ZT-STR-B1": 120,
+      "ZT-STR-B2": 120,
+      "ZT-STR-Y0": 200,
+      "ZT-STR-Y1": 80,
+      "ZT-STR-Y2": 80,
+      "ZT-STR-R00": 120,
+      "ZT-STR-R0": 120,
+      "ZT-STR-R1": 120,
+      "ZT-STR-R2": 60,
+      "ZT-STR-G0": 48,
+      "ZT-STR-G1": 48,
+      "ZT-STR-G2": 48,
+      "PST-B0-W": 12,
+      "PST-B1-W": 2,
+      "PST-B1-RED": 30,
+      "PST-B1-GRN": 3,
+      "PST-B1-YEL": 3,
+      "PST-B2-YEL": 12,
+      "PST-Y0-W": 10,
+      "PST-R00-W": 32,
+      "PST-R1-W": 5,
+      "ZT-STR-HG0": 12,
+      "ZT-STR-HG1": 32,
+      "ZT-STR-HG2": 12
+    }
+  }
+}
