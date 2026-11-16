@@ -13,76 +13,132 @@
   },
 
   "parts": {
-    "ZT-BAL-WHT": {
+    "ZOME-BAL-WHT": {
       "shape": "BALL",
       "color": "white"
     },
+    "ZOME-BAL-BLU": {
+      "shape": "BALL",
+      "color": "blue"
+    },
+    "ZOME-BAL-YLW": {
+      "shape": "BALL",
+      "color": "yellow"
+    },
+    "ZOME-BAL-RED": {
+      "shape": "BALL",
+      "color": "red"
+    },
+    "ZOME-BAL-GRN": {
+      "shape": "BALL",
+      "color": "green"
+    },
+    "ZOME-BAL-BLK": {
+      "shape": "BALL",
+      "color": "black"
+    },
+    "ZOME-BAL-GRY": {
+      "shape": "BALL",
+      "color": "gray"
+    },
+    "ZOME-BAL-ORG": {
+      "shape": "BALL",
+      "color": "orange"
+    },
+    "ZOME-BAL-PPL": {
+      "shape": "BALL",
+      "color": "purple"
+    },
+    "ZOME-BAL-TEA": {
+      "shape": "BALL",
+      "color": "turquoise"
+    },
     
-    "ZT-STR-B0": {
+    "ZOME-STR-B0-BLU": {
       "shape": "B0",
       "color": "blue"
     },
-    "ZT-STR-B1": {
+    "ZOME-STR-B1-BLU": {
       "shape": "B1",
       "color": "blue"
     },
-    "ZT-STR-B2": {
+    "ZOME-STR-B2-BLU": {
       "shape": "B2",
       "color": "blue"
     },
+    "ZOME-STR-B0-WHT": {
+      "shape": "B0",
+      "color": "white"
+    },
+    "ZOME-STR-B1-WHT": {
+      "shape": "B1",
+      "color": "white"
+    },
 
-    "ZT-STR-Y0": {
+    "ZOME-STR-Y0-YLW": {
       "shape": "Y0",
       "color": "yellow"
     },
-    "ZT-STR-Y1": {
+    "ZOME-STR-Y1-YLW": {
       "shape": "Y1",
       "color": "yellow"
     },
-    "ZT-STR-Y2": {
+    "ZOME-STR-Y2-YLW": {
       "shape": "Y2",
       "color": "yellow"
     },
 
-    "ZT-STR-R00": {
+    "ZOME-STR-R00-RED": {
       "shape": "R00",
       "color": "red"
     },
-    "ZT-STR-R0": {
+    "ZOME-STR-R0-RED": {
       "shape": "R0",
       "color": "red"
     },
-    "ZT-STR-R1": {
+    "ZOME-STR-R1-RED": {
       "shape": "R1",
       "color": "red"
     },
-    "ZT-STR-R2": {
+    "ZOME-STR-R2-RED": {
       "shape": "R2",
       "color": "red"
     },
 
-    "ZT-STR-G0": {
+    "ZOME-STR-G0-GRN": {
       "shape": "G0",
       "color": "green"
     },
-    "ZT-STR-G1": {
+    "ZOME-STR-G1-GRN": {
       "shape": "G1",
       "color": "green"
     },
-    "ZT-STR-G2": {
+    "ZOME-STR-G2-GRN": {
       "shape": "G2",
       "color": "green"
     },
 
-    "ZT-STR-HG0": {
+    "ZOME-STR-HG0-TEA": {
       "shape": "HG0",
       "color": "turquoise"
     },
-    "ZT-STR-HG1": {
+    "ZOME-STR-HG1-TEA": {
       "shape": "HG1",
       "color": "turquoise"
     },
-    "ZT-STR-HG2": {
+    "ZOME-STR-HG2-TEA": {
+      "shape": "HG2",
+      "color": "turquoise"
+    },
+    "ZOME-STR-HG0-GRN": {
+      "shape": "HG0",
+      "color": "green"
+    },
+    "ZOME-STR-HG1-GRN": {
+      "shape": "HG1",
+      "color": "green"
+    },
+    "ZOME-STR-HG2-GRN": {
       "shape": "HG2",
       "color": "green"
     }
