@@ -1,0 +1,1864 @@
+{
+  "models": [
+    {
+      "id": "2025-09-30-14-03-45-p22-dome-p22-dome",
+      "title": "Dome",
+      "collection": "Structures!",
+      "badge": "Engineering & Structures",
+      "categories": [
+        "featured",
+        "engineering"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/09/30/14-03-45-p22-Dome/p22-Dome.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/09/30/14-03-45-p22-Dome/p22-Dome.png",
+      "pieces": 121,
+      "kits": [
+        "Creator 1",
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-03-20-06-44-08-528z-prj-kpk-keplers-obsession-prj-kpk-keplers-obsession",
+      "title": "Kepler's Obsession",
+      "collection": "Kepler's Obsession",
+      "badge": "Geometric Beauty",
+      "categories": [
+        "featured",
+        "geometric-beauty"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/03/20/06-44-08-528Z-PRJ-KPK-Keplers-Obsession/PRJ-KPK-Keplers-Obsession.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/03/20/06-44-08-528Z-PRJ-KPK-Keplers-Obsession/PRJ-KPK-Keplers-Obsession.png",
+      "pieces": 146,
+      "kits": [
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-09-30-13-51-24-p17-shadows-4dpersphypercube-p17-shadows-4dpersphypercube",
+      "title": "4-D Perspective Cube Shadow",
+      "collection": "Shadows from the 4th Dimension",
+      "badge": "Advanced Geometry",
+      "categories": [
+        "featured",
+        "advanced-geometry"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/09/30/13-51-24-p17-shadows-4DPerspHypercube/p17-shadows-4DPerspHypercube.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/09/30/13-51-24-p17-shadows-4DPerspHypercube/p17-shadows-4DPerspHypercube.png",
+      "pieces": 48,
+      "kits": [
+        "Creator Basic",
+        "Creator 1",
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-07-18-12-18-25-sol-12-dodecahedron-sol-12-dodecahedron",
+      "title": "Dodecahedron",
+      "collection": "Plato's Solids",
+      "badge": "Basic Geometry",
+      "categories": [
+        "featured",
+        "basic-geometry"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/12-18-25-SOL-12-Dodecahedron/SOL-12-Dodecahedron.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/12-18-25-SOL-12-Dodecahedron/SOL-12-Dodecahedron.png",
+      "pieces": 61,
+      "kits": []
+    },
+    {
+      "id": "2025-03-12-00-06-46-755z-prj-buk-buckyball-prj-buk-buckyball",
+      "title": "Buckyball",
+      "collection": "BuckyBall",
+      "badge": "Molecules & Crystals",
+      "categories": [
+        "featured",
+        "molecules-crystals"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/03/12/00-06-46-755Z-PRJ-BUK-Buckyball/PRJ-BUK-Buckyball.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/03/12/00-06-46-755Z-PRJ-BUK-Buckyball/PRJ-BUK-Buckyball.png",
+      "pieces": 150,
+      "kits": [
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-03-05-09-13-20-424z-prj-dna-mod1-prj-dna-mod1",
+      "title": "DNA Model",
+      "collection": "DNA",
+      "badge": "Molecules & Crystals",
+      "categories": [
+        "featured",
+        "molecules-crystals"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/03/05/09-13-20-424Z-PRJ-DNA-mod1/PRJ-DNA-mod1.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/03/05/09-13-20-424Z-PRJ-DNA-mod1/PRJ-DNA-mod1.png",
+      "pieces": 71,
+      "kits": [
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-11-05-07-41-08-2d-3-2-snow-flake-2d-3-2-snow-flake",
+      "title": "Snow Flake",
+      "collection": "Creator 1 Wrap Featured Models",
+      "badge": "Nature & Life",
+      "categories": [
+        "featured",
+        "nature-life"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/11/05/07-41-08-2D-3-2-Snow-Flake/2D-3-2-Snow-Flake.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/11/05/07-41-08-2D-3-2-Snow-Flake/2D-3-2-Snow-Flake.png",
+      "pieces": 132,
+      "kits": [
+        "Creator 1",
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-03-25-19-37-46-989z-prj-bub-1-hypercube-wand-with-bubble-prj-bub-1-hypercube-wand-with-bubble",
+      "title": "Hypercube with Bubble",
+      "collection": "Crazy Bubbles",
+      "badge": "Science & Physics",
+      "categories": [
+        "featured",
+        "sci-tech",
+        "advanced-geometry",
+        "creative-play"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/03/25/19-37-46-989Z-PRJ-BUB-1-Hypercube-Wand-with-bubble/PRJ-BUB-1-Hypercube-Wand-with-bubble.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/03/25/19-37-46-989Z-PRJ-BUB-1-Hypercube-Wand-with-bubble/PRJ-BUB-1-Hypercube-Wand-with-bubble.png",
+      "pieces": 21,
+      "kits": [
+        "Creator Basic",
+        "Creator 1",
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-11-05-07-59-39-3d-zt3-polyhedron-triacon-3d-zt3-polyhedron-triacon",
+      "title": "Triacontahedron",
+      "collection": "Creator 3 Wrap Featured Models",
+      "badge": "Advanced Geometry",
+      "categories": [
+        "featured",
+        "advanced-geometry"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/11/05/07-59-39-3D-ZT3-polyhedron_triacon/3D-ZT3-polyhedron_triacon.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/11/05/07-59-39-3D-ZT3-polyhedron_triacon/3D-ZT3-polyhedron_triacon.png",
+      "pieces": 152,
+      "kits": [
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-07-22-13-03-01-kri-stellated-icosa-kri-stellated-icosa",
+      "title": "Stellated Icosahedron",
+      "collection": "Ice Crystals and Stars",
+      "badge": "Nature & Life",
+      "categories": [
+        "featured",
+        "nature-life",
+        "art-gallery",
+        "geometric-beauty"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/22/13-03-01-KRI+_Stellated-Icosa/KRI+_Stellated-Icosa.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/22/13-03-01-KRI+_Stellated-Icosa/KRI+_Stellated-Icosa.png",
+      "pieces": 122,
+      "kits": [
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-09-30-14-01-52-p22-bigbridge-p22-bigbridge",
+      "title": "Big Bridge",
+      "collection": "Structures!",
+      "badge": "Engineering & Structures",
+      "categories": [
+        "featured",
+        "engineering"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/09/30/14-01-52-p22-BigBridge/p22-BigBridge.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/09/30/14-01-52-p22-BigBridge/p22-BigBridge.png",
+      "pieces": 85,
+      "kits": [
+        "Creator 1",
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-11-05-08-01-11-4d-zt3-24-cell-cleaned-4d-zt3-24-cell-cleaned",
+      "title": "24-cell",
+      "collection": "Creator 3 Wrap Featured Models",
+      "badge": "Advanced Geometry",
+      "categories": [
+        "featured",
+        "advanced-geometry"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/11/05/08-01-11-4D-ZT3-24_cell-cleaned/4D-ZT3-24_cell-cleaned.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/11/05/08-01-11-4D-ZT3-24_cell-cleaned/4D-ZT3-24_cell-cleaned.png",
+      "pieces": 156,
+      "kits": [
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-03-07-19-49-23-582z-prj-hyp-model-1-hyperdo-detailed-lc-prj-hyp-model-1-hyperdo-detailed-lc",
+      "title": "HyperDo (Main Model)",
+      "collection": "Hyperdo",
+      "badge": "Advanced Geometry",
+      "categories": [
+        "featured",
+        "advanced-geometry"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/03/07/19-49-23-582Z-PRJ-HYP-Model-1-HyperDo-Detailed---LC/PRJ-HYP-Model-1-HyperDo-Detailed---LC.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/03/07/19-49-23-582Z-PRJ-HYP-Model-1-HyperDo-Detailed---LC/PRJ-HYP-Model-1-HyperDo-Detailed---LC.png",
+      "pieces": 960,
+      "kits": [
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-04-15-23-31-13-grn-5tetras-grn-5tetras",
+      "title": "5 Tetrahedra in a Dodecahedron",
+      "collection": "Green Lines",
+      "badge": "Geometric Beauty",
+      "categories": [
+        "featured",
+        "geometric-beauty"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/04/15/23-31-13-GRN-5Tetras/GRN-5Tetras.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/04/15/23-31-13-GRN-5Tetras/GRN-5Tetras.png",
+      "pieces": 92,
+      "kits": [
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-11-05-08-21-27-struc-zt3-mosque-castle-onlyzt3-struc-zt3-mosque-castle-onlyzt3",
+      "title": "Mosque Castle",
+      "collection": "Creator 3 Wrap Featured Models",
+      "badge": "Engineering & Structures",
+      "categories": [
+        "featured",
+        "engineering",
+        "art-gallery"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/11/05/08-21-27-Struc-ZT3-Mosque-Castle-onlyZT3/Struc-ZT3-Mosque-Castle-onlyZT3.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/11/05/08-21-27-Struc-ZT3-Mosque-Castle-onlyZT3/Struc-ZT3-Mosque-Castle-onlyZT3.png",
+      "pieces": 222,
+      "kits": [
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2026-01-29-18-26-36-882z-geodesic-igloo-geodesic-igloo",
+      "title": "Geodesic Igloo",
+      "collection": "Structures!",
+      "badge": "Engineering & Structures",
+      "categories": [
+        "featured",
+        "engineering"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2026/01/29/18-26-36-882Z-Geodesic-Igloo/Geodesic-Igloo.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2026/01/29/18-26-36-882Z-Geodesic-Igloo/Geodesic-Igloo.png",
+      "pieces": 412,
+      "kits": []
+    },
+    {
+      "id": "2026-08-07-06-04-57-218z-ferriswheelwithstand-ferriswheelwithstand",
+      "title": "Ferris Wheel with Stand",
+      "collection": "Art & Kinetic Sculptures",
+      "badge": "Science & Physics",
+      "categories": [
+        "featured",
+        "sci-tech",
+        "art-gallery",
+        "creative-play"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2026/08/07/06-04-57-218Z-FerrisWheelWithStand/FerrisWheelWithStand.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2026/08/07/06-04-57-218Z-FerrisWheelWithStand/FerrisWheelWithStand.png",
+      "pieces": 1315,
+      "kits": []
+    },
+    {
+      "id": "2025-11-05-07-45-16-4d-simplex-4d-simplex",
+      "title": "Simplex",
+      "collection": "Creator 1 Wrap Featured Models",
+      "badge": "Advanced Geometry",
+      "categories": [
+        "featured",
+        "advanced-geometry"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/11/05/07-45-16-4D-Simplex/4D-Simplex.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/11/05/07-45-16-4D-Simplex/4D-Simplex.png",
+      "pieces": 15,
+      "kits": [
+        "Creator Basic",
+        "Creator 1",
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-09-30-13-29-44-0d-1d-2d-explorations-0d-1d-2d-explorations",
+      "title": "0-D, 1-D, 2-D Explorations",
+      "collection": "Shape & Color 2, 3, 5",
+      "badge": "Basic Geometry",
+      "categories": [
+        "basic-geometry"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/09/30/13-29-44-0D-1D-2D-Explorations/0D-1D-2D-Explorations.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/09/30/13-29-44-0D-1D-2D-Explorations/0D-1D-2D-Explorations.png",
+      "pieces": 31,
+      "kits": [
+        "Creator Basic",
+        "Creator 1",
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-07-22-12-57-02-kri-2d-5fold-1-kri-2d-5fold-1",
+      "title": "10-pointed star",
+      "collection": "Ice Crystals and Stars",
+      "badge": "Nature & Life",
+      "categories": [
+        "nature-life",
+        "geometric-beauty"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/22/12-57-02-KRI-2d-5fold-1/KRI-2d-5fold-1.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/22/12-57-02-KRI-2d-5fold-1/KRI-2d-5fold-1.png",
+      "pieces": 51,
+      "kits": [
+        "Creator 1",
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-09-30-13-30-29-2d-2-square-rect-2d-2-square-rect",
+      "title": "2-D 2-fold Shapes",
+      "collection": "Shape & Color 2, 3, 5",
+      "badge": "Basic Geometry",
+      "categories": [
+        "basic-geometry"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/09/30/13-30-29-2D-2-Square-Rect/2D-2-Square-Rect.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/09/30/13-30-29-2D-2-Square-Rect/2D-2-Square-Rect.png",
+      "pieces": 12,
+      "kits": [
+        "Creator Basic",
+        "Creator 1",
+        "Green Lines",
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-09-30-13-31-06-2d-3-tri-hexagon-2d-3-tri-hexagon",
+      "title": "2-D 3-fold Shapes",
+      "collection": "Shape & Color 2, 3, 5",
+      "badge": "Basic Geometry",
+      "categories": [
+        "basic-geometry"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/09/30/13-31-06-2D-3-Tri-Hexagon/2D-3-Tri-Hexagon.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/09/30/13-31-06-2D-3-Tri-Hexagon/2D-3-Tri-Hexagon.png",
+      "pieces": 16,
+      "kits": [
+        "Creator Basic",
+        "Creator 1",
+        "Green Lines",
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-09-30-13-32-34-2d-5-2-decagon-2d-5-2-decagon",
+      "title": "2-D 5-fold Plane: Decagon",
+      "collection": "Shape & Color 2, 3, 5",
+      "badge": "Basic Geometry",
+      "categories": [
+        "basic-geometry"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/09/30/13-32-34-2D-5-2-Decagon/2D-5-2-Decagon.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/09/30/13-32-34-2D-5-2-Decagon/2D-5-2-Decagon.png",
+      "pieces": 31,
+      "kits": [
+        "Creator Basic",
+        "Creator 1",
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-09-30-13-32-01-2d-5-1-pentagon-2d-5-1-pentagon",
+      "title": "2-D 5-fold Plane: Pentagon",
+      "collection": "Shape & Color 2, 3, 5",
+      "badge": "Basic Geometry",
+      "categories": [
+        "basic-geometry"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/09/30/13-32-01-2D-5-1-Pentagon/2D-5-1-Pentagon.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/09/30/13-32-01-2D-5-1-Pentagon/2D-5-1-Pentagon.png",
+      "pieces": 16,
+      "kits": [
+        "Creator Basic",
+        "Creator 1",
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-09-30-13-48-34-p16-shadows-perspective2dcubeshadow-p16-shadows-perspective2dcubeshadow",
+      "title": "2-D Perspective Cube Shadow",
+      "collection": "Shadows from the 4th Dimension",
+      "badge": "Advanced Geometry",
+      "categories": [
+        "advanced-geometry"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/09/30/13-48-34-p16-shadows-Perspective2DCubeShadow/p16-shadows-Perspective2DCubeShadow.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/09/30/13-48-34-p16-shadows-Perspective2DCubeShadow/p16-shadows-Perspective2DCubeShadow.png",
+      "pieces": 20,
+      "kits": [
+        "Creator Basic",
+        "Creator 1",
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-07-22-13-02-09-kri-2d-2fold-2-kri-2d-2fold-2",
+      "title": "2-fold Plaid Star",
+      "collection": "Ice Crystals and Stars",
+      "badge": "Nature & Life",
+      "categories": [
+        "nature-life",
+        "art-gallery",
+        "geometric-beauty"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/22/13-02-09-KRI-2d-2fold-2/KRI-2d-2fold-2.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/22/13-02-09-KRI-2d-2fold-2/KRI-2d-2fold-2.png",
+      "pieces": 62,
+      "kits": [
+        "Creator Basic",
+        "Creator 1",
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-09-30-13-33-34-p12-nature2d-2f-goldenspiral-p12-nature2d-2f-goldenspiral",
+      "title": "2-fold Plane: Golden Rectangle Spiral",
+      "collection": "2, 3 & 5 in Nature",
+      "badge": "Nature & Life",
+      "categories": [
+        "nature-life"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/09/30/13-33-34-p12-nature2D-2f-goldenSpiral/p12-nature2D-2f-goldenSpiral.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/09/30/13-33-34-p12-nature2D-2f-goldenSpiral/p12-nature2D-2f-goldenSpiral.png",
+      "pieces": 46,
+      "kits": [
+        "Creator Basic",
+        "Creator 1",
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-11-05-07-51-12-2d-2-3-shadow-triacon-2fold-2d-2-3-shadow-triacon-2fold",
+      "title": "2-fold Triacon Shadow",
+      "collection": "Creator 3 Wrap Featured Models",
+      "badge": "Geometric Beauty",
+      "categories": [
+        "geometric-beauty"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/11/05/07-51-12-2D-2-3-Shadow-Triacon-2fold/2D-2-3-Shadow-Triacon-2fold.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/11/05/07-51-12-2D-2-3-Shadow-Triacon-2fold/2D-2-3-Shadow-Triacon-2fold.png",
+      "pieces": 76,
+      "kits": [
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-09-30-13-50-23-p17-shadows-3dperspcubeshadow-p17-shadows-3dperspcubeshadow",
+      "title": "3-D Perspective Cube Shadow",
+      "collection": "Shadows from the 4th Dimension",
+      "badge": "Advanced Geometry",
+      "categories": [
+        "advanced-geometry"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/09/30/13-50-23-p17-shadows-3DPerspCubeShadow/p17-shadows-3DPerspCubeShadow.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/09/30/13-50-23-p17-shadows-3DPerspCubeShadow/p17-shadows-3DPerspCubeShadow.png",
+      "pieces": 20,
+      "kits": [
+        "Creator Basic",
+        "Creator 1",
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-07-22-12-55-03-kri-2d-3fold-5-kri-2d-3fold-5",
+      "title": "3-fold Crystal",
+      "collection": "Ice Crystals and Stars",
+      "badge": "Nature & Life",
+      "categories": [
+        "nature-life",
+        "geometric-beauty"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/22/12-55-03-KRI-2d-3fold-5/KRI-2d-3fold-5.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/22/12-55-03-KRI-2d-3fold-5/KRI-2d-3fold-5.png",
+      "pieces": 51,
+      "kits": [
+        "Creator Basic",
+        "Creator 1",
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-09-30-13-35-05-p12-nature2d-3f-snowflake-p12-nature2d-3f-snowflake",
+      "title": "3-fold Plane: Snowflake - Simple",
+      "collection": "2, 3 & 5 in Nature",
+      "badge": "Nature & Life",
+      "categories": [
+        "nature-life"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/09/30/13-35-05-p12-nature2D-3f-snowflake/p12-nature2D-3f-snowflake.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/09/30/13-35-05-p12-nature2D-3f-snowflake/p12-nature2D-3f-snowflake.png",
+      "pieces": 37,
+      "kits": [
+        "Creator Basic",
+        "Creator 1",
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-11-05-07-52-02-2d-3-3-shadow-triacon-3fold-2d-3-3-shadow-triacon-3fold",
+      "title": "3-fold Triacon Shadow",
+      "collection": "Creator 3 Wrap Featured Models",
+      "badge": "Geometric Beauty",
+      "categories": [
+        "geometric-beauty"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/11/05/07-52-02-2D-3-3-Shadow-Triacon-3fold/2D-3-3-Shadow-Triacon-3fold.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/11/05/07-52-02-2D-3-3-Shadow-Triacon-3fold/2D-3-3-Shadow-Triacon-3fold.png",
+      "pieces": 49,
+      "kits": [
+        "Creator Basic",
+        "Creator 1",
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-07-22-13-01-02-kri-2d-2fold-1-kri-2d-2fold-1",
+      "title": "4-fold Star",
+      "collection": "Ice Crystals and Stars",
+      "badge": "Nature & Life",
+      "categories": [
+        "nature-life",
+        "geometric-beauty"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/22/13-01-02-KRI-2d-2fold-1/KRI-2d-2fold-1.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/22/13-01-02-KRI-2d-2fold-1/KRI-2d-2fold-1.png",
+      "pieces": 56,
+      "kits": [
+        "Creator 1",
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-03-25-05-31-57-917z-prj-bub-6-triangle-4d-bubble-prj-bub-6-triangle-4d-bubble",
+      "title": "4D Triangle With Bubble",
+      "collection": "Crazy Bubbles",
+      "badge": "Science & Physics",
+      "categories": [
+        "sci-tech",
+        "advanced-geometry"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/03/25/05-31-57-917Z-PRJ-BUB-6-Triangle-4D+bubble/PRJ-BUB-6-Triangle-4D+bubble.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/03/25/05-31-57-917Z-PRJ-BUB-6-Triangle-4D+bubble/PRJ-BUB-6-Triangle-4D+bubble.png",
+      "pieces": 11,
+      "kits": [
+        "Creator Basic",
+        "Creator 1",
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-09-30-13-54-33-p18-19-5-crystal-p18-19-5-crystal",
+      "title": "5-Crystal",
+      "collection": "3-Dimensional Shapes",
+      "badge": "Geometric Beauty",
+      "categories": [
+        "geometric-beauty"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/09/30/13-54-33-p18+19-5-Crystal/p18+19-5-Crystal.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/09/30/13-54-33-p18+19-5-Crystal/p18+19-5-Crystal.png",
+      "pieces": 58,
+      "kits": [
+        "Creator Basic",
+        "Creator 1",
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-09-30-13-35-46-p12-nature2d-5f-fractalstar-p12-nature2d-5f-fractalstar",
+      "title": "5-fold Plane: Fractal Star",
+      "collection": "2, 3 & 5 in Nature",
+      "badge": "Nature & Life",
+      "categories": [
+        "nature-life",
+        "geometric-beauty"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/09/30/13-35-46-p12-nature2D-5f-fractalStar/p12-nature2D-5f-fractalStar.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/09/30/13-35-46-p12-nature2D-5f-fractalStar/p12-nature2D-5f-fractalStar.png",
+      "pieces": 75,
+      "kits": [
+        "Creator 1",
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-11-05-07-58-40-2d-5-3-shadow-triacon-5fold-r2-no-bend-2d-5-3-shadow-triacon-5fold-r2-no-bend",
+      "title": "5-fold Triacon Shadow",
+      "collection": "Creator 3 Wrap Featured Models",
+      "badge": "Geometric Beauty",
+      "categories": [
+        "geometric-beauty"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/11/05/07-58-40-2D-5-3-Shadow-Triacon-5fold-r2_no_bend/2D-5-3-Shadow-Triacon-5fold-r2_no_bend.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/11/05/07-58-40-2D-5-3-Shadow-Triacon-5fold-r2_no_bend/2D-5-3-Shadow-Triacon-5fold-r2_no_bend.png",
+      "pieces": 61,
+      "kits": [
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-07-22-12-58-09-kri-2d-5fold-2-kri-2d-5fold-2",
+      "title": "5-pointed star",
+      "collection": "Ice Crystals and Stars",
+      "badge": "Nature & Life",
+      "categories": [
+        "nature-life",
+        "geometric-beauty"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/22/12-58-09-KRI-2d-5fold-2/KRI-2d-5fold-2.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/22/12-58-09-KRI-2d-5fold-2/KRI-2d-5fold-2.png",
+      "pieces": 60,
+      "kits": [
+        "Creator 1",
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-04-16-12-05-12-grn-octahedron-better2-onlygrn-grn-octahedron-better2-onlygrn",
+      "title": "Alt Octahedron (Smaller)",
+      "collection": "Green Lines",
+      "badge": "Basic Geometry",
+      "categories": [
+        "basic-geometry"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/04/16/12-05-12-GRN-octahedron-better2-OnlyGRN/GRN-octahedron-better2-OnlyGRN.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/04/16/12-05-12-GRN-octahedron-better2-OnlyGRN/GRN-octahedron-better2-OnlyGRN.png",
+      "pieces": 27,
+      "kits": [
+        "Green Lines",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-03-25-22-24-17-308z-prj-vir-animal-virus-prj-vir-animal-virus",
+      "title": "Animal Virus",
+      "collection": "Animal Virus",
+      "badge": "Molecules & Crystals",
+      "categories": [
+        "molecules-crystals"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/03/25/22-24-17-308Z-PRJ-VIR-Animal-Virus/PRJ-VIR-Animal-Virus.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/03/25/22-24-17-308Z-PRJ-VIR-Animal-Virus/PRJ-VIR-Animal-Virus.png",
+      "pieces": 133,
+      "kits": [
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-07-21-12-45-09-prj-bub-4-banana-bubble-prj-bub-4-banana-bubble",
+      "title": "Banana with Bubble",
+      "collection": "Crazy Bubbles",
+      "badge": "Science & Physics",
+      "categories": [
+        "sci-tech",
+        "creative-play"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/21/12-45-09-PRJ-BUB-4-Banana+bubble/PRJ-BUB-4-Banana+bubble.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/21/12-45-09-PRJ-BUB-4-Banana+bubble/PRJ-BUB-4-Banana+bubble.png",
+      "pieces": 18,
+      "kits": [
+        "Creator Basic",
+        "Creator 1",
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-07-22-12-50-12-kri-2d-3fold-1-kri-2d-3fold-1-old",
+      "title": "Basic Crystal",
+      "collection": "Ice Crystals and Stars",
+      "badge": "Nature & Life",
+      "categories": [
+        "nature-life",
+        "geometric-beauty"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/22/12-50-12-KRI-2d-3fold-1/KRI-2d-3fold-1-old.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/22/12-50-12-KRI-2d-3fold-1/KRI-2d-3fold-1-old.png",
+      "pieces": 31,
+      "kits": [
+        "Creator 1",
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-09-30-14-01-04-p21-beehouse-p21-beehouse",
+      "title": "Bee House",
+      "collection": "3-Dimensional Shapes",
+      "badge": "Nature & Life",
+      "categories": [
+        "nature-life"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/09/30/14-01-04-p21-BeeHouse/p21-BeeHouse.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/09/30/14-01-04-p21-BeeHouse/p21-BeeHouse.png",
+      "pieces": 125,
+      "kits": [
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-11-05-08-01-43-nat-zt3-honeycomb-nat-zt3-honeycomb",
+      "title": "Beehive",
+      "collection": "Creator 3 Wrap Featured Models",
+      "badge": "Nature & Life",
+      "categories": [
+        "nature-life"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/11/05/08-01-43-Nat-ZT3-Honeycomb/Nat-ZT3-Honeycomb.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/11/05/08-01-43-Nat-ZT3-Honeycomb/Nat-ZT3-Honeycomb.png",
+      "pieces": 99,
+      "kits": [
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-03-05-07-45-57-752z-prj-hyp-dodeca-by-y1s-prj-hyp-dodeca-by-y1s",
+      "title": "Central Dodecahedron",
+      "collection": "Hyperdo",
+      "badge": "Advanced Geometry",
+      "categories": [
+        "advanced-geometry"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/03/05/07-45-57-752Z-PRJ-HYP-Dodeca-by-Y1s/PRJ-HYP-Dodeca-by-Y1s.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/03/05/07-45-57-752Z-PRJ-HYP-Dodeca-by-Y1s/PRJ-HYP-Dodeca-by-Y1s.png",
+      "pieces": 60,
+      "kits": [
+        "Creator 1",
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-07-22-12-56-08-kri-2d-3fold-6-kri-2d-3fold-6",
+      "title": "Crystal with Barbs",
+      "collection": "Ice Crystals and Stars",
+      "badge": "Nature & Life",
+      "categories": [
+        "nature-life",
+        "geometric-beauty"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/22/12-56-08-KRI-2d-3fold-6/KRI-2d-3fold-6.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/22/12-56-08-KRI-2d-3fold-6/KRI-2d-3fold-6.png",
+      "pieces": 84,
+      "kits": [
+        "Creator 1",
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-07-18-12-09-40-sol-6-cube-unfold-sol-6-cube-unfold",
+      "title": "Cube unfold",
+      "collection": "Plato's Solids",
+      "badge": "Basic Geometry",
+      "categories": [
+        "basic-geometry",
+        "creative-play"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/12-09-40-SOL-6-Cube-unfold/SOL-6-Cube-unfold.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/12-09-40-SOL-6-Cube-unfold/SOL-6-Cube-unfold.png",
+      "pieces": 33,
+      "kits": []
+    },
+    {
+      "id": "2025-07-18-11-29-10-sol-6-cube-sol-6-cube",
+      "title": "Cube with octahedron dual",
+      "collection": "Plato's Solids",
+      "badge": "Geometric Beauty",
+      "categories": [
+        "geometric-beauty",
+        "basic-geometry"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/11-29-10-SOL-6-Cube/SOL-6-Cube.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/11-29-10-SOL-6-Cube/SOL-6-Cube.png",
+      "pieces": 42,
+      "kits": [
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-07-21-15-01-04-cry-cubic-f-all-cry-cubic-f-all",
+      "title": "Cubic",
+      "collection": "Crystallography",
+      "badge": "Molecules & Crystals",
+      "categories": [
+        "molecules-crystals"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/21/15-01-04-CRY-Cubic-F-All/CRY-Cubic-F-All.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/21/15-01-04-CRY-Cubic-F-All/CRY-Cubic-F-All.png",
+      "pieces": 58,
+      "kits": [
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-04-15-23-22-38-grn-cubocta-rhombic-dodeca-grn-cubocta-rhombic-dodeca",
+      "title": "Cuboctahedron & Rhombic Dodecahedron",
+      "collection": "Green Lines",
+      "badge": "Advanced Geometry",
+      "categories": [
+        "advanced-geometry"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/04/15/23-22-38-GRN-Cubocta+Rhombic-Dodeca/GRN-Cubocta+Rhombic-Dodeca.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/04/15/23-22-38-GRN-Cubocta+Rhombic-Dodeca/GRN-Cubocta+Rhombic-Dodeca.png",
+      "pieces": 242,
+      "kits": [
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-09-30-13-28-14-p7-bubbles-fig5-cuboid-p7-bubbles-fig5-cuboid",
+      "title": "Cuboid",
+      "collection": "Bubbles",
+      "badge": "Science & Physics",
+      "categories": [
+        "sci-tech"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/09/30/13-28-14-p7-bubbles-fig5-cuboid/p7-bubbles-fig5-cuboid.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/09/30/13-28-14-p7-bubbles-fig5-cuboid/p7-bubbles-fig5-cuboid.png",
+      "pieces": 20,
+      "kits": [
+        "Creator Basic",
+        "Creator 1",
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-07-18-12-29-38-sol-12-dodeca-unfold2-sol-12-dodeca-unfold2",
+      "title": "Dodecahedron unfold",
+      "collection": "Plato's Solids",
+      "badge": "Basic Geometry",
+      "categories": [
+        "basic-geometry",
+        "creative-play"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/12-29-38-SOL-12-Dodeca-unfold2/SOL-12-Dodeca-unfold2.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/12-29-38-SOL-12-Dodeca-unfold2/SOL-12-Dodeca-unfold2.png",
+      "pieces": 101,
+      "kits": []
+    },
+    {
+      "id": "2025-07-18-12-24-14-sol-12-dodeca-dual2-sol-12-dodeca-dual2",
+      "title": "Dodecahedron with icosa dual",
+      "collection": "Plato's Solids",
+      "badge": "Geometric Beauty",
+      "categories": [
+        "geometric-beauty",
+        "basic-geometry"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/12-24-14-SOL-12-Dodeca-Dual2/SOL-12-Dodeca-Dual2.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/12-24-14-SOL-12-Dodeca-Dual2/SOL-12-Dodeca-Dual2.png",
+      "pieces": 97,
+      "kits": []
+    },
+    {
+      "id": "2025-09-30-13-59-48-p21-doublestarburst-p21-doublestarburst",
+      "title": "Double Starburst",
+      "collection": "3-Dimensional Shapes",
+      "badge": "Geometric Beauty",
+      "categories": [
+        "art-gallery",
+        "geometric-beauty"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/09/30/13-59-48-p21-DoubleStarburst/p21-DoubleStarburst.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/09/30/13-59-48-p21-DoubleStarburst/p21-DoubleStarburst.png",
+      "pieces": 125,
+      "kits": [
+        "Creator 1",
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-07-22-13-05-12-a13-ice-crystal-1-b0s-a13-ice-crystal-1-b0s",
+      "title": "Extra Crystal 1",
+      "collection": "Ice Crystals and Stars",
+      "badge": "Nature & Life",
+      "categories": [
+        "nature-life",
+        "geometric-beauty"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/22/13-05-12-A13-Ice-Crystal-1-B0s/A13-Ice-Crystal-1-B0s.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/22/13-05-12-A13-Ice-Crystal-1-B0s/A13-Ice-Crystal-1-B0s.png",
+      "pieces": 79,
+      "kits": [
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-07-22-12-54-02-kri-2d-3fold-4-kri-2d-3fold-4",
+      "title": "Fat Crystal",
+      "collection": "Ice Crystals and Stars",
+      "badge": "Nature & Life",
+      "categories": [
+        "nature-life",
+        "geometric-beauty"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/22/12-54-02-KRI-2d-3fold-4/KRI-2d-3fold-4.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/22/12-54-02-KRI-2d-3fold-4/KRI-2d-3fold-4.png",
+      "pieces": 66,
+      "kits": [
+        "Creator 1",
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-03-06-23-46-37-540z-prj-hyp-model3-fat-red-cell-prj-hyp-model3-fat-red-cell",
+      "title": "Fat Red Cell",
+      "collection": "Hyperdo",
+      "badge": "Advanced Geometry",
+      "categories": [
+        "advanced-geometry"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/03/06/23-46-37-540Z-PRJ-HYP-model3-Fat-Red-Cell/PRJ-HYP-model3-Fat-Red-Cell.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/03/06/23-46-37-540Z-PRJ-HYP-model3-Fat-Red-Cell/PRJ-HYP-model3-Fat-Red-Cell.png",
+      "pieces": 50,
+      "kits": [
+        "Creator 1",
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-07-22-12-52-05-kri-2d-3fold-3-kri-2d-3fold-3",
+      "title": "Fat, Webbed Crystal",
+      "collection": "Ice Crystals and Stars",
+      "badge": "Nature & Life",
+      "categories": [
+        "nature-life",
+        "geometric-beauty"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/22/12-52-05-KRI-2d-3fold-3/KRI-2d-3fold-3.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/22/12-52-05-KRI-2d-3fold-3/KRI-2d-3fold-3.png",
+      "pieces": 84,
+      "kits": [
+        "Creator 1",
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-03-07-20-06-20-978z-prj-hyp-model-6-blue-flat-cell-prj-hyp-model-6-blue-flat-cell",
+      "title": "Flat Blue Cell",
+      "collection": "Hyperdo",
+      "badge": "Advanced Geometry",
+      "categories": [
+        "advanced-geometry"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/03/07/20-06-20-978Z-PRJ-HYP-Model-6-Blue-Flat-Cell/PRJ-HYP-Model-6-Blue-Flat-Cell.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/03/07/20-06-20-978Z-PRJ-HYP-Model-6-Blue-Flat-Cell/PRJ-HYP-Model-6-Blue-Flat-Cell.png",
+      "pieces": 27,
+      "kits": [
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-11-05-07-37-43-2d-2-2-flatcube-2d-2-2-flatcube",
+      "title": "Flat Cube",
+      "collection": "Creator 1 Wrap Featured Models",
+      "badge": "Basic Geometry",
+      "categories": [
+        "basic-geometry"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/11/05/07-37-43-2D-2-2-FlatCube/2D-2-2-FlatCube.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/11/05/07-37-43-2D-2-2-FlatCube/2D-2-2-FlatCube.png",
+      "pieces": 26,
+      "kits": [
+        "Creator Basic",
+        "Creator 1",
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-09-30-13-27-45-p6-bubbles-fig3-flower2-p6-bubbles-fig3-flower2",
+      "title": "Flower 5-petal 2-fold",
+      "collection": "Bubbles",
+      "badge": "Science & Physics",
+      "categories": [
+        "sci-tech",
+        "nature-life"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/09/30/13-27-45-p6-bubbles-fig3-flower2/p6-bubbles-fig3-flower2.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/09/30/13-27-45-p6-bubbles-fig3-flower2/p6-bubbles-fig3-flower2.png",
+      "pieces": 26,
+      "kits": [
+        "Creator Basic",
+        "Creator 1",
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-07-21-13-07-23-prj-bub-5-flower-bubble-2-prj-bub-5-flower-bubble-2",
+      "title": "Flower with Bubble",
+      "collection": "Crazy Bubbles",
+      "badge": "Science & Physics",
+      "categories": [
+        "sci-tech",
+        "nature-life"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/21/13-07-23-PRJ-BUB-5-Flower+bubble-2/PRJ-BUB-5-Flower+bubble-2.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/21/13-07-23-PRJ-BUB-5-Flower+bubble-2/PRJ-BUB-5-Flower+bubble-2.png",
+      "pieces": 27,
+      "kits": [
+        "Creator Basic",
+        "Creator 1",
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-09-30-13-52-43-p18-19-2-fractalcube-p18-19-2-fractalcube",
+      "title": "Fractal Cube",
+      "collection": "3-Dimensional Shapes",
+      "badge": "Geometric Beauty",
+      "categories": [
+        "geometric-beauty"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/09/30/13-52-43-p18+19-2-FractalCube/p18+19-2-FractalCube.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/09/30/13-52-43-p18+19-2-FractalCube/p18+19-2-FractalCube.png",
+      "pieces": 57,
+      "kits": [
+        "Creator Basic",
+        "Creator 1",
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-11-05-07-46-35-zt1-graphite-zt1-graphite",
+      "title": "Graphite",
+      "collection": "Creator 1 Wrap Featured Models",
+      "badge": "Molecules & Crystals",
+      "categories": [
+        "molecules-crystals"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/11/05/07-46-35-ZT1-Graphite/ZT1-Graphite.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/11/05/07-46-35-ZT1-Graphite/ZT1-Graphite.png",
+      "pieces": 69,
+      "kits": [
+        "Creator 1",
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-07-21-14-58-38-cry-hexagonal-p-only-cry-hexagonal-p-only",
+      "title": "Hexagonal",
+      "collection": "Crystallography",
+      "badge": "Molecules & Crystals",
+      "categories": [
+        "molecules-crystals"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/21/14-58-38-CRY-Hexagonal-P-Only/CRY-Hexagonal-P-Only.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/21/14-58-38-CRY-Hexagonal-P-Only/CRY-Hexagonal-P-Only.png",
+      "pieces": 45,
+      "kits": [
+        "Creator 1",
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-04-15-23-10-55-grn-hexslicethrucube-grn-hexslicethrucube",
+      "title": "Hexagonal Slice through Cube",
+      "collection": "Green Lines",
+      "badge": "Advanced Geometry",
+      "categories": [
+        "advanced-geometry"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/04/15/23-10-55-GRN-HexSliceThruCube/GRN-HexSliceThruCube.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/04/15/23-10-55-GRN-HexSliceThruCube/GRN-HexSliceThruCube.png",
+      "pieces": 50,
+      "kits": [
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-07-18-12-33-37-sol-20-icosa2-sol-20-icosa2",
+      "title": "Icosahedron",
+      "collection": "Plato's Solids",
+      "badge": "Basic Geometry",
+      "categories": [
+        "basic-geometry"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/12-33-37-SOL-20-Icosa2/SOL-20-Icosa2.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/12-33-37-SOL-20-Icosa2/SOL-20-Icosa2.png",
+      "pieces": 49,
+      "kits": [
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-07-18-12-36-01-sol-20-icosa-unfold-sol-20-icosa-unfold",
+      "title": "Icosahedron unfold",
+      "collection": "Plato's Solids",
+      "badge": "Basic Geometry",
+      "categories": [
+        "basic-geometry",
+        "creative-play"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/12-36-01-SOL-20-Icosa-unfold/SOL-20-Icosa-unfold.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/12-36-01-SOL-20-Icosa-unfold/SOL-20-Icosa-unfold.png",
+      "pieces": 75,
+      "kits": []
+    },
+    {
+      "id": "2025-07-18-12-34-40-sol-20-icosa-dual-sol-20-icosa-dual",
+      "title": "Icosahedron with dodeca dual",
+      "collection": "Plato's Solids",
+      "badge": "Geometric Beauty",
+      "categories": [
+        "geometric-beauty",
+        "basic-geometry"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/12-34-40-SOL-20-Icosa-Dual/SOL-20-Icosa-Dual.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/12-34-40-SOL-20-Icosa-Dual/SOL-20-Icosa-Dual.png",
+      "pieces": 168,
+      "kits": []
+    },
+    {
+      "id": "2025-09-30-13-46-32-p14-shadows4d-impossiblecube-rev0-p14-shadows4d-impossiblecube-rev0",
+      "title": "Impossible Cube",
+      "collection": "Shadows from the 4th Dimension",
+      "badge": "Advanced Geometry",
+      "categories": [
+        "advanced-geometry",
+        "creative-play"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/09/30/13-46-32-p14-Shadows4D-ImpossibleCube-REV0/p14-Shadows4D-ImpossibleCube-REV0.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/09/30/13-46-32-p14-Shadows4D-ImpossibleCube-REV0/p14-Shadows4D-ImpossibleCube-REV0.png",
+      "pieces": 20,
+      "kits": [
+        "Creator Basic",
+        "Creator 1",
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-07-21-15-02-07-cry-monoclinic-c-all-cry-monoclinic-c-all",
+      "title": "Monoclinic",
+      "collection": "Crystallography",
+      "badge": "Molecules & Crystals",
+      "categories": [
+        "molecules-crystals"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/21/15-02-07-CRY-Monoclinic-C-All/CRY-Monoclinic-C-All.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/21/15-02-07-CRY-Monoclinic-C-All/CRY-Monoclinic-C-All.png",
+      "pieces": 30,
+      "kits": [
+        "Creator 1",
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-11-05-08-36-11-struc-zt3-mosque-castle-full-struc-zt3-mosque-castle-full",
+      "title": "Mosque Castle (complete)",
+      "collection": "Creator 3 Wrap Featured Models",
+      "badge": "Engineering & Structures",
+      "categories": [
+        "engineering",
+        "art-gallery"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/11/05/08-36-11-Struc-ZT3-Mosque-Castle-full/Struc-ZT3-Mosque-Castle-full.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/11/05/08-36-11-Struc-ZT3-Mosque-Castle-full/Struc-ZT3-Mosque-Castle-full.png",
+      "pieces": 366,
+      "kits": [
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-04-16-11-55-21-grn-octahedron-good-1-grn-octahedron-good-1",
+      "title": "Octahedron",
+      "collection": "Green Lines",
+      "badge": "Basic Geometry",
+      "categories": [
+        "basic-geometry"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/04/16/11-55-21-GRN-octahedron-good-1/GRN-octahedron-good-1.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/04/16/11-55-21-GRN-octahedron-good-1/GRN-octahedron-good-1.png",
+      "pieces": 25,
+      "kits": [
+        "Green Lines",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-07-18-12-15-51-sol-8-octa-unfold-sol-8-octa-unfold",
+      "title": "Octahedron unfold",
+      "collection": "Plato's Solids",
+      "badge": "Basic Geometry",
+      "categories": [
+        "basic-geometry",
+        "creative-play"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/12-15-51-SOL-8-Octa-unfold/SOL-8-Octa-unfold.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/12-15-51-SOL-8-Octa-unfold/SOL-8-Octa-unfold.png",
+      "pieces": 30,
+      "kits": [
+        "Green Lines",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-07-18-12-13-53-sol-8-octahedron-sol-8-octahedron",
+      "title": "Octahedron with cube dual",
+      "collection": "Plato's Solids",
+      "badge": "Geometric Beauty",
+      "categories": [
+        "geometric-beauty",
+        "basic-geometry"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/12-13-53-SOL-8-Octahedron/SOL-8-Octahedron.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/12-13-53-SOL-8-Octahedron/SOL-8-Octahedron.png",
+      "pieces": 49,
+      "kits": [
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-07-21-14-56-53-cry-orthorhombic-f-all-cry-orthorhombic-f-all",
+      "title": "Orthorhombic",
+      "collection": "Crystallography",
+      "badge": "Molecules & Crystals",
+      "categories": [
+        "molecules-crystals"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/21/14-56-53-CRY-Orthorhombic-F-All/CRY-Orthorhombic-F-All.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/21/14-56-53-CRY-Orthorhombic-F-All/CRY-Orthorhombic-F-All.png",
+      "pieces": 58,
+      "kits": [
+        "Creator 1",
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-09-30-13-47-05-p14-shadows4d-parallel4dcube-rev0-p14-shadows4d-parallel4dcube-rev0",
+      "title": "Parallel Hypercube Shadow",
+      "collection": "Shadows from the 4th Dimension",
+      "badge": "Advanced Geometry",
+      "categories": [
+        "advanced-geometry"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/09/30/13-47-05-p14-Shadows4D-Parallel4DCube-REV0/p14-Shadows4D-Parallel4DCube-REV0.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/09/30/13-47-05-p14-Shadows4D-Parallel4DCube-REV0/p14-Shadows4D-Parallel4DCube-REV0.png",
+      "pieces": 52,
+      "kits": [
+        "Creator 1",
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-07-22-12-59-01-kri-2d-5fold-3-kri-2d-5fold-3",
+      "title": "Pentagram-Pentagon-Decagon Tiling",
+      "collection": "Ice Crystals and Stars",
+      "badge": "Nature & Life",
+      "categories": [
+        "nature-life",
+        "geometric-beauty"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/22/12-59-01-KRI-2d-5fold-3/KRI-2d-5fold-3.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/22/12-59-01-KRI-2d-5fold-3/KRI-2d-5fold-3.png",
+      "pieces": 59,
+      "kits": [
+        "Creator 1",
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2024-05-09-13-16-00-phage-phage",
+      "title": "Phage Virus",
+      "collection": "Phage Virus",
+      "badge": "Molecules & Crystals",
+      "categories": [
+        "molecules-crystals"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2024/05/09/13-16-00-Phage/Phage.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2024/05/09/13-16-00-Phage/Phage.png",
+      "pieces": 195,
+      "kits": []
+    },
+    {
+      "id": "2025-03-25-04-34-13-672z-prj-bub-2-prism-tri-bubble-prj-bub-2-prism-tri-bubble",
+      "title": "Prism With Bubble",
+      "collection": "Crazy Bubbles",
+      "badge": "Science & Physics",
+      "categories": [
+        "sci-tech"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/03/25/04-34-13-672Z-PRJ-BUB-2-Prism-Tri+bubble/PRJ-BUB-2-Prism-Tri+bubble.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/03/25/04-34-13-672Z-PRJ-BUB-2-Prism-Tri+bubble/PRJ-BUB-2-Prism-Tri+bubble.png",
+      "pieces": 16,
+      "kits": [
+        "Creator Basic",
+        "Creator 1",
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-03-25-04-37-06-005z-prj-bub-3-pumpkin-bubble-prj-bub-3-pumpkin-bubble",
+      "title": "Pumpkin With Bubble",
+      "collection": "Crazy Bubbles",
+      "badge": "Science & Physics",
+      "categories": [
+        "sci-tech",
+        "creative-play"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/03/25/04-37-06-005Z-PRJ-BUB-3-Pumpkin+bubble/PRJ-BUB-3-Pumpkin+bubble.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/03/25/04-37-06-005Z-PRJ-BUB-3-Pumpkin+bubble/PRJ-BUB-3-Pumpkin+bubble.png",
+      "pieces": 28,
+      "kits": [
+        "Creator Basic",
+        "Creator 1",
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-09-30-14-02-57-p22-pyramid-p22-pyramid",
+      "title": "Pyramid",
+      "collection": "Structures!",
+      "badge": "Engineering & Structures",
+      "categories": [
+        "engineering"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/09/30/14-02-57-p22-Pyramid/p22-Pyramid.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/09/30/14-02-57-p22-Pyramid/p22-Pyramid.png",
+      "pieces": 70,
+      "kits": [
+        "Creator 1",
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-07-21-14-55-30-cry-rhombohedral-p-only-cry-rhombohedral-p-only",
+      "title": "Rhombohedral",
+      "collection": "Crystallography",
+      "badge": "Molecules & Crystals",
+      "categories": [
+        "molecules-crystals"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/21/14-55-30-CRY-Rhombohedral-P-Only/CRY-Rhombohedral-P-Only.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/21/14-55-30-CRY-Rhombohedral-P-Only/CRY-Rhombohedral-P-Only.png",
+      "pieces": 20,
+      "kits": [
+        "Creator 1",
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-09-30-13-27-13-p6-bubbles-fig1-saddle-p6-bubbles-fig1-saddle",
+      "title": "Saddle",
+      "collection": "Bubbles",
+      "badge": "Science & Physics",
+      "categories": [
+        "sci-tech"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/09/30/13-27-13-p6-bubbles-fig1-saddle/p6-bubbles-fig1-saddle.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/09/30/13-27-13-p6-bubbles-fig1-saddle/p6-bubbles-fig1-saddle.png",
+      "pieces": 8,
+      "kits": [
+        "Creator Basic",
+        "Creator 1",
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-09-30-14-01-29-p22-smallbridge-p22-smallbridge",
+      "title": "Small Bridge",
+      "collection": "Structures!",
+      "badge": "Engineering & Structures",
+      "categories": [
+        "engineering"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/09/30/14-01-29-p22-SmallBridge/p22-SmallBridge.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/09/30/14-01-29-p22-SmallBridge/p22-SmallBridge.png",
+      "pieces": 57,
+      "kits": [
+        "Creator Basic",
+        "Creator 1",
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-07-21-13-27-59-prj-bub-7-spiral-helix-bubble-prj-bub-7-spiral-helix-bubble",
+      "title": "Spiral Helix with Bubble",
+      "collection": "Crazy Bubbles",
+      "badge": "Science & Physics",
+      "categories": [
+        "sci-tech"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/21/13-27-59-PRJ-BUB-7-Spiral-Helix+bubble/PRJ-BUB-7-Spiral-Helix+bubble.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/21/13-27-59-PRJ-BUB-7-Spiral-Helix+bubble/PRJ-BUB-7-Spiral-Helix+bubble.png",
+      "pieces": 22,
+      "kits": [
+        "Creator Basic",
+        "Creator 1",
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-09-30-13-53-11-p18-19-3-squashedicosa-p18-19-3-squashedicosa",
+      "title": "Squashed Virus",
+      "collection": "3-Dimensional Shapes",
+      "badge": "Molecules & Crystals",
+      "categories": [
+        "molecules-crystals"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/09/30/13-53-11-p18+19-3-SquashedIcosa/p18+19-3-SquashedIcosa.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/09/30/13-53-11-p18+19-3-SquashedIcosa/p18+19-3-SquashedIcosa.png",
+      "pieces": 54,
+      "kits": [
+        "Creator Basic",
+        "Creator 1",
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-11-05-07-43-47-2d-5-3-star-2d-5-3-star",
+      "title": "Star",
+      "collection": "Creator 1 Wrap Featured Models",
+      "badge": "Geometric Beauty",
+      "categories": [
+        "geometric-beauty"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/11/05/07-43-47-2D-5-3-Star/2D-5-3-Star.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/11/05/07-43-47-2D-5-3-Star/2D-5-3-Star.png",
+      "pieces": 94,
+      "kits": [
+        "Creator 1",
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-09-30-13-58-53-p20-starburstdodeca-p20-starburstdodeca",
+      "title": "Starburst Dodecahedron",
+      "collection": "3-Dimensional Shapes",
+      "badge": "Geometric Beauty",
+      "categories": [
+        "art-gallery",
+        "geometric-beauty"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/09/30/13-58-53-p20-starburstDodeca/p20-starburstDodeca.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/09/30/13-58-53-p20-starburstDodeca/p20-starburstDodeca.png",
+      "pieces": 71,
+      "kits": [
+        "Creator 1",
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-09-30-13-59-20-p20-starbursticosa-p20-starbursticosa",
+      "title": "Starburst Icosahedron",
+      "collection": "3-Dimensional Shapes",
+      "badge": "Geometric Beauty",
+      "categories": [
+        "art-gallery",
+        "geometric-beauty"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/09/30/13-59-20-p20-starburstIcosa/p20-starburstIcosa.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/09/30/13-59-20-p20-starburstIcosa/p20-starburstIcosa.png",
+      "pieces": 55,
+      "kits": [
+        "Creator 1",
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-04-15-23-25-47-grn-stellaoctangula-grn-stellaoctangula",
+      "title": "Stella Octangula",
+      "collection": "Green Lines",
+      "badge": "Geometric Beauty",
+      "categories": [
+        "geometric-beauty"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/04/15/23-25-47-GRN-StellaOctangula/GRN-StellaOctangula.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/04/15/23-25-47-GRN-StellaOctangula/GRN-StellaOctangula.png",
+      "pieces": 74,
+      "kits": [
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-07-22-13-03-32-kri-stellated-dodeca-kri-stellated-dodeca",
+      "title": "Stellated Dodecahedron",
+      "collection": "Ice Crystals and Stars",
+      "badge": "Nature & Life",
+      "categories": [
+        "nature-life",
+        "art-gallery",
+        "geometric-beauty"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/22/13-03-32-KRI+_Stellated-Dodeca/KRI+_Stellated-Dodeca.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/22/13-03-32-KRI+_Stellated-Dodeca/KRI+_Stellated-Dodeca.png",
+      "pieces": 122,
+      "kits": [
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-07-21-14-53-32-cry-tetragonal-p-all-cry-tetragonal-p-all",
+      "title": "Tetragonal",
+      "collection": "Crystallography",
+      "badge": "Molecules & Crystals",
+      "categories": [
+        "molecules-crystals"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/21/14-53-32-CRY-Tetragonal-P-All/CRY-Tetragonal-P-All.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/21/14-53-32-CRY-Tetragonal-P-All/CRY-Tetragonal-P-All.png",
+      "pieces": 26,
+      "kits": [
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-04-15-21-58-01-grn-tetrahedron-grn-tetrahedron",
+      "title": "Tetrahedron",
+      "collection": "Green Lines",
+      "badge": "Basic Geometry",
+      "categories": [
+        "basic-geometry"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/04/15/21-58-01-GRN-Tetrahedron/GRN-Tetrahedron.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/04/15/21-58-01-GRN-Tetrahedron/GRN-Tetrahedron.png",
+      "pieces": 26,
+      "kits": [
+        "Green Lines",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-07-18-11-27-16-sol-4-tetra-unfold-sol-4-tetra-unfold",
+      "title": "Tetrahedron unfold",
+      "collection": "Plato's Solids",
+      "badge": "Basic Geometry",
+      "categories": [
+        "basic-geometry",
+        "creative-play"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/11-27-16-SOL-4-Tetra-Unfold/SOL-4-Tetra-Unfold.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/11-27-16-SOL-4-Tetra-Unfold/SOL-4-Tetra-Unfold.png",
+      "pieces": 22,
+      "kits": [
+        "Green Lines",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-07-18-11-25-39-sol-4-tetra-sol-4-tetra",
+      "title": "Tetrahedron/dual",
+      "collection": "Plato's Solids",
+      "badge": "Geometric Beauty",
+      "categories": [
+        "geometric-beauty",
+        "basic-geometry"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/11-25-39-SOL-4-Tetra/SOL-4-Tetra.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/11-25-39-SOL-4-Tetra/SOL-4-Tetra.png",
+      "pieces": 48,
+      "kits": [
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-07-22-12-51-20-kri-2d-3fold-2-kri-2d-3fold-2",
+      "title": "Thin Crystal",
+      "collection": "Ice Crystals and Stars",
+      "badge": "Nature & Life",
+      "categories": [
+        "nature-life",
+        "geometric-beauty"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/22/12-51-20-KRI-2d-3fold-2/KRI-2d-3fold-2.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/22/12-51-20-KRI-2d-3fold-2/KRI-2d-3fold-2.png",
+      "pieces": 78,
+      "kits": [
+        "Creator 1",
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-03-07-20-04-38-696z-prj-hyp-model-5-thin-red-cell-prj-hyp-model-5-thin-red-cell",
+      "title": "Thin Red Cell",
+      "collection": "Hyperdo",
+      "badge": "Advanced Geometry",
+      "categories": [
+        "advanced-geometry"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/03/07/20-04-38-696Z-PRJ-HYP-Model-5-Thin-Red-Cell/PRJ-HYP-Model-5-Thin-Red-Cell.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/03/07/20-04-38-696Z-PRJ-HYP-Model-5-Thin-Red-Cell/PRJ-HYP-Model-5-Thin-Red-Cell.png",
+      "pieces": 55,
+      "kits": [
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-07-21-14-54-01-cry-triclinic-p-only-cry-triclinic-p-only",
+      "title": "Triclinic",
+      "collection": "Crystallography",
+      "badge": "Molecules & Crystals",
+      "categories": [
+        "molecules-crystals"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/21/14-54-01-CRY-Triclinic-P-Only/CRY-Triclinic-P-Only.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/21/14-54-01-CRY-Triclinic-P-Only/CRY-Triclinic-P-Only.png",
+      "pieces": 20,
+      "kits": [
+        "Creator Basic",
+        "Creator 1",
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2024-09-05-09-19-25-trimtab-trimtab",
+      "title": "Trimtab Geometric Sculpture",
+      "collection": "Art & Kinetic Sculptures",
+      "badge": "Art & Sculpture",
+      "categories": [
+        "art-gallery"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2024/09/05/09-19-25-Trimtab/Trimtab.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2024/09/05/09-19-25-Trimtab/Trimtab.png",
+      "pieces": 146,
+      "kits": []
+    },
+    {
+      "id": "2025-04-15-22-46-50-grn-zt1-trunccube-grn-zt1-trunccube",
+      "title": "Truncated Cube",
+      "collection": "Green Lines",
+      "badge": "Advanced Geometry",
+      "categories": [
+        "advanced-geometry"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/04/15/22-46-50-GRN+ZT1-TruncCube/GRN+ZT1-TruncCube.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/04/15/22-46-50-GRN+ZT1-TruncCube/GRN+ZT1-TruncCube.png",
+      "pieces": 92,
+      "kits": [
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-04-15-23-18-09-grn-truncocta-grn-truncocta",
+      "title": "Truncated Octahedron",
+      "collection": "Green Lines",
+      "badge": "Advanced Geometry",
+      "categories": [
+        "advanced-geometry"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/04/15/23-18-09-GRN-TruncOcta/GRN-TruncOcta.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/04/15/23-18-09-GRN-TruncOcta/GRN-TruncOcta.png",
+      "pieces": 87,
+      "kits": [
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-04-15-22-59-01-grn-trunc-tetra-ol-grn-trunc-tetra-ol",
+      "title": "Truncated Tetrahedron",
+      "collection": "Green Lines",
+      "badge": "Advanced Geometry",
+      "categories": [
+        "advanced-geometry"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/04/15/22-59-01-GRN-Trunc-Tetra-OL/GRN-Trunc-Tetra-OL.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/04/15/22-59-01-GRN-Trunc-Tetra-OL/GRN-Trunc-Tetra-OL.png",
+      "pieces": 51,
+      "kits": [
+        "Green Lines",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-11-05-07-48-28-zt1-virus-zt1-virus",
+      "title": "Virus (Creator 1)",
+      "collection": "Creator 1 Wrap Featured Models",
+      "badge": "Molecules & Crystals",
+      "categories": [
+        "molecules-crystals"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/11/05/07-48-28-ZT1-Virus/ZT1-Virus.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/11/05/07-48-28-ZT1-Virus/ZT1-Virus.png",
+      "pieces": 115,
+      "kits": [
+        "Creator 1",
+        "Creator 3",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-03-07-19-57-32-060z-prj-hyp-model-4-yellowcell-prj-hyp-model-4-yellowcell",
+      "title": "Yellow Cell",
+      "collection": "Hyperdo",
+      "badge": "Advanced Geometry",
+      "categories": [
+        "advanced-geometry"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/03/07/19-57-32-060Z-PRJ-HYP-Model-4-YellowCell/PRJ-HYP-Model-4-YellowCell.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/03/07/19-57-32-060Z-PRJ-HYP-Model-4-YellowCell/PRJ-HYP-Model-4-YellowCell.png",
+      "pieces": 50,
+      "kits": [
+        "STEAM Kit"
+      ]
+    }
+  ]
+}
