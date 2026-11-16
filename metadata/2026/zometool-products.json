@@ -3,112 +3,112 @@
     "label": "Creator 1",
     "url": "creator-1/",
     "bom": {
-      "ZT-BAL-WHT": 60,
-      "ZT-STR-B0": 30,
-      "ZT-STR-B1": 30,
-      "ZT-STR-B2": 30,
-      "ZT-STR-Y0": 20,
-      "ZT-STR-Y1": 20,
-      "ZT-STR-Y2": 20,
-      "ZT-STR-R0": 12,
-      "ZT-STR-R1": 12,
-      "ZT-STR-R2": 12
+      "ZOME-BAL-WHT": 60,
+      "ZOME-STR-B0-BLU": 30,
+      "ZOME-STR-B1-BLU": 30,
+      "ZOME-STR-B2-BLU": 30,
+      "ZOME-STR-Y0-YEL": 20,
+      "ZOME-STR-Y1-YEL": 20,
+      "ZOME-STR-Y2-YEL": 20,
+      "ZOME-STR-R0-RED": 12,
+      "ZOME-STR-R1-RED": 12,
+      "ZOME-STR-R2-RED": 12
     }
   },
   "ZT-KIT-3-AM": {
     "label": "Creator 3",
     "url": "creator-3/",
     "bom": {
-      "ZT-BAL-WHT": 180,
+      "ZOME-BAL-WHT": 180,
 
-      "ZT-STR-B0": 90,
-      "ZT-STR-B1": 90,
-      "ZT-STR-B2": 90,
+      "ZOME-STR-B0-BLU": 90,
+      "ZOME-STR-B1-BLU": 90,
+      "ZOME-STR-B2-BLU": 90,
 
-      "ZT-STR-Y0": 60,
-      "ZT-STR-Y1": 60,
-      "ZT-STR-Y2": 60,
+      "ZOME-STR-Y0-YEL": 60,
+      "ZOME-STR-Y1-YEL": 60,
+      "ZOME-STR-Y2-YEL": 60,
       
-      "ZT-STR-R0": 36,
-      "ZT-STR-R1": 36,
-      "ZT-STR-R2": 36
+      "ZOME-STR-R0-RED": 36,
+      "ZOME-STR-R1-RED": 36,
+      "ZOME-STR-R2-RED": 36
     }
   },
   "ZT-KIT-3-PRO-AM": {
     "label": "Creator 3 Pro",
     "url": "",
     "bom": {
-      "ZT-BAL-WHT": 240,
+      "ZOME-BAL-WHT": 240,
 
-      "ZT-STR-G0": 48,
-      "ZT-STR-G1": 48,
-      "ZT-STR-G2": 48,
+      "ZOME-STR-G0-GRN": 48,
+      "ZOME-STR-G1-GRN": 48,
+      "ZOME-STR-G2-GRN": 48,
 
-      "ZT-STR-B0": 96,
-      "ZT-STR-B1": 112,
-      "ZT-STR-B2": 90,
+      "ZOME-STR-B0-BLU": 96,
+      "ZOME-STR-B1-BLU": 112,
+      "ZOME-STR-B2-BLU": 90,
 
-      "ZT-STR-Y0": 60,
-      "ZT-STR-Y1": 60,
-      "ZT-STR-Y2": 60,
+      "ZOME-STR-Y0-YEL": 60,
+      "ZOME-STR-Y1-YEL": 60,
+      "ZOME-STR-Y2-YEL": 60,
       
-      "ZT-STR-R0": 36,
-      "ZT-STR-R1": 36,
-      "ZT-STR-R2": 36
+      "ZOME-STR-R0-RED": 36,
+      "ZOME-STR-R1-RED": 36,
+      "ZOME-STR-R2-RED": 36
     }
   },
   "ZT-KIT-BAS-AM": {
     "label": "Creator Basic",
     "url": "products/basic-kit.html",
     "bom": {
-      "ZT-BAL-WHT": 30,
-      "ZT-STR-B0": 15,
-      "ZT-STR-B1": 15,
-      "ZT-STR-B2": 15,
-      "ZT-STR-Y0": 10,
-      "ZT-STR-Y1": 10,
-      "ZT-STR-Y2": 10,
-      "ZT-STR-R0": 6,
-      "ZT-STR-R1": 6,
-      "ZT-STR-R2": 6
+      "ZOME-BAL-WHT": 30,
+      "ZOME-STR-B0-BLU": 15,
+      "ZOME-STR-B1-BLU": 15,
+      "ZOME-STR-B2-BLU": 15,
+      "ZOME-STR-Y0-YEL": 10,
+      "ZOME-STR-Y1-YEL": 10,
+      "ZOME-STR-Y2-YEL": 10,
+      "ZOME-STR-R0-RED": 6,
+      "ZOME-STR-R1-RED": 6,
+      "ZOME-STR-R2-RED": 6
     }
   },
   "ZT-KIT-GRN-AM": {
     "label": "Green Lines",
     "url": "products/green-lines.html",
     "bom": {
-      "ZT-BAL-WHT": 60,
-      "ZT-STR-B0": 6,
-      "ZT-STR-B1": 12,
-      "ZT-STR-G0": 48,
-      "ZT-STR-G1": 48,
-      "ZT-STR-G2": 48
+      "ZOME-BAL-WHT": 60,
+      "ZOME-STR-B0-BLU": 6,
+      "ZOME-STR-B1-BLU": 12,
+      "ZOME-STR-G0-GRN": 48,
+      "ZOME-STR-G1-GRN": 48,
+      "ZOME-STR-G2-GRN": 48
     }
   },
   "ZT-KIT-STE-AM": {
     "label": "STEAM",
     "url": "products/the-steam-kit.html",
     "bom": {
-      "ZT-BAL-WHT": 330,
+      "ZOME-BAL-WHT": 330,
       "PZB-BAL-B": 100,
       "PZB-BAL-G": 10,
       "PZB-BAL-BLU": 12,
       "PZB-BAL-YEL": 12,
       "PZB-BAL-ORG": 3,
       "PZB-BAL-RED": 20,
-      "ZT-STR-B0": 180,
-      "ZT-STR-B1": 120,
-      "ZT-STR-B2": 120,
-      "ZT-STR-Y0": 200,
-      "ZT-STR-Y1": 80,
-      "ZT-STR-Y2": 80,
-      "ZT-STR-R00": 120,
-      "ZT-STR-R0": 120,
-      "ZT-STR-R1": 120,
-      "ZT-STR-R2": 60,
-      "ZT-STR-G0": 48,
-      "ZT-STR-G1": 48,
-      "ZT-STR-G2": 48,
+      "ZOME-STR-B0-BLU": 180,
+      "ZOME-STR-B1-BLU": 120,
+      "ZOME-STR-B2-BLU": 120,
+      "ZOME-STR-Y0-YEL": 200,
+      "ZOME-STR-Y1-YEL": 80,
+      "ZOME-STR-Y2-YEL": 80,
+      "ZOME-STR-R00-RED": 120,
+      "ZOME-STR-R0-RED": 120,
+      "ZOME-STR-R1-RED": 120,
+      "ZOME-STR-R2-RED": 60,
+      "ZOME-STR-G0-GRN": 48,
+      "ZOME-STR-G1-GRN": 48,
+      "ZOME-STR-G2-GRN": 48,
       "PST-B0-W": 12,
       "PST-B1-W": 2,
       "PST-B1-RED": 30,
@@ -118,9 +118,9 @@
       "PST-Y0-W": 10,
       "PST-R00-W": 32,
       "PST-R1-W": 5,
-      "ZT-STR-HG0": 12,
-      "ZT-STR-HG1": 32,
-      "ZT-STR-HG2": 12
+      "ZOME-STR-HG0-TEA": 12,
+      "ZOME-STR-HG1-TEA": 32,
+      "ZOME-STR-HG2-GRN": 12
     }
   }
 }
