@@ -56,20 +56,6 @@
       ]
     },
     {
-      "id": "2025-07-18-12-18-25-sol-12-dodecahedron-sol-12-dodecahedron",
-      "title": "Dodecahedron",
-      "collection": "Plato's Solids",
-      "badge": "Basic Geometry",
-      "categories": [
-        "featured",
-        "basic-geometry"
-      ],
-      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/12-18-25-SOL-12-Dodecahedron/SOL-12-Dodecahedron.vZome",
-      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/12-18-25-SOL-12-Dodecahedron/SOL-12-Dodecahedron.png",
-      "pieces": 61,
-      "kits": []
-    },
-    {
       "id": "2025-03-12-00-06-46-755z-prj-buk-buckyball-prj-buk-buckyball",
       "title": "Buckyball",
       "collection": "BuckyBall",
@@ -268,36 +254,6 @@
         "Creator 3 Pro",
         "STEAM Kit"
       ]
-    },
-    {
-      "id": "2026-01-29-18-26-36-882z-geodesic-igloo-geodesic-igloo",
-      "title": "Geodesic Igloo",
-      "collection": "Structures!",
-      "badge": "Engineering & Structures",
-      "categories": [
-        "featured",
-        "engineering"
-      ],
-      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2026/01/29/18-26-36-882Z-Geodesic-Igloo/Geodesic-Igloo.vZome",
-      "png": "https://linusschoch.github.io/vzome-sharing-linus/2026/01/29/18-26-36-882Z-Geodesic-Igloo/Geodesic-Igloo.png",
-      "pieces": 412,
-      "kits": []
-    },
-    {
-      "id": "2026-08-07-06-04-57-218z-ferriswheelwithstand-ferriswheelwithstand",
-      "title": "Ferris Wheel with Stand",
-      "collection": "Art & Kinetic Sculptures",
-      "badge": "Science & Physics",
-      "categories": [
-        "featured",
-        "sci-tech",
-        "art-gallery",
-        "creative-play"
-      ],
-      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2026/08/07/06-04-57-218Z-FerrisWheelWithStand/FerrisWheelWithStand.vZome",
-      "png": "https://linusschoch.github.io/vzome-sharing-linus/2026/08/07/06-04-57-218Z-FerrisWheelWithStand/FerrisWheelWithStand.png",
-      "pieces": 1315,
-      "kits": []
     },
     {
       "id": "2025-11-05-07-45-16-4d-simplex-4d-simplex",
@@ -844,51 +800,6 @@
       ]
     },
     {
-      "id": "2025-07-18-12-09-40-sol-6-cube-unfold-sol-6-cube-unfold",
-      "title": "Cube unfold",
-      "collection": "Plato's Solids",
-      "badge": "Basic Geometry",
-      "categories": [
-        "basic-geometry",
-        "creative-play"
-      ],
-      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/12-09-40-SOL-6-Cube-unfold/SOL-6-Cube-unfold.vZome",
-      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/12-09-40-SOL-6-Cube-unfold/SOL-6-Cube-unfold.png",
-      "pieces": 33,
-      "kits": []
-    },
-    {
-      "id": "2025-07-18-11-29-10-sol-6-cube-sol-6-cube",
-      "title": "Cube with octahedron dual",
-      "collection": "Plato's Solids",
-      "badge": "Geometric Beauty",
-      "categories": [
-        "geometric-beauty",
-        "basic-geometry"
-      ],
-      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/11-29-10-SOL-6-Cube/SOL-6-Cube.vZome",
-      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/11-29-10-SOL-6-Cube/SOL-6-Cube.png",
-      "pieces": 42,
-      "kits": [
-        "STEAM Kit"
-      ]
-    },
-    {
-      "id": "2025-07-21-15-01-04-cry-cubic-f-all-cry-cubic-f-all",
-      "title": "Cubic",
-      "collection": "Crystallography",
-      "badge": "Molecules & Crystals",
-      "categories": [
-        "molecules-crystals"
-      ],
-      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/21/15-01-04-CRY-Cubic-F-All/CRY-Cubic-F-All.vZome",
-      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/21/15-01-04-CRY-Cubic-F-All/CRY-Cubic-F-All.png",
-      "pieces": 58,
-      "kits": [
-        "STEAM Kit"
-      ]
-    },
-    {
       "id": "2025-04-15-23-22-38-grn-cubocta-rhombic-dodeca-grn-cubocta-rhombic-dodeca",
       "title": "Cuboctahedron & Rhombic Dodecahedron",
       "collection": "Green Lines",
@@ -921,34 +832,6 @@
         "Creator 3 Pro",
         "STEAM Kit"
       ]
-    },
-    {
-      "id": "2025-07-18-12-29-38-sol-12-dodeca-unfold2-sol-12-dodeca-unfold2",
-      "title": "Dodecahedron unfold",
-      "collection": "Plato's Solids",
-      "badge": "Basic Geometry",
-      "categories": [
-        "basic-geometry",
-        "creative-play"
-      ],
-      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/12-29-38-SOL-12-Dodeca-unfold2/SOL-12-Dodeca-unfold2.vZome",
-      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/12-29-38-SOL-12-Dodeca-unfold2/SOL-12-Dodeca-unfold2.png",
-      "pieces": 101,
-      "kits": []
-    },
-    {
-      "id": "2025-07-18-12-24-14-sol-12-dodeca-dual2-sol-12-dodeca-dual2",
-      "title": "Dodecahedron with icosa dual",
-      "collection": "Plato's Solids",
-      "badge": "Geometric Beauty",
-      "categories": [
-        "geometric-beauty",
-        "basic-geometry"
-      ],
-      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/12-24-14-SOL-12-Dodeca-Dual2/SOL-12-Dodeca-Dual2.vZome",
-      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/12-24-14-SOL-12-Dodeca-Dual2/SOL-12-Dodeca-Dual2.png",
-      "pieces": 97,
-      "kits": []
     },
     {
       "id": "2025-09-30-13-59-48-p21-doublestarburst-p21-doublestarburst",
@@ -1204,34 +1087,6 @@
       ]
     },
     {
-      "id": "2025-07-18-12-36-01-sol-20-icosa-unfold-sol-20-icosa-unfold",
-      "title": "Icosahedron unfold",
-      "collection": "Plato's Solids",
-      "badge": "Basic Geometry",
-      "categories": [
-        "basic-geometry",
-        "creative-play"
-      ],
-      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/12-36-01-SOL-20-Icosa-unfold/SOL-20-Icosa-unfold.vZome",
-      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/12-36-01-SOL-20-Icosa-unfold/SOL-20-Icosa-unfold.png",
-      "pieces": 75,
-      "kits": []
-    },
-    {
-      "id": "2025-07-18-12-34-40-sol-20-icosa-dual-sol-20-icosa-dual",
-      "title": "Icosahedron with dodeca dual",
-      "collection": "Plato's Solids",
-      "badge": "Geometric Beauty",
-      "categories": [
-        "geometric-beauty",
-        "basic-geometry"
-      ],
-      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/12-34-40-SOL-20-Icosa-Dual/SOL-20-Icosa-Dual.vZome",
-      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/12-34-40-SOL-20-Icosa-Dual/SOL-20-Icosa-Dual.png",
-      "pieces": 168,
-      "kits": []
-    },
-    {
       "id": "2025-09-30-13-46-32-p14-shadows4d-impossiblecube-rev0-p14-shadows4d-impossiblecube-rev0",
       "title": "Impossible Cube",
       "collection": "Shadows from the 4th Dimension",
@@ -1303,40 +1158,6 @@
       ]
     },
     {
-      "id": "2025-07-18-12-15-51-sol-8-octa-unfold-sol-8-octa-unfold",
-      "title": "Octahedron unfold",
-      "collection": "Plato's Solids",
-      "badge": "Basic Geometry",
-      "categories": [
-        "basic-geometry",
-        "creative-play"
-      ],
-      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/12-15-51-SOL-8-Octa-unfold/SOL-8-Octa-unfold.vZome",
-      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/12-15-51-SOL-8-Octa-unfold/SOL-8-Octa-unfold.png",
-      "pieces": 30,
-      "kits": [
-        "Green Lines",
-        "Creator 3 Pro",
-        "STEAM Kit"
-      ]
-    },
-    {
-      "id": "2025-07-18-12-13-53-sol-8-octahedron-sol-8-octahedron",
-      "title": "Octahedron with cube dual",
-      "collection": "Plato's Solids",
-      "badge": "Geometric Beauty",
-      "categories": [
-        "geometric-beauty",
-        "basic-geometry"
-      ],
-      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/12-13-53-SOL-8-Octahedron/SOL-8-Octahedron.vZome",
-      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/12-13-53-SOL-8-Octahedron/SOL-8-Octahedron.png",
-      "pieces": 49,
-      "kits": [
-        "STEAM Kit"
-      ]
-    },
-    {
       "id": "2025-07-21-14-56-53-cry-orthorhombic-f-all-cry-orthorhombic-f-all",
       "title": "Orthorhombic",
       "collection": "Crystallography",
@@ -1390,19 +1211,6 @@
         "Creator 3 Pro",
         "STEAM Kit"
       ]
-    },
-    {
-      "id": "2024-05-09-13-16-00-phage-phage",
-      "title": "Phage Virus",
-      "collection": "Phage Virus",
-      "badge": "Molecules & Crystals",
-      "categories": [
-        "molecules-crystals"
-      ],
-      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2024/05/09/13-16-00-Phage/Phage.vZome",
-      "png": "https://linusschoch.github.io/vzome-sharing-linus/2024/05/09/13-16-00-Phage/Phage.png",
-      "pieces": 195,
-      "kits": []
     },
     {
       "id": "2025-03-25-04-34-13-672z-prj-bub-2-prism-tri-bubble-prj-bub-2-prism-tri-bubble",
@@ -1647,21 +1455,6 @@
       ]
     },
     {
-      "id": "2025-07-21-14-53-32-cry-tetragonal-p-all-cry-tetragonal-p-all",
-      "title": "Tetragonal",
-      "collection": "Crystallography",
-      "badge": "Molecules & Crystals",
-      "categories": [
-        "molecules-crystals"
-      ],
-      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/21/14-53-32-CRY-Tetragonal-P-All/CRY-Tetragonal-P-All.vZome",
-      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/21/14-53-32-CRY-Tetragonal-P-All/CRY-Tetragonal-P-All.png",
-      "pieces": 26,
-      "kits": [
-        "STEAM Kit"
-      ]
-    },
-    {
       "id": "2025-04-15-21-58-01-grn-tetrahedron-grn-tetrahedron",
       "title": "Tetrahedron",
       "collection": "Green Lines",
@@ -1675,40 +1468,6 @@
       "kits": [
         "Green Lines",
         "Creator 3 Pro",
-        "STEAM Kit"
-      ]
-    },
-    {
-      "id": "2025-07-18-11-27-16-sol-4-tetra-unfold-sol-4-tetra-unfold",
-      "title": "Tetrahedron unfold",
-      "collection": "Plato's Solids",
-      "badge": "Basic Geometry",
-      "categories": [
-        "basic-geometry",
-        "creative-play"
-      ],
-      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/11-27-16-SOL-4-Tetra-Unfold/SOL-4-Tetra-Unfold.vZome",
-      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/11-27-16-SOL-4-Tetra-Unfold/SOL-4-Tetra-Unfold.png",
-      "pieces": 22,
-      "kits": [
-        "Green Lines",
-        "Creator 3 Pro",
-        "STEAM Kit"
-      ]
-    },
-    {
-      "id": "2025-07-18-11-25-39-sol-4-tetra-sol-4-tetra",
-      "title": "Tetrahedron/dual",
-      "collection": "Plato's Solids",
-      "badge": "Geometric Beauty",
-      "categories": [
-        "geometric-beauty",
-        "basic-geometry"
-      ],
-      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/11-25-39-SOL-4-Tetra/SOL-4-Tetra.vZome",
-      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/11-25-39-SOL-4-Tetra/SOL-4-Tetra.png",
-      "pieces": 48,
-      "kits": [
         "STEAM Kit"
       ]
     },
@@ -1764,19 +1523,6 @@
         "Creator 3 Pro",
         "STEAM Kit"
       ]
-    },
-    {
-      "id": "2024-09-05-09-19-25-trimtab-trimtab",
-      "title": "Trimtab Geometric Sculpture",
-      "collection": "Art & Kinetic Sculptures",
-      "badge": "Art & Sculpture",
-      "categories": [
-        "art-gallery"
-      ],
-      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2024/09/05/09-19-25-Trimtab/Trimtab.vZome",
-      "png": "https://linusschoch.github.io/vzome-sharing-linus/2024/09/05/09-19-25-Trimtab/Trimtab.png",
-      "pieces": 146,
-      "kits": []
     },
     {
       "id": "2025-04-15-22-46-50-grn-zt1-trunccube-grn-zt1-trunccube",
@@ -1859,6 +1605,262 @@
       "kits": [
         "STEAM Kit"
       ]
+    }
+  ],
+  "unsupported-models": [
+    {
+      "id": "2025-07-18-12-18-25-sol-12-dodecahedron-sol-12-dodecahedron",
+      "title": "Dodecahedron",
+      "collection": "Plato's Solids",
+      "badge": "Basic Geometry",
+      "categories": [
+        "featured",
+        "basic-geometry"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/12-18-25-SOL-12-Dodecahedron/SOL-12-Dodecahedron.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/12-18-25-SOL-12-Dodecahedron/SOL-12-Dodecahedron.png",
+      "pieces": 61,
+      "kits": []
+    },
+    {
+      "id": "2026-01-29-18-26-36-882z-geodesic-igloo-geodesic-igloo",
+      "title": "Geodesic Igloo",
+      "collection": "Structures!",
+      "badge": "Engineering & Structures",
+      "categories": [
+        "featured",
+        "engineering"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2026/01/29/18-26-36-882Z-Geodesic-Igloo/Geodesic-Igloo.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2026/01/29/18-26-36-882Z-Geodesic-Igloo/Geodesic-Igloo.png",
+      "pieces": 412,
+      "kits": []
+    },
+    {
+      "id": "2026-08-07-06-04-57-218z-ferriswheelwithstand-ferriswheelwithstand",
+      "title": "Ferris Wheel with Stand",
+      "collection": "Art & Kinetic Sculptures",
+      "badge": "Science & Physics",
+      "categories": [
+        "featured",
+        "sci-tech",
+        "art-gallery",
+        "creative-play"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2026/08/07/06-04-57-218Z-FerrisWheelWithStand/FerrisWheelWithStand.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2026/08/07/06-04-57-218Z-FerrisWheelWithStand/FerrisWheelWithStand.png",
+      "pieces": 1315,
+      "kits": []
+    },
+    {
+      "id": "2025-07-18-12-09-40-sol-6-cube-unfold-sol-6-cube-unfold",
+      "title": "Cube unfold",
+      "collection": "Plato's Solids",
+      "badge": "Basic Geometry",
+      "categories": [
+        "basic-geometry",
+        "creative-play"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/12-09-40-SOL-6-Cube-unfold/SOL-6-Cube-unfold.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/12-09-40-SOL-6-Cube-unfold/SOL-6-Cube-unfold.png",
+      "pieces": 33,
+      "kits": []
+    },
+    {
+      "id": "2025-07-18-11-29-10-sol-6-cube-sol-6-cube",
+      "title": "Cube with octahedron dual",
+      "collection": "Plato's Solids",
+      "badge": "Geometric Beauty",
+      "categories": [
+        "geometric-beauty",
+        "basic-geometry"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/11-29-10-SOL-6-Cube/SOL-6-Cube.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/11-29-10-SOL-6-Cube/SOL-6-Cube.png",
+      "pieces": 42,
+      "kits": [
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-07-21-15-01-04-cry-cubic-f-all-cry-cubic-f-all",
+      "title": "Cubic",
+      "collection": "Crystallography",
+      "badge": "Molecules & Crystals",
+      "categories": [
+        "molecules-crystals"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/21/15-01-04-CRY-Cubic-F-All/CRY-Cubic-F-All.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/21/15-01-04-CRY-Cubic-F-All/CRY-Cubic-F-All.png",
+      "pieces": 58,
+      "kits": [
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-07-18-12-29-38-sol-12-dodeca-unfold2-sol-12-dodeca-unfold2",
+      "title": "Dodecahedron unfold",
+      "collection": "Plato's Solids",
+      "badge": "Basic Geometry",
+      "categories": [
+        "basic-geometry",
+        "creative-play"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/12-29-38-SOL-12-Dodeca-unfold2/SOL-12-Dodeca-unfold2.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/12-29-38-SOL-12-Dodeca-unfold2/SOL-12-Dodeca-unfold2.png",
+      "pieces": 101,
+      "kits": []
+    },
+    {
+      "id": "2025-07-18-12-24-14-sol-12-dodeca-dual2-sol-12-dodeca-dual2",
+      "title": "Dodecahedron with icosa dual",
+      "collection": "Plato's Solids",
+      "badge": "Geometric Beauty",
+      "categories": [
+        "geometric-beauty",
+        "basic-geometry"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/12-24-14-SOL-12-Dodeca-Dual2/SOL-12-Dodeca-Dual2.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/12-24-14-SOL-12-Dodeca-Dual2/SOL-12-Dodeca-Dual2.png",
+      "pieces": 97,
+      "kits": []
+    },
+    {
+      "id": "2025-07-18-12-36-01-sol-20-icosa-unfold-sol-20-icosa-unfold",
+      "title": "Icosahedron unfold",
+      "collection": "Plato's Solids",
+      "badge": "Basic Geometry",
+      "categories": [
+        "basic-geometry",
+        "creative-play"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/12-36-01-SOL-20-Icosa-unfold/SOL-20-Icosa-unfold.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/12-36-01-SOL-20-Icosa-unfold/SOL-20-Icosa-unfold.png",
+      "pieces": 75,
+      "kits": []
+    },
+    {
+      "id": "2025-07-18-12-34-40-sol-20-icosa-dual-sol-20-icosa-dual",
+      "title": "Icosahedron with dodeca dual",
+      "collection": "Plato's Solids",
+      "badge": "Geometric Beauty",
+      "categories": [
+        "geometric-beauty",
+        "basic-geometry"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/12-34-40-SOL-20-Icosa-Dual/SOL-20-Icosa-Dual.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/12-34-40-SOL-20-Icosa-Dual/SOL-20-Icosa-Dual.png",
+      "pieces": 168,
+      "kits": []
+    },
+    {
+      "id": "2025-07-18-12-15-51-sol-8-octa-unfold-sol-8-octa-unfold",
+      "title": "Octahedron unfold",
+      "collection": "Plato's Solids",
+      "badge": "Basic Geometry",
+      "categories": [
+        "basic-geometry",
+        "creative-play"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/12-15-51-SOL-8-Octa-unfold/SOL-8-Octa-unfold.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/12-15-51-SOL-8-Octa-unfold/SOL-8-Octa-unfold.png",
+      "pieces": 30,
+      "kits": [
+        "Green Lines",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-07-18-12-13-53-sol-8-octahedron-sol-8-octahedron",
+      "title": "Octahedron with cube dual",
+      "collection": "Plato's Solids",
+      "badge": "Geometric Beauty",
+      "categories": [
+        "geometric-beauty",
+        "basic-geometry"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/12-13-53-SOL-8-Octahedron/SOL-8-Octahedron.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/12-13-53-SOL-8-Octahedron/SOL-8-Octahedron.png",
+      "pieces": 49,
+      "kits": [
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2024-05-09-13-16-00-phage-phage",
+      "title": "Phage Virus",
+      "collection": "Phage Virus",
+      "badge": "Molecules & Crystals",
+      "categories": [
+        "molecules-crystals"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2024/05/09/13-16-00-Phage/Phage.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2024/05/09/13-16-00-Phage/Phage.png",
+      "pieces": 195,
+      "kits": []
+    },
+    {
+      "id": "2025-07-21-14-53-32-cry-tetragonal-p-all-cry-tetragonal-p-all",
+      "title": "Tetragonal",
+      "collection": "Crystallography",
+      "badge": "Molecules & Crystals",
+      "categories": [
+        "molecules-crystals"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/21/14-53-32-CRY-Tetragonal-P-All/CRY-Tetragonal-P-All.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/21/14-53-32-CRY-Tetragonal-P-All/CRY-Tetragonal-P-All.png",
+      "pieces": 26,
+      "kits": [
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-07-18-11-27-16-sol-4-tetra-unfold-sol-4-tetra-unfold",
+      "title": "Tetrahedron unfold",
+      "collection": "Plato's Solids",
+      "badge": "Basic Geometry",
+      "categories": [
+        "basic-geometry",
+        "creative-play"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/11-27-16-SOL-4-Tetra-Unfold/SOL-4-Tetra-Unfold.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/11-27-16-SOL-4-Tetra-Unfold/SOL-4-Tetra-Unfold.png",
+      "pieces": 22,
+      "kits": [
+        "Green Lines",
+        "Creator 3 Pro",
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2025-07-18-11-25-39-sol-4-tetra-sol-4-tetra",
+      "title": "Tetrahedron/dual",
+      "collection": "Plato's Solids",
+      "badge": "Geometric Beauty",
+      "categories": [
+        "geometric-beauty",
+        "basic-geometry"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/11-25-39-SOL-4-Tetra/SOL-4-Tetra.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2025/07/18/11-25-39-SOL-4-Tetra/SOL-4-Tetra.png",
+      "pieces": 48,
+      "kits": [
+        "STEAM Kit"
+      ]
+    },
+    {
+      "id": "2024-09-05-09-19-25-trimtab-trimtab",
+      "title": "Trimtab Geometric Sculpture",
+      "collection": "Art & Kinetic Sculptures",
+      "badge": "Art & Sculpture",
+      "categories": [
+        "art-gallery"
+      ],
+      "vzome": "https://linusschoch.github.io/vzome-sharing-linus/2024/09/05/09-19-25-Trimtab/Trimtab.vZome",
+      "png": "https://linusschoch.github.io/vzome-sharing-linus/2024/09/05/09-19-25-Trimtab/Trimtab.png",
+      "pieces": 146,
+      "kits": []
     }
   ]
 }
